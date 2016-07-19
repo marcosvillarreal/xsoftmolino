@@ -1,0 +1,404 @@
+01-04-2016 , Version 2.10d InstallDir C:\ARCHIV~1\PyAfipWsCodigo error afip:0Numero de Error: 1429Mensaje de Error: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 118, in sign_tra
+  File "subprocess.pyc", line 710, in __init__
+  File "subprocess.pyc", line 958, in _execute_child
+WindowsError: [Error 2] El sistema no puede hallar el archivo especificado
+Linea de codigo de error: Procedimiento: sw_iniciarError VFP: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 118, in sign_tra
+  File "subprocess.pyc", line 710, in __init__
+  File "subprocess.pyc", line 958, in _execute_child
+WindowsError: [Error 2] El sistema no puede hallar el archivo especificado
+.Exepción: WindowsError: [Error 2] El sistema no puede hallar el archivo especificado
+Traceback: Traceback (most recent call last):
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 118, in sign_tra
+  File "subprocess.pyc", line 710, in __init__
+  File "subprocess.pyc", line 958, in _execute_child
+WindowsError: [Error 2] El sistema no puede hallar el archivo especificado
+
+01-04-2016 , Version 2.10d InstallDir C:\ARCHIV~1\PyAfipWsCodigo error afip:0Numero de Error: 1429Mensaje de Error: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 118, in sign_tra
+  File "subprocess.pyc", line 710, in __init__
+  File "subprocess.pyc", line 958, in _execute_child
+WindowsError: [Error 2] El sistema no puede hallar el archivo especificado
+Linea de codigo de error: Procedimiento: sw_iniciarError VFP: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 118, in sign_tra
+  File "subprocess.pyc", line 710, in __init__
+  File "subprocess.pyc", line 958, in _execute_child
+WindowsError: [Error 2] El sistema no puede hallar el archivo especificado
+.Exepción: WindowsError: [Error 2] El sistema no puede hallar el archivo especificado
+Traceback: Traceback (most recent call last):
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 118, in sign_tra
+  File "subprocess.pyc", line 710, in __init__
+  File "subprocess.pyc", line 958, in _execute_child
+WindowsError: [Error 2] El sistema no puede hallar el archivo especificado
+
+01-04-2016 , Version 2.10d InstallDir C:\ARCHIV~1\PyAfipWsCodigo error afip:0Numero de Error: 1429Mensaje de Error: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 118, in sign_tra
+  File "subprocess.pyc", line 710, in __init__
+  File "subprocess.pyc", line 958, in _execute_child
+WindowsError: [Error 2] El sistema no puede hallar el archivo especificado
+Linea de codigo de error: SELECT CsrAuxcuerfac
+Procedimiento: sw_iniciarError VFP: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 118, in sign_tra
+  File "subprocess.pyc", line 710, in __init__
+  File "subprocess.pyc", line 958, in _execute_child
+WindowsError: [Error 2] El sistema no puede hallar el archivo especificado
+.Exepción: WindowsError: [Error 2] El sistema no puede hallar el archivo especificado
+Traceback: Traceback (most recent call last):
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 118, in sign_tra
+  File "subprocess.pyc", line 710, in __init__
+  File "subprocess.pyc", line 958, in _execute_child
+WindowsError: [Error 2] El sistema no puede hallar el archivo especificado
+
+06-06-2016 , Version 2.10d InstallDir C:\PROGRA~1\PyAfipWsCodigo error afip:0Numero de Error: 1429Mensaje de Error: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+Linea de codigo de error: Procedimiento: sw_iniciarError VFP: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+.Exepción: RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+Traceback: Traceback (most recent call last):
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+
+06-06-2016 , Version 2.10d InstallDir C:\PROGRA~1\PyAfipWsCodigo error afip:0Numero de Error: 1429Mensaje de Error: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+Linea de codigo de error: SELECT CsrAuxcuerfac
+Procedimiento: sw_iniciarError VFP: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+.Exepción: RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+Traceback: Traceback (most recent call last):
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+
+06-06-2016 , Version 2.10d InstallDir C:\PROGRA~1\PyAfipWsCodigo error afip:0Numero de Error: 1429Mensaje de Error: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+Linea de codigo de error: SELECT CsrAuxcuerfac
+Procedimiento: sw_iniciarError VFP: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+.Exepción: RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+Traceback: Traceback (most recent call last):
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+
+06-06-2016 , Version 2.10d InstallDir C:\PROGRA~1\PyAfipWsCodigo error afip:0Numero de Error: 1429Mensaje de Error: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+Linea de codigo de error: SELECT CsrAuxcuerfac
+Procedimiento: sw_iniciarError VFP: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+.Exepción: RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+Traceback: Traceback (most recent call last):
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+
+10-06-2016 , Version 2.10d InstallDir C:\PROGRA~1\PyAfipWsCodigo error afip:0Numero de Error: 1429Mensaje de Error: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+Linea de codigo de error: SELECT CsrAuxcuerfac
+Procedimiento: sw_iniciarError VFP: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+.Exepción: RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+Traceback: Traceback (most recent call last):
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+
+10-06-2016 , Version 2.10d InstallDir C:\PROGRA~1\PyAfipWsCodigo error afip:0Numero de Error: 1429Mensaje de Error: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+Linea de codigo de error: SELECT CsrAuxcuerfac
+Procedimiento: sw_iniciarError VFP: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+.Exepción: RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+Traceback: Traceback (most recent call last):
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+
+15-06-2016 , Version 2.10d InstallDir C:\PROGRA~1\PyAfipWsCodigo error afip:0Numero de Error: 1429Mensaje de Error: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+Linea de codigo de error: SELECT CsrAuxcuerfac
+Procedimiento: sw_iniciarError VFP: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+.Exepción: RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+Traceback: Traceback (most recent call last):
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+
+15-06-2016 , Version 2.10d InstallDir C:\PROGRA~1\PyAfipWsCodigo error afip:0Numero de Error: 1429Mensaje de Error: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+Linea de codigo de error: SELECT CsrAuxcuerfac
+Procedimiento: sw_iniciarError VFP: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+.Exepción: RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+Traceback: Traceback (most recent call last):
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "wsaa.pyc", line 248, in SignTRA
+  File "wsaa.pyc", line 96, in sign_tra
+RuntimeError: Archivos no encontrados: C:\APLICACIONES\ALARCIA\AfipCert\Gestion.key                   , C:\APLICACIONES\ALARCIA\AfipCert\Alarcia.crt                   
+
+15-06-2016 , Version 2.10d InstallDir C:\PROGRA~1\PyAfipWs1.16d C:\PROGRA~1\PyAfipWsCodigo error afip:*****Numero de Error: 1429Mensaje de Error: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "utils.pyc", line 377, in SetTicketAcceso
+RuntimeError: Ticket de Acceso vacio!
+Linea de codigo de error: SELECT CsrAuxcuerfac
+Procedimiento: sw_conectarError VFP: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "utils.pyc", line 377, in SetTicketAcceso
+RuntimeError: Ticket de Acceso vacio!
+.Exepción: RuntimeError: Ticket de Acceso vacio!
+Traceback: Traceback (most recent call last):
+  File "utils.pyc", line 150, in capturar_errores_wrapper
+  File "utils.pyc", line 377, in SetTicketAcceso
+RuntimeError: Ticket de Acceso vacio!
+
+15-06-2016 , Version 2.10d InstallDir C:\PROGRA~1\PyAfipWs1.16d C:\PROGRA~1\PyAfipWsCodigo error afip:*****Numero de Error: 1429Mensaje de Error: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 269, in Conectar
+  File "pysimplesoap\client.pyc", line 139, in __init__
+  File "pysimplesoap\client.pyc", line 457, in wsdl_parse
+  File "pysimplesoap\client.pyc", line 451, in fetch
+IOError: [Errno 13] Permission denied: 'C:\\PROGRA~1\\PyAfipWs\\cache\\e01ef1198d5df919196d4832ec340c56.xml'
+Linea de codigo de error: Procedimiento: sw_conectarError VFP: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 269, in Conectar
+  File "pysimplesoap\client.pyc", line 139, in __init__
+  File "pysimplesoap\client.pyc", line 457, in wsdl_parse
+  File "pysimplesoap\client.pyc", line 451, in fetch
+IOError: [Errno 13] Permission denied: 'C:\\PROGRA~1\\PyAfipWs\\cache\\e01ef1198d5df919196d4832ec340c56.xml'
+.Exepción: IOError: [Errno 13] Permission denied: 'C:\\PROGRA~1\\PyAfipWs\\cache\\e01ef1198d5df919196d4832ec340c56.xml'
+Traceback: Traceback (most recent call last):
+  File "utils.pyc", line 269, in Conectar
+  File "pysimplesoap\client.pyc", line 139, in __init__
+  File "pysimplesoap\client.pyc", line 457, in wsdl_parse
+  File "pysimplesoap\client.pyc", line 451, in fetch
+IOError: [Errno 13] Permission denied: 'C:\\PROGRA~1\\PyAfipWs\\cache\\e01ef1198d5df919196d4832ec340c56.xml'
+
+15-06-2016 , Version 2.10d InstallDir C:\PROGRA~1\PyAfipWs1.16d C:\PROGRA~1\PyAfipWsCodigo error afip:*****Numero de Error: 1429Mensaje de Error: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 269, in Conectar
+  File "pysimplesoap\client.pyc", line 139, in __init__
+  File "pysimplesoap\client.pyc", line 457, in wsdl_parse
+  File "pysimplesoap\client.pyc", line 451, in fetch
+IOError: [Errno 13] Permission denied: 'C:\\PROGRA~1\\PyAfipWs\\cache\\e01ef1198d5df919196d4832ec340c56.xml'
+Linea de codigo de error: Procedimiento: sw_conectarError VFP: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 269, in Conectar
+  File "pysimplesoap\client.pyc", line 139, in __init__
+  File "pysimplesoap\client.pyc", line 457, in wsdl_parse
+  File "pysimplesoap\client.pyc", line 451, in fetch
+IOError: [Errno 13] Permission denied: 'C:\\PROGRA~1\\PyAfipWs\\cache\\e01ef1198d5df919196d4832ec340c56.xml'
+.Exepción: IOError: [Errno 13] Permission denied: 'C:\\PROGRA~1\\PyAfipWs\\cache\\e01ef1198d5df919196d4832ec340c56.xml'
+Traceback: Traceback (most recent call last):
+  File "utils.pyc", line 269, in Conectar
+  File "pysimplesoap\client.pyc", line 139, in __init__
+  File "pysimplesoap\client.pyc", line 457, in wsdl_parse
+  File "pysimplesoap\client.pyc", line 451, in fetch
+IOError: [Errno 13] Permission denied: 'C:\\PROGRA~1\\PyAfipWs\\cache\\e01ef1198d5df919196d4832ec340c56.xml'
+
+15-06-2016 , Version 2.10d InstallDir C:\PROGRA~1\PyAfipWs1.16d C:\PROGRA~1\PyAfipWsCodigo error afip:*****Numero de Error: 1429Mensaje de Error: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 269, in Conectar
+  File "pysimplesoap\client.pyc", line 139, in __init__
+  File "pysimplesoap\client.pyc", line 457, in wsdl_parse
+  File "pysimplesoap\client.pyc", line 451, in fetch
+IOError: [Errno 13] Permission denied: 'C:\\PROGRA~1\\PyAfipWs\\cache\\e01ef1198d5df919196d4832ec340c56.xml'
+Linea de codigo de error: Procedimiento: sw_conectarError VFP: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 269, in Conectar
+  File "pysimplesoap\client.pyc", line 139, in __init__
+  File "pysimplesoap\client.pyc", line 457, in wsdl_parse
+  File "pysimplesoap\client.pyc", line 451, in fetch
+IOError: [Errno 13] Permission denied: 'C:\\PROGRA~1\\PyAfipWs\\cache\\e01ef1198d5df919196d4832ec340c56.xml'
+.Exepción: IOError: [Errno 13] Permission denied: 'C:\\PROGRA~1\\PyAfipWs\\cache\\e01ef1198d5df919196d4832ec340c56.xml'
+Traceback: Traceback (most recent call last):
+  File "utils.pyc", line 269, in Conectar
+  File "pysimplesoap\client.pyc", line 139, in __init__
+  File "pysimplesoap\client.pyc", line 457, in wsdl_parse
+  File "pysimplesoap\client.pyc", line 451, in fetch
+IOError: [Errno 13] Permission denied: 'C:\\PROGRA~1\\PyAfipWs\\cache\\e01ef1198d5df919196d4832ec340c56.xml'
+
+15-06-2016 , Version 2.10d InstallDir C:\PROGRA~1\PyAfipWs1.16d C:\PROGRA~1\PyAfipWsCodigo error afip:*****Numero de Error: 1429Mensaje de Error: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 269, in Conectar
+  File "pysimplesoap\client.pyc", line 139, in __init__
+  File "pysimplesoap\client.pyc", line 457, in wsdl_parse
+  File "pysimplesoap\client.pyc", line 451, in fetch
+IOError: [Errno 13] Permission denied: 'C:\\PROGRA~1\\PyAfipWs\\cache\\e01ef1198d5df919196d4832ec340c56.xml'
+Linea de codigo de error: Procedimiento: sw_conectarError VFP: Código de excepción OLE IDispatch 0 de Python COM Server Internal Error: Unexpected Python Error: Traceback (most recent call last):
+  File "win32com\server\policy.pyc", line 277, in _Invoke_
+  File "win32com\server\policy.pyc", line 282, in _invoke_
+  File "win32com\server\policy.pyc", line 585, in _invokeex_
+  File "utils.pyc", line 269, in Conectar
+  File "pysimplesoap\client.pyc", line 139, in __init__
+  File "pysimplesoap\client.pyc", line 457, in wsdl_parse
+  File "pysimplesoap\client.pyc", line 451, in fetch
+IOError: [Errno 13] Permission denied: 'C:\\PROGRA~1\\PyAfipWs\\cache\\e01ef1198d5df919196d4832ec340c56.xml'
+.Exepción: IOError: [Errno 13] Permission denied: 'C:\\PROGRA~1\\PyAfipWs\\cache\\e01ef1198d5df919196d4832ec340c56.xml'
+Traceback: Traceback (most recent call last):
+  File "utils.pyc", line 269, in Conectar
+  File "pysimplesoap\client.pyc", line 139, in __init__
+  File "pysimplesoap\client.pyc", line 457, in wsdl_parse
+  File "pysimplesoap\client.pyc", line 451, in fetch
+IOError: [Errno 13] Permission denied: 'C:\\PROGRA~1\\PyAfipWs\\cache\\e01ef1198d5df919196d4832ec340c56.xml'
+

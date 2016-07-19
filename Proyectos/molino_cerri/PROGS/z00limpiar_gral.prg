@@ -1,0 +1,67 @@
+PARAMETERS ldfecha,lcpath,lcBase
+LOCAL lcfecha,lnid,lcData
+lcfecha = IIF(PCOUNT()< 1,"01-08-2010",DTOC(ldfecha))
+lcpath = IIF(PCOUNT()<2,"",lcpath)
+lcData = lcBase
+
+DO setup
+SET PROCEDURE  TO  proc.prg ADDITIVE  && Procedimientos generales
+SET PROCEDURE  TO  syserror.prg ADDITIVE  
+
+SET SAFETY OFF
+
+Oavisar.proceso('S','Abriendo archivos') 
+TEXT TO lccmd TEXTMERGE NOSHOW 
+SELECT CsrParaConta.* FROM ParaConta as CsrParaConta
+where idejercicio = <<goapp.idejercicio>>
+ENDTEXT 
+IF !CrearCursorAdapter('CsrParaConta',lccmd)
+	MESSAGEBOX('Nose puede importar, pq no cargado el CsrParaConta')
+	RETURN .f.
+ENDIF 
+
+Oavisar.proceso('S','Vaciando archivos') 
+
+SET CPCOMPILE TO 1252
+codepage = 1252
+SET CPDIALOG ON
+
+llok = .t.
+llok = CargarTabla(lcData,'Maopera',.t.)
+llok = CargarTabla(lcData,'MovCtacte',.t.)
+llok = CargarTabla(lcData,'CabeCpra',.t.)
+llok = CargarTabla(lcData,'CabeFac',.t.)
+llok = CargarTabla(lcData,'CuerFac',.t.)
+llok = CargarTabla(lcData,'CuerVari',.t.)
+llok = CargarTabla(lcData,'CuerCpra',.t.)
+llok = CargarTabla(lcData,'TablaImp',.t.)
+llok = CargarTabla(lcData,'RenCtacte',.t.)
+llok = CargarTabla(lcData,'MovCaja',.t.)
+llok = CargarTabla(lcData,'MovBcocar',.t.)
+llok = CargarTabla(lcData,'MovBcoDeta',.t.)
+llok = CargarTabla(lcData,'FuerzaVta',.t.)
+llok = CargarTabla(lcData,'CabeAsi',.t.)
+llok = CargarTabla(lcData,'AfeBcocar',.t.)
+llok = CargarTabla(lcData,'AfeCtacte',.t.)
+llok = CargarTabla(lcData,'Emaopera',.t.)
+llok = CargarTabla(lcData,'TablaAsi',.t.)
+
+llok = CargarTabla(lcData,'TablaOpe',.t.)
+SET SAFETY ON 
+IF !llok
+	RETURN .f.
+ENDIF
+
+LOCAL lnid
+lnid 			= RecuperarID('CsrFuerzaVta',Goapp.sucursal10)
+
+INSERT INTO Csrfuerzavta (id,numero,nombre) VALUES (lnid,1,"FUERZA VTA 1")
+lnid = lnid + 1 
+INSERT INTO Csrfuerzavta (id,numero,nombre) VALUES (lnid,2,"FUERZA VTA 2")
+
+
+Oavisar.proceso('N') 
+=MESSAGEBOX('Proceso terminado! ')
+CLOSE tables
+CLOSE INDEXES
+CLOSE DATABASES

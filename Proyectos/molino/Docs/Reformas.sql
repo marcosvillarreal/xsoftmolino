@@ -1,0 +1,9 @@
+--MOLINO
+--use ttsa
+--Ctacte.direccdescarga char(30) NULL
+--afestockrto.id     numeric(12,0) clave
+--afestockrto.idcuerfac     numeric(12,0)
+--Cabefac.noStock numeric(1,0) NULL
+--prefijonro.activocae  numeric(1) NULL
+--prefijonro.activocaea numeric(1) NULL
+--update prefijonro set activocae=0,activocaea=0

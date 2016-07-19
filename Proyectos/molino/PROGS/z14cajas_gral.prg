@@ -1,0 +1,102 @@
+PARAMETERS ldfecha,lcpath,lcBase
+LOCAL lcfecha,lnid,lcData
+lcfecha = IIF(PCOUNT()< 1,"01-08-2010",DTOC(ldfecha))
+lcpath = IIF(PCOUNT()<2,"",lcpath)
+lcData = lcBase
+
+DO setup
+SET PROCEDURE  TO  proc.prg ADDITIVE  && Procedimientos generales
+SET PROCEDURE  TO  syserror.prg ADDITIVE  
+
+SET SAFETY OFF
+
+Oavisar.proceso('S','Abriendo archivos') 
+TEXT TO lccmd TEXTMERGE NOSHOW 
+SELECT CsrParaConta.* FROM ParaConta as CsrParaConta
+where idejercicio = <<goapp.idejercicio>>
+ENDTEXT 
+IF !CrearCursorAdapter('CsrParaConta',lccmd)
+	MESSAGEBOX('Nose puede importar, pq no cargado el CsrParaConta')
+	RETURN .f.
+ENDIF 
+
+Oavisar.proceso('S','Vaciando archivos') 
+
+SET CPCOMPILE TO 1252
+codepage = 1252
+SET CPDIALOG ON
+
+llok = .t.
+
+llok = CargarTabla(lcData,'DetaNroCaja',.t.)
+
+SET SAFETY ON 
+IF !llok
+	RETURN .f.
+ENDIF
+
+USE ALLTRIM(lcpath)+"\gestion\cajas" IN 0 ALIAS FsrCaja EXCLUSIVE 
+
+LOCAL lnid
+
+STORE 0 TO lnidejercicio,lndebe,lnhaber,lnsaldo,lnnrocaja
+STORE "" TO lcpefiscal,lcswitch
+STORE CTOD('01-01-1900') TO ldfecdesde,ldfechasta
+
+lniddetanrocaja = RecuperarID('CsrDetanroCaja',Goapp.sucursal10)
+lnidejercicio	= CsrParaConta.idejercicio
+
+SELECT FsrCaja.* FROM FsrCaja ORDER BY caja INTO CURSOR FsrCajas READWRITE 
+
+LOCAL lnSaldoBase,lnSaldoAnt
+STORE 0 TO lnSaldoBase,lnSaldoAnt
+
+
+SELECT FsrCajas
+GO TOP 
+SCAN 
+	IF FsrCajas.fecha < ldfecha
+		lnSaldoBase = FsrCajas.saldo
+		LOOP 		
+	ENDIF 
+	IF lnSaldoBase !=0
+		lnnrocaja	= VAL(DTOS(ldfecha -1))
+		lcpefiscal	= LEFT(STR(lnnrocaja,8),6)
+		ldfecdesde	= ldfecha - 1
+		ldfechasta	= ldfecha - 1
+		lndebe		= 0
+		lnhaber		= 0
+		lcswitch	= "0000000000"
+			
+		INSERT INTO Csrdetanrocaja(id,idejercicio,nrocaja,pefiscal,fecdesde,fechasta,debe,haber,saldo,switch);
+			VALUES(lniddetanrocaja,lnidejercicio,lnnrocaja,lcpefiscal,ldfecdesde,ldfechasta,lndebe,lnhaber;
+			,lnsaldobase,lcswitch)
+		lniddetanrocaja = lniddetanrocaja + 1 
+		
+		lnSaldoAnt  = lnSaldoBase
+		lnSaldoBase = 0
+	ENDIF 
+	
+	lnnrocaja	= VAL(DTOS(FsrCajas.fecha))
+	lcpefiscal	= LEFT(STR(lnnrocaja,8),6)
+	ldfecdesde	= FsrCajas.fecha
+	ldfechasta	= FsrCajas.fecha
+	lndebe		= 0
+	lnhaber		= 0
+	lnsaldo		= FsrCajas.saldo - lnSaldoAnt
+	lcswitch	= "0000000000"
+	
+	lnSaldoAnt	= FsrCajas.Saldo
+	
+	INSERT INTO Csrdetanrocaja(id,idejercicio,nrocaja,pefiscal,fecdesde,fechasta,debe,haber,saldo,switch);
+	VALUES(lniddetanrocaja,lnidejercicio,lnnrocaja,lcpefiscal,ldfecdesde,ldfechasta,lndebe,lnhaber;
+	,lnsaldo,lcswitch)
+	
+	lniddetanrocaja = lniddetanrocaja + 1 
+ENDSCAN 
+
+Oavisar.proceso('N') 
+=MESSAGEBOX('Proceso terminado! ')
+CLOSE tables
+CLOSE INDEXES
+CLOSE DATABASES

@@ -1,0 +1,2 @@
+17-11-2014 , La tabla "C:\Users\Chivi\AppData\Local\Temp\00004B2H088P.TMP" tiene una inconsistencia de longitud de archivo o recuento de registros que no permite realizar esta transacción. Abra la tabla en modo exclusivo y empaquétela.
+17-11-2014 , La tabla "C:\Users\Chivi\AppData\Local\Temp\00004B2H0FAA.TMP" tiene una inconsistencia de longitud de archivo o recuento de registros que no permite realizar esta transacción. Abra la tabla en modo exclusivo y empaquétela.

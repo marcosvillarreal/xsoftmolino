@@ -1,0 +1,4231 @@
+27-02-2015 13:08:26 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lisplancue.sct
+27-02-2015 13:08:26 , Nº de Linea :          1
+27-02-2015 13:08:26 , En el Fuente: this.armaselect()
+27-02-2015 13:10:08 , LISMAYOR.FILTROCONTABLE1.CLICK, Error: No se encuentra la propiedad ARMASELECT.;Linea : thisform.armaselect();Error :       1734;Ultimo Alias Activo: CSRARBOL;Ultimo registro:         13 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIH2UFJ.TMP;Ultimo Control activo: 
+27-02-2015 13:10:08 , Pila de llamadas
+27-02-2015 13:10:08 , Programa    : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:10:08 , Objeto      : lismayor.filtrocontable1.click
+27-02-2015 13:10:08 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:10:08 , Nº de Linea :          2
+27-02-2015 13:10:08 , En el Fuente: DODEFAULT()
+27-02-2015 13:10:08 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:10:08 , Objeto      : filtrocontable.click
+27-02-2015 13:10:08 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:10:08 , Nº de Linea :          7
+27-02-2015 13:10:09 , En el Fuente: DO FORM lisplancue WITH oParametro TO lccmdSelect
+27-02-2015 13:10:09 , Programa    : c:\xsoftmolino\proyectos\molino\forms\lisplancue.sct
+27-02-2015 13:10:09 , Objeto      : lisplancue.cmdbuscar.click
+27-02-2015 13:10:09 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lisplancue.sct
+27-02-2015 13:10:09 , Nº de Linea :          1
+27-02-2015 13:10:09 , En el Fuente: thisform.armaselect()
+27-02-2015 13:15:34 , LISMAYOR.FILTROCONTABLE1.CLICK, Error: PAGE1 es un miembro desconocido.;Linea : oObjBinder	= &cObjBinder;Error :       1925;Ultimo Alias Activo: CSRAUXVARIO;Ultimo registro:          1 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00002FI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+H39XC.TMP;Ultimo Control activo: 
+27-02-2015 13:15:34 , Pila de llamadas
+27-02-2015 13:15:34 , Programa    : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:15:34 , Objeto      : lismayor.filtrocontable1.click
+27-02-2015 13:15:34 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:15:34 , Nº de Linea :          2
+27-02-2015 13:15:34 , En el Fuente: DODEFAULT()
+27-02-2015 13:15:34 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:15:34 , Objeto      : filtrocontable.click
+27-02-2015 13:15:35 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:15:35 , Nº de Linea :         12
+27-02-2015 13:15:35 , En el Fuente: 	this.leerplancue(lcCmdselect)
+27-02-2015 13:15:35 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:15:35 , Objeto      : lismayor.filtrocontable1.leerplancue
+27-02-2015 13:15:35 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:15:35 , Nº de Linea :          9
+27-02-2015 13:15:35 , En el Fuente: oObjBinder	= &cObjBinder
+27-02-2015 13:18:58 , LISMAYOR.FILTROCONTABLE1.CLICK, Error: No se encuentra la propiedad TILDARTODOS.;Linea : lnok = oObjBinder.tildartodos;Error :       1734;Ultimo Alias Activo: CSRPLANCUE;Ultimo registro:          1 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\TEMP\00002FIH3P89.TMP;Ultimo Control activo: 
+27-02-2015 13:18:58 , Pila de llamadas
+27-02-2015 13:18:59 , Programa    : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:18:59 , Objeto      : lismayor.filtrocontable1.click
+27-02-2015 13:18:59 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:18:59 , Nº de Linea :          2
+27-02-2015 13:18:59 , En el Fuente: DODEFAULT()
+27-02-2015 13:18:59 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:18:59 , Objeto      : filtrocontable.click
+27-02-2015 13:18:59 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:18:59 , Nº de Linea :         12
+27-02-2015 13:18:59 , En el Fuente: 	this.leerplancue(lcCmdselect)
+27-02-2015 13:18:59 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:18:59 , Objeto      : lismayor.filtrocontable1.leerplancue
+27-02-2015 13:18:59 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:18:59 , Nº de Linea :         25
+27-02-2015 13:18:59 , En el Fuente: lnok = oObjBinder.tildartodos
+27-02-2015 13:19:06 , LISMAYOR.FILTROCONTABLE1.CLICK, Error: No se encuentra la variable 'LNOK'.;Linea : REPLACE ALL ok WITH lnok;Error :         12;Ultimo Alias Activo: _CSRPLANCUE;Ultimo registro:          1 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2FIH3P8F.TMP;Ultimo Control activo: 
+27-02-2015 13:19:06 , Pila de llamadas
+27-02-2015 13:19:06 , Programa    : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:19:06 , Objeto      : lismayor.filtrocontable1.click
+27-02-2015 13:19:06 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:19:06 , Nº de Linea :          2
+27-02-2015 13:19:06 , En el Fuente: DODEFAULT()
+27-02-2015 13:19:06 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:19:06 , Objeto      : filtrocontable.click
+27-02-2015 13:19:07 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:19:07 , Nº de Linea :         12
+27-02-2015 13:19:07 , En el Fuente: 	this.leerplancue(lcCmdselect)
+27-02-2015 13:19:07 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:19:07 , Objeto      : lismayor.filtrocontable1.leerplancue
+27-02-2015 13:19:07 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:19:07 , Nº de Linea :         35
+27-02-2015 13:19:07 , En el Fuente: REPLACE ALL ok WITH lnok
+27-02-2015 13:22:22 , LISMAYOR.FILTROCONTABLE1.CLICK, Error: LOOBJNAVEGA no es un objeto.;Linea : loObjnavega.RecordSource='';Error :       1924;Ultimo Alias Activo: CSRAUXVARIO;Ultimo registro:          1 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00002FIH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3PBF.TMP;Ultimo Control activo: 
+27-02-2015 13:22:22 , Pila de llamadas
+27-02-2015 13:22:22 , Programa    : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:22:22 , Objeto      : lismayor.filtrocontable1.click
+27-02-2015 13:22:22 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:22:22 , Nº de Linea :          2
+27-02-2015 13:22:22 , En el Fuente: DODEFAULT()
+27-02-2015 13:22:22 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:22:22 , Objeto      : filtrocontable.click
+27-02-2015 13:22:22 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:22:22 , Nº de Linea :         12
+27-02-2015 13:22:23 , En el Fuente: 	this.leerplancue(lcCmdselect)
+27-02-2015 13:22:23 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:22:23 , Objeto      : lismayor.filtrocontable1.leerplancue
+27-02-2015 13:22:23 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:22:23 , Nº de Linea :         13
+27-02-2015 13:22:23 , En el Fuente: thisform.bindergridoff(RTRIM(cObjBinder)+'BuscarGrd1',cAlias,@cCtrlSource,aColOdataNavega)
+27-02-2015 13:22:23 , Programa    : c:\xsoftmolino\desarrollo\clases\forms.vct
+27-02-2015 13:22:23 , Objeto      : lismayor.bindergridoff
+27-02-2015 13:22:23 , Base Objeto : c:\xsoftmolino\desarrollo\clases\forms.vct
+27-02-2015 13:22:23 , Nº de Linea :         28
+27-02-2015 13:22:23 , En el Fuente:     loObjnavega.RecordSource=''
+27-02-2015 13:23:28 , LISMAYOR.FILTROCONTABLE1.CLICK, Error: LOOBJNAVEGA no es un objeto.;Linea : loObjnavega.RecordSource='';Error :       1924;Ultimo Alias Activo: CSRAUXVARIO;Ultimo registro:          1 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00002FIH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3UFN.TMP;Ultimo Control activo: 
+27-02-2015 13:23:28 , Pila de llamadas
+27-02-2015 13:23:28 , Programa    : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:23:28 , Objeto      : lismayor.filtrocontable1.click
+27-02-2015 13:23:28 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:23:28 , Nº de Linea :          2
+27-02-2015 13:23:28 , En el Fuente: DODEFAULT()
+27-02-2015 13:23:28 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:23:28 , Objeto      : filtrocontable.click
+27-02-2015 13:23:29 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:23:29 , Nº de Linea :         12
+27-02-2015 13:23:29 , En el Fuente: 	this.leerplancue(lcCmdselect)
+27-02-2015 13:23:29 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:23:29 , Objeto      : lismayor.filtrocontable1.leerplancue
+27-02-2015 13:23:29 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:23:29 , Nº de Linea :         13
+27-02-2015 13:23:29 , En el Fuente: thisform.bindergridoff(RTRIM(cObjBinder)+'BuscarGrd1',cAlias,@cCtrlSource,aColOdataNavega)
+27-02-2015 13:23:29 , Programa    : c:\xsoftmolino\desarrollo\clases\forms.vct
+27-02-2015 13:23:29 , Objeto      : lismayor.bindergridoff
+27-02-2015 13:23:29 , Base Objeto : c:\xsoftmolino\desarrollo\clases\forms.vct
+27-02-2015 13:23:29 , Nº de Linea :         28
+27-02-2015 13:23:30 , En el Fuente:     loObjnavega.RecordSource=''
+27-02-2015 13:23:53 , LISMAYOR.FILTROCONTABLE1.CLICK, Error: El valor, tipo o número de argumentos no es válido para la función.;Linea : index on VAL(cnumero) tag cnumero OF &cAliasGrid;Error :         11;Ultimo Alias Activo: _CSRPLANCUE;Ultimo registro:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          7 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00002FIH3ZLW.TMP;Ultimo Control activo: 
+27-02-2015 13:23:53 , Pila de llamadas
+27-02-2015 13:23:53 , Programa    : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:23:53 , Objeto      : lismayor.filtrocontable1.click
+27-02-2015 13:23:53 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:23:53 , Nº de Linea :          2
+27-02-2015 13:23:53 , En el Fuente: DODEFAULT()
+27-02-2015 13:23:53 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:23:53 , Objeto      : filtrocontable.click
+27-02-2015 13:23:54 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:23:54 , Nº de Linea :         12
+27-02-2015 13:23:54 , En el Fuente: 	this.leerplancue(lcCmdselect)
+27-02-2015 13:23:54 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:23:54 , Objeto      : lismayor.filtrocontable1.leerplancue
+27-02-2015 13:23:54 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:23:54 , Nº de Linea :         39
+27-02-2015 13:23:54 , En el Fuente: index on VAL(cnumero) tag cnumero OF &cAliasGrid
+27-02-2015 13:24:04 , LISMAYOR.FILTROCONTABLE1.CLICK, Error: LOOBJNAVEGA no es un objeto.;Linea : loObjnavega.RecordSource=lCaliasNavega;Error :       1924;Ultimo Alias Activo: _CSRPLANCUE;Ultimo registro:          1 CNOMBRE;DBF: C:\USERS\CHIVI\APPDATA\L
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OCAL\TEMP\00002FIH3ZLW.TMP;Ultimo Control activo: 
+27-02-2015 13:24:04 , Pila de llamadas
+27-02-2015 13:24:04 , Programa    : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:24:04 , Objeto      : lismayor.filtrocontable1.click
+27-02-2015 13:24:04 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:24:04 , Nº de Linea :          2
+27-02-2015 13:24:04 , En el Fuente: DODEFAULT()
+27-02-2015 13:24:04 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:24:04 , Objeto      : filtrocontable.click
+27-02-2015 13:24:05 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:24:05 , Nº de Linea :         12
+27-02-2015 13:24:05 , En el Fuente: 	this.leerplancue(lcCmdselect)
+27-02-2015 13:24:05 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:24:05 , Objeto      : lismayor.filtrocontable1.leerplancue
+27-02-2015 13:24:05 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:24:05 , Nº de Linea :         45
+27-02-2015 13:24:05 , En el Fuente: thisform.bindergridon(RTRIM(cObjBinder)+'BuscarGrd1',calias,cCtrlSource,AcolOdataNavega)
+27-02-2015 13:24:05 , Programa    : c:\xsoftmolino\desarrollo\clases\forms.vct
+27-02-2015 13:24:05 , Objeto      : lismayor.bindergridon
+27-02-2015 13:24:05 , Base Objeto : c:\xsoftmolino\desarrollo\clases\forms.vct
+27-02-2015 13:24:05 , Nº de Linea :          5
+27-02-2015 13:24:05 , En el Fuente:     loObjnavega.RecordSource=lCaliasNavega
+27-02-2015 13:28:15 , LISMAYOR.FILTROCONTABLE1.CLICK, Error: El origen de datos para este objeto debe ser una referencia de variable.;Linea : loObjcol.controlsource = lCaliasNavega+'.'+lccadena;Error :       1742;Ultimo Alias Activo: _CSRPLANCUE;Ultimo r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+egistro:          1 VAL(CNUMERO);DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00002FIH4EV7.TMP;Ultimo Control activo: 
+27-02-2015 13:28:15 , Pila de llamadas
+27-02-2015 13:28:16 , Programa    : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:28:16 , Objeto      : lismayor.filtrocontable1.click
+27-02-2015 13:28:16 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:28:16 , Nº de Linea :          2
+27-02-2015 13:28:16 , En el Fuente: DODEFAULT()
+27-02-2015 13:28:16 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:28:16 , Objeto      : filtrocontable.click
+27-02-2015 13:28:16 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:28:16 , Nº de Linea :         12
+27-02-2015 13:28:16 , En el Fuente: 	this.leerplancue(lcCmdselect)
+27-02-2015 13:28:16 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:28:16 , Objeto      : lismayor.filtrocontable1.leerplancue
+27-02-2015 13:28:16 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:28:16 , Nº de Linea :         45
+27-02-2015 13:28:16 , En el Fuente: thisform.bindergridon(RTRIM(cObjBinder)+'.BuscarGrd1',calias,cCtrlSource,AcolOdataNavega)
+27-02-2015 13:28:16 , Programa    : c:\xsoftmolino\desarrollo\clases\forms.vct
+27-02-2015 13:28:17 , Objeto      : lismayor.bindergridon
+27-02-2015 13:28:17 , Base Objeto : c:\xsoftmolino\desarrollo\clases\forms.vct
+27-02-2015 13:28:17 , Nº de Linea :         14
+27-02-2015 13:28:17 , En el Fuente:           loObjcol.controlsource = lCaliasNavega+'.'+lccadena
+27-02-2015 13:30:45 , LISMAYOR.FILTROCONTABLE1.CLICK, Error: El origen de datos para este objeto debe ser una referencia de variable.;Linea : loObjcol.controlsource = lCaliasNavega+'.'+lccadena;Error :       1742;Ultimo Alias Activo: _CSRPLANCUE;Ultimo r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+egistro:          1 VAL(CNUMERO);DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00002FIH4JYS.TMP;Ultimo Control activo: 
+27-02-2015 13:30:45 , Pila de llamadas
+27-02-2015 13:30:45 , Programa    : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:30:45 , Objeto      : lismayor.filtrocontable1.click
+27-02-2015 13:30:45 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:30:46 , Nº de Linea :          2
+27-02-2015 13:30:46 , En el Fuente: DODEFAULT()
+27-02-2015 13:30:46 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:30:46 , Objeto      : filtrocontable.click
+27-02-2015 13:30:46 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:30:46 , Nº de Linea :         12
+27-02-2015 13:30:46 , En el Fuente: 	this.leerplancue(lcCmdselect)
+27-02-2015 13:30:46 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:30:46 , Objeto      : lismayor.filtrocontable1.leerplancue
+27-02-2015 13:30:46 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:30:46 , Nº de Linea :         45
+27-02-2015 13:30:46 , En el Fuente: thisform.bindergridon(RTRIM(cObjBinder)+'.BuscarGrd1',calias,cCtrlSource,AcolOdataNavega)
+27-02-2015 13:30:46 , Programa    : c:\xsoftmolino\desarrollo\clases\forms.vct
+27-02-2015 13:30:47 , Objeto      : lismayor.bindergridon
+27-02-2015 13:30:47 , Base Objeto : c:\xsoftmolino\desarrollo\clases\forms.vct
+27-02-2015 13:30:47 , Nº de Linea :         14
+27-02-2015 13:30:47 , En el Fuente:           loObjcol.controlsource = lCaliasNavega+'.'+lccadena
+27-02-2015 13:30:58 , LISMAYOR.FILTROCONTABLE1.CLICK, Error: El origen de datos para este objeto debe ser una referencia de variable.;Linea : loObjcol.controlsource = lCaliasNavega+'.'+lccadena;Error :       1742;Ultimo Alias Activo: _CSRPLANCUE;Ultimo r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+egistro:          1 VAL(CNUMERO);DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00002FIH4JYS.TMP;Ultimo Control activo: 
+27-02-2015 13:30:58 , Pila de llamadas
+27-02-2015 13:30:58 , Programa    : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:30:58 , Objeto      : lismayor.filtrocontable1.click
+27-02-2015 13:30:58 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:30:58 , Nº de Linea :          2
+27-02-2015 13:30:58 , En el Fuente: DODEFAULT()
+27-02-2015 13:30:58 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:30:59 , Objeto      : filtrocontable.click
+27-02-2015 13:30:59 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:30:59 , Nº de Linea :         12
+27-02-2015 13:30:59 , En el Fuente: 	this.leerplancue(lcCmdselect)
+27-02-2015 13:30:59 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:30:59 , Objeto      : lismayor.filtrocontable1.leerplancue
+27-02-2015 13:30:59 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:30:59 , Nº de Linea :         45
+27-02-2015 13:30:59 , En el Fuente: thisform.bindergridon(RTRIM(cObjBinder)+'.BuscarGrd1',calias,cCtrlSource,AcolOdataNavega)
+27-02-2015 13:30:59 , Programa    : c:\xsoftmolino\desarrollo\clases\forms.vct
+27-02-2015 13:30:59 , Objeto      : lismayor.bindergridon
+27-02-2015 13:31:00 , Base Objeto : c:\xsoftmolino\desarrollo\clases\forms.vct
+27-02-2015 13:31:00 , Nº de Linea :         14
+27-02-2015 13:31:00 , En el Fuente:           loObjcol.controlsource = lCaliasNavega+'.'+lccadena
+27-02-2015 13:31:01 , LISMAYOR.FILTROCONTABLE1.CLICK, Error: El origen de datos para este objeto debe ser una referencia de variable.;Linea : loObjcol.controlsource = lCaliasNavega+'.'+lccadena;Error :       1742;Ultimo Alias Activo: _CSRPLANCUE;Ultimo r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+egistro:          1 VAL(CNUMERO);DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00002FIH4JYS.TMP;Ultimo Control activo: 
+27-02-2015 13:31:01 , Pila de llamadas
+27-02-2015 13:31:02 , Programa    : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:31:02 , Objeto      : lismayor.filtrocontable1.click
+27-02-2015 13:31:02 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:31:02 , Nº de Linea :          2
+27-02-2015 13:31:02 , En el Fuente: DODEFAULT()
+27-02-2015 13:31:02 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:31:02 , Objeto      : filtrocontable.click
+27-02-2015 13:31:02 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:31:02 , Nº de Linea :         12
+27-02-2015 13:31:02 , En el Fuente: 	this.leerplancue(lcCmdselect)
+27-02-2015 13:31:02 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:31:02 , Objeto      : lismayor.filtrocontable1.leerplancue
+27-02-2015 13:31:02 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:31:03 , Nº de Linea :         45
+27-02-2015 13:31:03 , En el Fuente: thisform.bindergridon(RTRIM(cObjBinder)+'.BuscarGrd1',calias,cCtrlSource,AcolOdataNavega)
+27-02-2015 13:31:03 , Programa    : c:\xsoftmolino\desarrollo\clases\forms.vct
+27-02-2015 13:31:03 , Objeto      : lismayor.bindergridon
+27-02-2015 13:31:03 , Base Objeto : c:\xsoftmolino\desarrollo\clases\forms.vct
+27-02-2015 13:31:03 , Nº de Linea :         14
+27-02-2015 13:31:03 , En el Fuente:           loObjcol.controlsource = lCaliasNavega+'.'+lccadena
+27-02-2015 13:32:21 , LISMAYOR.FILTROCONTABLE1.CLICK, Error: El origen de datos para este objeto debe ser una referencia de variable.;Linea : loObjcol.controlsource = lCaliasNavega+'.'+lccadena;Error :       1742;Ultimo Alias Activo: _CSRPLANCUE;Ultimo r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+egistro:          1 VAL(CNUMERO);DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00002FIH4P31.TMP;Ultimo Control activo: 
+27-02-2015 13:32:21 , Pila de llamadas
+27-02-2015 13:32:21 , Programa    : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:32:21 , Objeto      : lismayor.filtrocontable1.click
+27-02-2015 13:32:21 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lismayor.sct
+27-02-2015 13:32:21 , Nº de Linea :          2
+27-02-2015 13:32:21 , En el Fuente: DODEFAULT()
+27-02-2015 13:32:21 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:32:21 , Objeto      : filtrocontable.click
+27-02-2015 13:32:21 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:32:21 , Nº de Linea :         12
+27-02-2015 13:32:21 , En el Fuente: 	this.leerplancue(lcCmdselect)
+27-02-2015 13:32:21 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:32:21 , Objeto      : lismayor.filtrocontable1.leerplancue
+27-02-2015 13:32:21 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:32:21 , Nº de Linea :         46
+27-02-2015 13:32:21 , En el Fuente: thisform.bindergridon(RTRIM(cObjBinder)+'.BuscarGrd1',caliasGrid,cCtrlSource,AcolOdataNavega)
+27-02-2015 13:32:21 , Programa    : c:\xsoftmolino\desarrollo\clases\forms.vct
+27-02-2015 13:32:21 , Objeto      : lismayor.bindergridon
+27-02-2015 13:32:21 , Base Objeto : c:\xsoftmolino\desarrollo\clases\forms.vct
+27-02-2015 13:32:21 , Nº de Linea :         14
+27-02-2015 13:32:22 , En el Fuente:           loObjcol.controlsource = lCaliasNavega+'.'+lccadena
+27-02-2015 13:49:57 , LISMAYOR.FILTROCONTABLE1.CLICK, Error: No coinciden los tipos de datos.;Linea : REPLACE ALL ok WITH lnok;Error :          9;Ultimo Alias Activo: _CSRPLANCUE;Ultimo registro:          1 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00002FI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+H59G2.TMP;Ultimo Control activo: 
+27-02-2015 13:49:57 , Pila de llamadas
+27-02-2015 13:49:57 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:49:57 , Objeto      : lismayor.filtrocontable1.click
+27-02-2015 13:49:57 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:49:57 , Nº de Linea :         12
+27-02-2015 13:49:57 , En el Fuente: 		this.leerplancue(lcCmdselect)
+27-02-2015 13:49:57 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:49:57 , Objeto      : lismayor.filtrocontable1.leerplancue
+27-02-2015 13:49:57 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 13:49:57 , Nº de Linea :         36
+27-02-2015 13:49:57 , En el Fuente: REPLACE ALL ok WITH lnok
+27-02-2015 15:12:02 , LISMAYOR.FILTROCONTABLE1.CLICK, Error: No coinciden los tipos de datos.;Linea : IF LENtrim(cIdPlanCue);Error :          9;Ultimo Alias Activo: CSRARBOL;Ultimo registro:       1633 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00001AMH05TC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.TMP;Ultimo Control activo: 
+27-02-2015 15:12:02 , Pila de llamadas
+27-02-2015 15:12:02 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 15:12:02 , Objeto      : lismayor.filtrocontable1.click
+27-02-2015 15:12:02 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 15:12:02 , Nº de Linea :         10
+27-02-2015 15:12:02 , En el Fuente: DO FORM lisplancue WITH oParametro TO lccmdSelect
+27-02-2015 15:12:02 , Programa    : c:\xsoftmolino\proyectos\molino\forms\lisplancue.sct
+27-02-2015 15:12:02 , Objeto      : lisplancue.cmdbuscar.click
+27-02-2015 15:12:02 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lisplancue.sct
+27-02-2015 15:12:02 , Nº de Linea :          1
+27-02-2015 15:12:02 , En el Fuente: IF thisform.armarselect()
+27-02-2015 15:12:02 , Programa    : c:\xsoftmolino\proyectos\molino\forms\lisplancue.sct
+27-02-2015 15:12:02 , Objeto      : lisplancue.armarselect
+27-02-2015 15:12:02 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lisplancue.sct
+27-02-2015 15:12:03 , Nº de Linea :         18
+27-02-2015 15:12:03 , En el Fuente: IF LENtrim(cIdPlanCue)
+27-02-2015 15:22:47 , LISSUMASALDO_V0.PAGEFRAME1.PAGE1.KITGRILLATILDARPLANCUE.INIT, Error: El archivo 'csrplancue.dbf' no existe.;Linea : select 0 as ok,&lc2 as cnombre,&lc3 as cnumero,&lc4 as cid ,&lc5 as wcampo05,&lc6 as wcampo06,&lc7 as wcampo07 ,&lc8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ as wcampo08,&lc9 as wcampo09 from &lcalias order by &lcorden into cursor &micursor READWRITE;Error :          1;Ultimo Alias Activo: CSRORIGEN;Ultimo registro:          8 NUMERO;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00001AMH0Y8O.TMP;Ultimo Control acti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vo: 
+27-02-2015 15:22:48 , Pila de llamadas
+27-02-2015 15:22:48 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 15:22:48 , Objeto      : lissumasaldo_v0.pageframe1.page1.kitgrillatildarplancue.init
+27-02-2015 15:22:48 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 15:22:48 , Nº de Linea :         42
+27-02-2015 15:22:48 , En el Fuente:       select 0 as ok,&lc2 as cnombre,&lc3 as cnumero,&lc4 as cid         ,&lc5 as wcampo05,&lc6 as wcampo06,&lc7 as wcampo07         ,&lc8 as wcampo08,&lc9 as wcampo09       from &lcalias       order by &lcorden into c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ursor &micursor READWRITE
+27-02-2015 15:42:03 , MAIN, Error: No se encuentra el alias 'CSRSETEOTERMI'.;Linea : goapp.rutasalidareporte              = Csrseteotermi.numero;Error :         13;Ultimo Alias Activo: CSRPARAVARIO;Ultimo registro:          1 ;DBF: C:\USERS\CHIVI\APPDATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\LOCAL\TEMP\00001AMH2QCW.TMP;Ultimo Control activo: 
+27-02-2015 15:42:03 , Pila de llamadas
+27-02-2015 15:42:03 , Programa    : c:\xsoftmolino\proyectos\molino\progs\main.fxp
+27-02-2015 15:42:03 , Objeto      : main
+27-02-2015 15:42:03 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\main.prg
+27-02-2015 15:42:03 , Nº de Linea :        219
+27-02-2015 15:42:04 , En el Fuente: 	LeerEmpresa()
+27-02-2015 15:42:04 , Programa    : c:\xsoftmolino\proyectos\molino\progs\proc.fxp
+27-02-2015 15:42:04 , Objeto      : leerempresa
+27-02-2015 15:42:04 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\proc.prg
+27-02-2015 15:42:04 , Nº de Linea :       1629
+27-02-2015 15:42:04 , En el Fuente:    goapp.rutasalidareporte              = Csrseteotermi.numero
+27-02-2015 15:42:12 , MAIN, Error: No se encuentra el alias 'CSRSETEOTERMI'.;Linea : goapp.rutasalidareporte              = Csrseteotermi.numero;Error :         13;Ultimo Alias Activo: CSRPARAVARIO;Ultimo registro:          1 ;DBF: C:\USERS\CHIVI\APPDATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\LOCAL\TEMP\00001AMH2QD8.TMP;Ultimo Control activo: 
+27-02-2015 15:42:12 , Pila de llamadas
+27-02-2015 15:42:12 , Programa    : c:\xsoftmolino\proyectos\molino\progs\main.fxp
+27-02-2015 15:42:12 , Objeto      : main
+27-02-2015 15:42:12 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\main.prg
+27-02-2015 15:42:12 , Nº de Linea :        219
+27-02-2015 15:42:12 , En el Fuente: 	LeerEmpresa()
+27-02-2015 15:42:12 , Programa    : c:\xsoftmolino\proyectos\molino\progs\proc.fxp
+27-02-2015 15:42:12 , Objeto      : leerempresa
+27-02-2015 15:42:13 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\proc.prg
+27-02-2015 15:42:13 , Nº de Linea :       1629
+27-02-2015 15:42:13 , En el Fuente:    goapp.rutasalidareporte              = Csrseteotermi.numero
+27-02-2015 15:46:04 , LISBALGENERAL.INIT, Error: El archivo 'csrplancue.dbf' no existe.;Linea : SELECT &lcSelect,CAST(0 as Numeric(16,2)) as ImporteArbol,00 as NivelArbol,00000 as ordenarbol ,00 as estadotilde FROM &lcAlias WHERE id< -1 INTO CURSOR CsrAr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bol READWRITE;Error :          1;Ultimo Alias Activo: CSRORIGEN;Ultimo registro:          8 NUMERO;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00001AMH2T7G.TMP;Ultimo Control activo: 
+27-02-2015 15:46:04 , Pila de llamadas
+27-02-2015 15:46:04 , Programa    : c:\xsoftmolino\proyectos\molino\forms\lisbalgeneral.sct
+27-02-2015 15:46:04 , Objeto      : lisbalgeneral.init
+27-02-2015 15:46:04 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lisbalgeneral.sct
+27-02-2015 15:46:04 , Nº de Linea :          8
+27-02-2015 15:46:05 , En el Fuente: 	.treeArbol.generararbol(0,.t.,0)
+27-02-2015 15:46:05 , Programa    : c:\xsoftmolino\desarrollo\clases\contabilidad.vct
+27-02-2015 15:46:05 , Objeto      : lisbalgeneral.treearbol.generararbol
+27-02-2015 15:46:05 , Base Objeto : c:\xsoftmolino\desarrollo\clases\contabilidad.vct
+27-02-2015 15:46:05 , Nº de Linea :         19
+27-02-2015 15:46:05 , En el Fuente: 		SELECT &lcSelect,CAST(0 as Numeric(16,2)) as ImporteArbol,00 as NivelArbol,00000 as ordenarbol 		,00 as estadotilde FROM &lcAlias WHERE id< -1 INTO CURSOR CsrArbol READWRITE 
+27-02-2015 15:48:05 , LISBALGENERAL.IMPRIMIR_VISTAPREVIA1.IMPRESORA.CLICK, Error: CHECK1 es un miembro desconocido.;Linea : IF .check1.Value = 0   && todas;Error :       1925;Ultimo Alias Activo: CSRAUXVARIO;Ultimo registro:          1 ;DBF: C:\USERS\CHI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VI\APPDATA\LOCAL\TEMP\00001AMH2YDK.TMP;Ultimo Control activo: 
+27-02-2015 15:48:05 , Pila de llamadas
+27-02-2015 15:48:05 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 15:48:05 , Objeto      : lisbalgeneral.imprimir_vistaprevia1.impresora.click
+27-02-2015 15:48:05 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+27-02-2015 15:48:05 , Nº de Linea :          5
+27-02-2015 15:48:05 , En el Fuente: 	llOK=thisform.CrearInforme()
+27-02-2015 15:48:05 , Programa    : c:\xsoftmolino\proyectos\molino\forms\lisbalgeneral.sct
+27-02-2015 15:48:05 , Objeto      : lisbalgeneral.crearinforme
+27-02-2015 15:48:06 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\lisbalgeneral.sct
+27-02-2015 15:48:06 , Nº de Linea :          7
+27-02-2015 15:48:06 , En el Fuente: 	IF .check1.Value = 0   && todas
+10-03-2015 11:01:14 , ABMCTACTEMODE.LOAD, Error: El archivo 'csrctactemod.dbf' no existe.;Linea : SELECT CsrCtacteMod.* FROM  CsrCtacteMod WHERE RECNO()=1 AND id=0 INTO CURSOR CsrAuxCabeza READWRITE;Error :          1;Ultimo Alias Activo: ;Ultimo registr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+o:          0 ;DBF: ;Ultimo Control activo: 
+10-03-2015 11:01:14 , Pila de llamadas
+10-03-2015 11:01:14 , Programa    : c:\xsoftmolino\proyectos\molino\forms\abmctactemode.sct
+10-03-2015 11:01:14 , Objeto      : abmctactemode.load
+10-03-2015 11:01:14 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\abmctactemode.sct
+10-03-2015 11:01:14 , Nº de Linea :          4
+10-03-2015 11:01:14 , En el Fuente: thisform.crearcursor()
+10-03-2015 11:01:14 , Programa    : c:\xsoftmolino\proyectos\molino\forms\abmctactemode.sct
+10-03-2015 11:01:14 , Objeto      : abmctactemode.crearcursor
+10-03-2015 11:01:14 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\abmctactemode.sct
+10-03-2015 11:01:14 , Nº de Linea :          3
+10-03-2015 11:01:14 , En el Fuente: SELECT CsrCtacteMod.* FROM  CsrCtacteMod WHERE RECNO()=1 AND id=0 INTO CURSOR CsrAuxCabeza READWRITE 
+12-03-2015 15:37:57 , MAIN, Error: El archivo no está abierto.;Linea : thisform.Refresh();Error :       1113;Ultimo Alias Activo: CSRPREFIJONRO;Ultimo registro:         13 NOMBRE;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00006UIX00C3.TMP;Ultimo Control acti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vo: 
+12-03-2015 15:37:57 , Pila de llamadas
+12-03-2015 15:37:57 , Programa    : c:\xsoftmolino\proyectos\molino\progs\main.fxp
+12-03-2015 15:37:57 , Objeto      : main
+12-03-2015 15:37:57 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\main.prg
+12-03-2015 15:37:57 , Nº de Linea :        255
+12-03-2015 15:37:58 , En el Fuente: 	Read events   
+12-03-2015 15:37:58 , Programa    : c:\xsoftmolino\proyectos\molino\clases\oformslocal.vct
+12-03-2015 15:37:58 , Objeto      : abmprefijos._textbox1.keypress
+12-03-2015 15:37:58 , Base Objeto : c:\xsoftmolino\proyectos\molino\clases\oformslocal.vct
+12-03-2015 15:37:58 , Nº de Linea :        151
+12-03-2015 15:37:58 , En el Fuente: 	    thisform.Refresh()
+30-03-2015 14:26:53 , MAIN, Error: No se encuentra el alias.;Linea : IF RECCOUNT('FsrNroCaja')=0;Error :         13;Ultimo Alias Activo: CSRPREFINEG;Ultimo registro:        190 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00006IVD01KP.TMP;Ultimo Control activ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+o: FECHA
+30-03-2015 14:26:53 , Pila de llamadas
+30-03-2015 14:26:53 , Programa    : c:\xsoftmolino\proyectos\molino\progs\main.fxp
+30-03-2015 14:26:53 , Objeto      : main
+30-03-2015 14:26:53 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\main.prg
+30-03-2015 14:26:53 , Nº de Linea :        255
+30-03-2015 14:26:53 , En el Fuente: 	Read events   
+30-03-2015 14:26:53 , Programa    : c:\xsoftmolino\proyectos\molino\forms\regfacvta.sct
+30-03-2015 14:26:53 , Objeto      : regfacvta.containerencabeza._txtfecha.lostfocus
+30-03-2015 14:26:53 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\regfacvta.sct
+30-03-2015 14:26:53 , Nº de Linea :          1
+30-03-2015 14:26:53 , En el Fuente: thisform.validarfechacaja()
+30-03-2015 14:26:53 , Programa    : c:\xsoftmolino\proyectos\molino\forms\regfacvta.sct
+30-03-2015 14:26:53 , Objeto      : regfacvta.validarfechacaja
+30-03-2015 14:26:53 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\regfacvta.sct
+30-03-2015 14:26:53 , Nº de Linea :         18
+30-03-2015 14:26:54 , En el Fuente: IF RECCOUNT('FsrNroCaja')=0
+30-03-2015 14:43:56 , MAIN, Error: _TXTFECHA es un miembro desconocido.;Linea : .containerencabeza.kitbuscaoaltaenCtacte._txtFecha.SetFocus();Error :       1925;Ultimo Alias Activo: CSRAUXBLOQUEOPROD;Ultimo registro:          1 STR(IDCTACTE,10)+STR(IDART
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICULO,10);DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00006IVD042E.TMP;Ultimo Control activo: 
+30-03-2015 14:43:56 , Pila de llamadas
+30-03-2015 14:43:56 , Programa    : c:\xsoftmolino\proyectos\molino\progs\main.fxp
+30-03-2015 14:43:56 , Objeto      : main
+30-03-2015 14:43:56 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\main.prg
+30-03-2015 14:43:56 , Nº de Linea :        255
+30-03-2015 14:43:56 , En el Fuente: 	Read events   
+30-03-2015 14:43:56 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+30-03-2015 14:43:56 , Objeto      : regfacvta.containeringreso.kitbuscaoaltaenareaneg.lostfocus
+30-03-2015 14:43:56 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+30-03-2015 14:43:56 , Nº de Linea :         25
+30-03-2015 14:43:56 , En el Fuente: this.lostfocosay()
+30-03-2015 14:43:56 , Programa    : c:\xsoftmolino\proyectos\molino\forms\regfacvta.sct
+30-03-2015 14:43:57 , Objeto      : regfacvta.containeringreso.kitbuscaoaltaenareaneg.lostfocosay
+30-03-2015 14:43:57 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\regfacvta.sct
+30-03-2015 14:43:57 , Nº de Linea :         36
+30-03-2015 14:43:57 , En el Fuente: 	   	.containerencabeza.kitbuscaoaltaenCtacte._txtFecha.SetFocus()
+30-03-2015 14:45:47 , MAIN, Error: No se encuentra el alias.;Linea : IF RECCOUNT('FsrNroCaja')=0;Error :         13;Ultimo Alias Activo: CSRAUXBLOQUEOPROD;Ultimo registro:          1 STR(IDCTACTE,10)+STR(IDARTICULO,10);DBF: C:\USERS\CHIVI\APPDATA\LOCAL\T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EMP\00006IVD04TW.TMP;Ultimo Control activo: FECHA
+30-03-2015 14:45:47 , Pila de llamadas
+30-03-2015 14:45:47 , Programa    : c:\xsoftmolino\proyectos\molino\progs\main.fxp
+30-03-2015 14:45:47 , Objeto      : main
+30-03-2015 14:45:47 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\main.prg
+30-03-2015 14:45:47 , Nº de Linea :        255
+30-03-2015 14:45:47 , En el Fuente: 	Read events   
+30-03-2015 14:45:47 , Programa    : c:\xsoftmolino\proyectos\molino\forms\regfacvta.sct
+30-03-2015 14:45:47 , Objeto      : regfacvta.containerencabeza._txtfecha.lostfocus
+30-03-2015 14:45:47 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\regfacvta.sct
+30-03-2015 14:45:47 , Nº de Linea :          1
+30-03-2015 14:45:47 , En el Fuente: thisform.validarfechacaja()
+30-03-2015 14:45:47 , Programa    : c:\xsoftmolino\proyectos\molino\forms\regfacvta.sct
+30-03-2015 14:45:47 , Objeto      : regfacvta.validarfechacaja
+30-03-2015 14:45:48 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\regfacvta.sct
+30-03-2015 14:45:48 , Nº de Linea :         18
+30-03-2015 14:45:48 , En el Fuente: IF RECCOUNT('FsrNroCaja')=0
+22-04-2015 10:11:45 , BASEABM1._TEXTBOX1.KEYPRESS, Error: No se encuentra el alias 'CSRACTIVIDAD'.;Linea : SELECT (lCaliasNavega);Error :         13;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Control activo: 
+22-04-2015 10:11:45 , Pila de llamadas
+22-04-2015 10:11:45 , Programa    : c:\xsoftsql\proyectos\leon\clases\oformslocal.vct
+22-04-2015 10:11:45 , Objeto      : baseabm1._textbox1.keypress
+22-04-2015 10:11:45 , Base Objeto : c:\xsoftsql\proyectos\leon\clases\oformslocal.vct
+22-04-2015 10:11:45 , Nº de Linea :        117
+22-04-2015 10:11:45 , En el Fuente: 	    thisform.crearindices('thisform.contenedor1.'+thisform.objetonavega,lcalias,lcCtrlSource,AcolOdataNavega)
+22-04-2015 10:11:45 , Programa    : c:\xsoftsql\proyectos\leon\clases\oformslocal.vct
+22-04-2015 10:11:45 , Objeto      : baseabm1.crearindices
+22-04-2015 10:11:45 , Base Objeto : c:\xsoftsql\proyectos\leon\clases\oformslocal.vct
+22-04-2015 10:11:45 , Nº de Linea :          6
+22-04-2015 10:11:45 , En el Fuente:     SELECT (lCaliasNavega)
+22-04-2015 10:11:47 , BASEABM1._TEXTBOX1.KEYPRESS, Error: No hay ninguna tabla abierta en el área de trabajo actual.;Linea : CURSORSETPROP("Buffering",3,lcaliasnavega);Error :         52;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Con
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+trol activo: 
+22-04-2015 10:11:47 , Pila de llamadas
+22-04-2015 10:11:47 , Programa    : c:\xsoftsql\proyectos\leon\clases\oformslocal.vct
+22-04-2015 10:11:47 , Objeto      : baseabm1._textbox1.keypress
+22-04-2015 10:11:47 , Base Objeto : c:\xsoftsql\proyectos\leon\clases\oformslocal.vct
+22-04-2015 10:11:47 , Nº de Linea :        117
+22-04-2015 10:11:47 , En el Fuente: 	    thisform.crearindices('thisform.contenedor1.'+thisform.objetonavega,lcalias,lcCtrlSource,AcolOdataNavega)
+22-04-2015 10:11:47 , Programa    : c:\xsoftsql\proyectos\leon\clases\oformslocal.vct
+22-04-2015 10:11:47 , Objeto      : baseabm1.crearindices
+22-04-2015 10:11:47 , Base Objeto : c:\xsoftsql\proyectos\leon\clases\oformslocal.vct
+22-04-2015 10:11:47 , Nº de Linea :          7
+22-04-2015 10:11:47 , En el Fuente:     CURSORSETPROP("Buffering",3,lcaliasnavega)
+22-04-2015 10:26:58 , ABMDEPOSITO.INIT, Error: La propiedad WINDOWTYPE es de sólo lectura.;Linea : thisform.windowtype=iif(_esmodal,1,0);Error :       1743;Ultimo Alias Activo: CSRUSERSECU;Ultimo registro:          1 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MP\00007M6H00MG.TMP;Ultimo Control activo: 
+22-04-2015 10:26:58 , Pila de llamadas
+22-04-2015 10:26:58 , Programa    : c:\xsoftmolino\proyectos\molino\clases\oformslocal.vct
+22-04-2015 10:26:58 , Objeto      : abmdeposito.init
+22-04-2015 10:26:58 , Base Objeto : c:\xsoftmolino\proyectos\molino\clases\oformslocal.vct
+22-04-2015 10:26:58 , Nº de Linea :         58
+22-04-2015 10:26:58 , En el Fuente: 	thisform.windowtype=iif(_esmodal,1,0)
+15-05-2015 12:50:11 , MAIN, Error: Código de excepción OLE IDispatch 0 de ADODB.Recordset: No se puede utilizar la conexión para realizar esta operación. Está cerrada o no es válida en este contexto..;Linea : ;Error :       1429;Ultimo Alias Activo: ;Ult
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+imo registro:          0 ;DBF: ;Ultimo Control activo: 
+15-05-2015 12:50:11 , Pila de llamadas
+15-05-2015 12:50:11 , Programa    : c:\xsoftmolino\proyectos\molino\progs\main.fxp
+15-05-2015 12:50:11 , Objeto      : main
+15-05-2015 12:50:11 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\main.prg
+15-05-2015 12:50:11 , Nº de Linea :        219
+15-05-2015 12:50:12 , En el Fuente: 	LeerEmpresa()
+15-05-2015 12:50:12 , Programa    : c:\xsoftmolino\proyectos\molino\progs\proc.fxp
+15-05-2015 12:50:12 , Objeto      : leerempresa
+15-05-2015 12:50:12 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\proc.prg
+15-05-2015 12:50:12 , Nº de Linea :       1577
+15-05-2015 12:50:12 , En el Fuente: lok =CrearCursorAdapter("Csrempresa",lcCmd)
+15-05-2015 12:50:12 , Programa    : c:\xsoftmolino\proyectos\molino\progs\proc.fxp
+15-05-2015 12:50:12 , Objeto      : crearcursoradapter
+15-05-2015 12:50:12 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\proc.prg
+15-05-2015 12:50:12 , Nº de Linea :       1461
+15-05-2015 12:50:12 , En el Fuente: 
+02-06-2015 10:57:38 , MAIN, Error: No se encuentra el alias ''.;Linea : SELECT(lcAliasActual);Error :         13;Ultimo Alias Activo: _CSRFUERZAVTA;Ultimo registro:          3 CNUMERO;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\000086Q100BG.TMP;Ultimo Control
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ activo: 
+02-06-2015 10:57:38 , Pila de llamadas
+02-06-2015 10:57:39 , Programa    : c:\xsoftmolino\proyectos\molino\progs\main.fxp
+02-06-2015 10:57:39 , Objeto      : main
+02-06-2015 10:57:39 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\main.prg
+02-06-2015 10:57:39 , Nº de Linea :        255
+02-06-2015 10:57:39 , En el Fuente: 	Read events   
+02-06-2015 10:57:39 , Programa    : c:\xsoftmolino\proyectos\molino\forms\frmmenu.sct
+02-06-2015 10:57:39 , Objeto      : frmmenu.treeview.dblclick
+02-06-2015 10:57:39 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\frmmenu.sct
+02-06-2015 10:57:39 , Nº de Linea :         14
+02-06-2015 10:57:39 , En el Fuente: 		&lcCmd
+02-06-2015 10:57:39 , Programa    : c:\xsoftmolino\proyectos\molino\progs\proc.fxp
+02-06-2015 10:57:39 , Objeto      : ejecutamenu
+02-06-2015 10:57:39 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\proc.prg
+02-06-2015 10:57:39 , Nº de Linea :       1526
+02-06-2015 10:57:39 , En el Fuente: 						DO FORM &lcForm
+02-06-2015 10:57:39 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+02-06-2015 10:57:39 , Objeto      : listapadron.pageframe1.page3.kitgrillatildarfuerzavta.chkgeneral.click
+02-06-2015 10:57:39 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+02-06-2015 10:57:39 , Nº de Linea :          1
+02-06-2015 10:57:39 , En el Fuente: this.parent.procesarcheck(this.Value )
+02-06-2015 10:57:39 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+02-06-2015 10:57:39 , Objeto      : listapadron.pageframe1.page3.kitgrillatildarfuerzavta.procesarcheck
+02-06-2015 10:57:39 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+02-06-2015 10:57:39 , Nº de Linea :         17
+02-06-2015 10:57:39 , En el Fuente: SELECT(lcAliasActual)
+02-06-2015 10:57:46 , MAIN, Error: No se encuentra el alias ''.;Linea : SELECT(lcAliasActual);Error :         13;Ultimo Alias Activo: _CSRFUERZAVTA;Ultimo registro:          3 CNUMERO;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\000086Q100BG.TMP;Ultimo Control
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ activo: 
+02-06-2015 10:57:46 , Pila de llamadas
+02-06-2015 10:57:46 , Programa    : c:\xsoftmolino\proyectos\molino\progs\main.fxp
+02-06-2015 10:57:46 , Objeto      : main
+02-06-2015 10:57:46 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\main.prg
+02-06-2015 10:57:46 , Nº de Linea :        255
+02-06-2015 10:57:46 , En el Fuente: 	Read events   
+02-06-2015 10:57:46 , Programa    : c:\xsoftmolino\proyectos\molino\forms\frmmenu.sct
+02-06-2015 10:57:46 , Objeto      : frmmenu.treeview.dblclick
+02-06-2015 10:57:46 , Base Objeto : c:\xsoftmolino\proyectos\molino\forms\frmmenu.sct
+02-06-2015 10:57:46 , Nº de Linea :         14
+02-06-2015 10:57:46 , En el Fuente: 		&lcCmd
+02-06-2015 10:57:46 , Programa    : c:\xsoftmolino\proyectos\molino\progs\proc.fxp
+02-06-2015 10:57:46 , Objeto      : ejecutamenu
+02-06-2015 10:57:46 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\proc.prg
+02-06-2015 10:57:46 , Nº de Linea :       1526
+02-06-2015 10:57:46 , En el Fuente: 						DO FORM &lcForm
+02-06-2015 10:57:46 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+02-06-2015 10:57:46 , Objeto      : listapadron.pageframe1.page3.kitgrillatildarfuerzavta.chkgeneral.click
+02-06-2015 10:57:46 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+02-06-2015 10:57:46 , Nº de Linea :          1
+02-06-2015 10:57:46 , En el Fuente: this.parent.procesarcheck(this.Value )
+02-06-2015 10:57:46 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+02-06-2015 10:57:46 , Objeto      : listapadron.pageframe1.page3.kitgrillatildarfuerzavta.procesarcheck
+02-06-2015 10:57:46 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+02-06-2015 10:57:46 , Nº de Linea :         17
+02-06-2015 10:57:46 , En el Fuente: SELECT(lcAliasActual)
+10-09-2015 12:05:52 , MAIN, Error: Código de excepción OLE IDispatch 0 de ADODB.Recordset: No se puede utilizar la conexión para realizar esta operación. Está cerrada o no es válida en este contexto..;Linea : ;Error :       1429;Ultimo Alias Activo: ;Ult
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+imo registro:          0 ;DBF: ;Ultimo Control activo: 
+10-09-2015 12:05:53 , Pila de llamadas
+10-09-2015 12:05:53 , Programa    : c:\xsoftmolino\proyectos\molino\progs\main.fxp
+10-09-2015 12:05:53 , Objeto      : main
+10-09-2015 12:05:53 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\main.prg
+10-09-2015 12:05:53 , Nº de Linea :        219
+10-09-2015 12:05:53 , En el Fuente: 	LeerEmpresa()
+10-09-2015 12:05:53 , Programa    : c:\xsoftmolino\proyectos\molino\progs\proc.fxp
+10-09-2015 12:05:53 , Objeto      : leerempresa
+10-09-2015 12:05:53 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\proc.prg
+10-09-2015 12:05:53 , Nº de Linea :       1577
+10-09-2015 12:05:53 , En el Fuente: lok =CrearCursorAdapter("Csrempresa",lcCmd)
+10-09-2015 12:05:53 , Programa    : c:\xsoftmolino\proyectos\molino\progs\proc.fxp
+10-09-2015 12:05:53 , Objeto      : crearcursoradapter
+10-09-2015 12:05:53 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\proc.prg
+10-09-2015 12:05:53 , Nº de Linea :       1461
+10-09-2015 12:05:53 , En el Fuente: 
+10-09-2015 12:06:42 , MAIN, Error: El entorno de datos ya está descargado.;Linea : DO FORM configbd;Error :       1967;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Control activo: 
+10-09-2015 12:06:42 , Pila de llamadas
+10-09-2015 12:06:42 , Programa    : c:\xsoftmolino\proyectos\molino\progs\main.fxp
+10-09-2015 12:06:42 , Objeto      : main
+10-09-2015 12:06:42 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\main.prg
+10-09-2015 12:06:42 , Nº de Linea :        182
+10-09-2015 12:06:42 , En el Fuente: 		DO FORM configbd
+21-10-2015 14:10:03 , MAIN, Error: No se encuentra el alias 'CSRRUBROCTACON'.;Linea : select (this.cAlias);Error :         13;Ultimo Alias Activo: CSRPLANCUE;Ultimo registro:        471 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\0000AXAH00JD.TMP;Ultimo Cont
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rol activo: 
+21-10-2015 14:10:03 , Pila de llamadas
+21-10-2015 14:10:03 , Programa    : c:\xsoftmolino\proyectos\molino\progs\main.fxp
+21-10-2015 14:10:03 , Objeto      : main
+21-10-2015 14:10:03 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\main.prg
+21-10-2015 14:10:03 , Nº de Linea :        255
+21-10-2015 14:10:03 , En el Fuente: 	Read events   
+21-10-2015 14:10:03 , Programa    : c:\xsoftmolino\desarrollo\clases\forms.vct
+21-10-2015 14:10:03 , Objeto      : abmejercicio.cmdsalvar.click
+21-10-2015 14:10:03 , Base Objeto : c:\xsoftmolino\desarrollo\clases\forms.vct
+21-10-2015 14:10:03 , Nº de Linea :          9
+21-10-2015 14:10:03 , En el Fuente: 		llok=.salvar()
+21-10-2015 14:10:03 , Programa    : c:\xsoftmolino\desarrollo\clases\forms.vct
+21-10-2015 14:10:03 , Objeto      : abmejercicio.salvar
+21-10-2015 14:10:03 , Base Objeto : c:\xsoftmolino\desarrollo\clases\forms.vct
+21-10-2015 14:10:03 , Nº de Linea :         22
+21-10-2015 14:10:03 , En el Fuente:      	 llOK=loObjNeg.Salvar(loObjneg.calias)       	  
+21-10-2015 14:10:03 , Programa    : c:\xsoftmolino\desarrollo\clases\odata.vct
+21-10-2015 14:10:03 , Objeto      : abmejercicio.odata1.salvar
+21-10-2015 14:10:03 , Base Objeto : c:\xsoftmolino\desarrollo\clases\odata.vct
+21-10-2015 14:10:03 , Nº de Linea :         28
+21-10-2015 14:10:03 , En el Fuente: lbactok=this.salvarcambios()
+21-10-2015 14:10:03 , Programa    : c:\xsoftmolino\desarrollo\clases\odata.vct
+21-10-2015 14:10:03 , Objeto      : abmejercicio.odata1.salvarcambios
+21-10-2015 14:10:03 , Base Objeto : c:\xsoftmolino\desarrollo\clases\odata.vct
+21-10-2015 14:10:03 , Nº de Linea :         74
+21-10-2015 14:10:03 , En el Fuente: 			lbactok=lahijos(i).salvarcambios()
+21-10-2015 14:10:03 , Programa    : c:\xsoftmolino\desarrollo\clases\odata.vct
+21-10-2015 14:10:03 , Objeto      : abmejercicio.odatarubroctacon.salvarcambios
+21-10-2015 14:10:03 , Base Objeto : c:\xsoftmolino\desarrollo\clases\odata.vct
+21-10-2015 14:10:04 , Nº de Linea :          7
+21-10-2015 14:10:04 , En el Fuente: select (this.cAlias)
+21-10-2015 14:10:10 , MAIN, Error: No se encuentra el alias 'CSRRUBROCTACON'.;Linea : select (this.cAlias);Error :         13;Ultimo Alias Activo: CSRPLANCUE;Ultimo registro:        471 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\0000AXAH00JD.TMP;Ultimo Cont
+
+
+
+
+
+
+
+
+
+
+
+
+
+rol activo: 
+21-10-2015 14:10:10 , Pila de llamadas
+21-10-2015 14:10:11 , Programa    : c:\xsoftmolino\proyectos\molino\progs\main.fxp
+21-10-2015 14:10:11 , Objeto      : main
+21-10-2015 14:10:11 , Base Objeto : c:\xsoftmolino\proyectos\molino\progs\main.prg
+21-10-2015 14:10:11 , Nº de Linea :        255
+21-10-2015 14:10:11 , En el Fuente: 	Read events   
+21-10-2015 14:10:11 , Programa    : c:\xsoftmolino\desarrollo\clases\forms.vct
+21-10-2015 14:10:11 , Objeto      : abmejercicio.cmdsalvar.click
+21-10-2015 14:10:11 , Base Objeto : c:\xsoftmolino\desarrollo\clases\forms.vct
+21-10-2015 14:10:11 , Nº de Linea :          9
+21-10-2015 14:10:11 , En el Fuente: 		llok=.salvar()
+21-10-2015 14:10:11 , Programa    : c:\xsoftmolino\desarrollo\clases\forms.vct
+21-10-2015 14:10:11 , Objeto      : abmejercicio.salvar
+21-10-2015 14:10:11 , Base Objeto : c:\xsoftmolino\desarrollo\clases\forms.vct
+21-10-2015 14:10:11 , Nº de Linea :         22
+21-10-2015 14:10:11 , En el Fuente:      	 llOK=loObjNeg.Salvar(loObjneg.calias)       	  
+21-10-2015 14:10:11 , Programa    : c:\xsoftmolino\desarrollo\clases\odata.vct
+21-10-2015 14:10:11 , Objeto      : abmejercicio.odata1.salvar
+21-10-2015 14:10:11 , Base Objeto : c:\xsoftmolino\desarrollo\clases\odata.vct
+21-10-2015 14:10:11 , Nº de Linea :         28
+21-10-2015 14:10:11 , En el Fuente: lbactok=this.salvarcambios()
+21-10-2015 14:10:11 , Programa    : c:\xsoftmolino\desarrollo\clases\odata.vct
+21-10-2015 14:10:11 , Objeto      : abmejercicio.odata1.salvarcambios
+21-10-2015 14:10:11 , Base Objeto : c:\xsoftmolino\desarrollo\clases\odata.vct
+21-10-2015 14:10:11 , Nº de Linea :         74
+21-10-2015 14:10:11 , En el Fuente: 			lbactok=lahijos(i).salvarcambios()
+21-10-2015 14:10:11 , Programa    : c:\xsoftmolino\desarrollo\clases\odata.vct
+21-10-2015 14:10:11 , Objeto      : abmejercicio.odatarubroctacon.salvarcambios
+21-10-2015 14:10:11 , Base Objeto : c:\xsoftmolino\desarrollo\clases\odata.vct
+21-10-2015 14:10:11 , Nº de Linea :         44
+21-10-2015 14:10:11 , En el Fuente: 	select (this.cAlias)
+21-10-2015 14:10:17 , ABMEJERCICIO.CMDCANCELAR.CLICK, Error: No se encuentra el alias 'CSRRUBROCTACON'.;Linea : select (this.cAlias);Error :         13;Ultimo Alias Activo: CSRPLANCUE;Ultimo registro:          1 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00
+
+
+
+
+
+00AXAH00JD.TMP;Ultimo Control activo: 
+21-10-2015 14:10:17 , Pila de llamadas
+21-10-2015 14:10:18 , Programa    : c:\xsoftmolino\desarrollo\clases\forms.vct
+21-10-2015 14:10:18 , Objeto      : abmejercicio.cmdcancelar.click
+21-10-2015 14:10:18 , Base Objeto : c:\xsoftmolino\desarrollo\clases\forms.vct
+21-10-2015 14:10:18 , Nº de Linea :          8
+21-10-2015 14:10:18 , En el Fuente:     llok=.cancelar()	 
+21-10-2015 14:10:18 , Programa    : c:\xsoftmolino\desarrollo\clases\forms.vct
+21-10-2015 14:10:18 , Objeto      : abmejercicio.cancelar
+21-10-2015 14:10:18 , Base Objeto : c:\xsoftmolino\desarrollo\clases\forms.vct
+21-10-2015 14:10:18 , Nº de Linea :          5
+21-10-2015 14:10:18 , En el Fuente: 	llOK=loObjNeg.Cancelar()
+21-10-2015 14:10:18 , Programa    : c:\xsoftmolino\desarrollo\clases\odata.vct
+21-10-2015 14:10:18 , Objeto      : abmejercicio.odata1.cancelar
+21-10-2015 14:10:18 , Base Objeto : c:\xsoftmolino\desarrollo\clases\odata.vct
+21-10-2015 14:10:18 , Nº de Linea :         17
+21-10-2015 14:10:18 , En el Fuente: 	laHijos(lnInd).Cancelar()
+21-10-2015 14:10:18 , Programa    : c:\xsoftmolino\desarrollo\clases\odata.vct
+21-10-2015 14:10:18 , Objeto      : abmejercicio.odatarubroctacon.cancelar
+21-10-2015 14:10:18 , Base Objeto : c:\xsoftmolino\desarrollo\clases\odata.vct
+21-10-2015 14:10:18 , Nº de Linea :          2
+21-10-2015 14:10:18 , En el Fuente: select (this.cAlias)

@@ -1,0 +1,4414 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:          1 ID;DBF: C:\USERS\MARCOS\APPDATA\LOCAL\TEMP\000021AH05QE.TMP;Ultimo Control activo: 
+11-07-2013 11:40:03 , Pila de llamadas
+11-07-2013 11:40:05 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 11:40:05 , Objeto      : regfacvta.grid2.init
+11-07-2013 11:40:05 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 11:40:05 , Nº de Linea :          9
+11-07-2013 11:40:05 , En el Fuente: 	THIS.Setall("FontSize","iif(LEN(LTRIM(ThisForm.codigoanterior))<>0,25,8)","TextBox")
+11-07-2013 12:16:42 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: Object LOCONTROL is not found.;Linea : FOR EACH loColumns IN loControl.Columns;Error :       1923;Ultimo Alias Activo: CSRAUXCUERFAC;Ultimo registro:          1 ORDEN;DBF: C:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\USERS\MARCOS\APPDATA\LOCAL\TEMP\000021AH07DL.TMP;Ultimo Control activo: CODIGO
+11-07-2013 12:16:42 , Pila de llamadas
+11-07-2013 12:16:43 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 12:16:43 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+11-07-2013 12:16:43 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 12:16:44 , Nº de Linea :         65
+11-07-2013 12:16:44 , En el Fuente: 			.grid2.SetFocus()
+11-07-2013 12:16:44 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 12:16:45 , Objeto      : regfacvta.grid2.column1.text1.gotfocus
+11-07-2013 12:16:45 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 12:16:45 , Nº de Linea :         13
+11-07-2013 12:16:46 , En el Fuente: 		.grid2_FormatStandOut()
+11-07-2013 12:16:46 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 12:16:46 , Objeto      : regfacvta.grid2_formatstandout
+11-07-2013 12:16:47 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 12:16:47 , Nº de Linea :         23
+11-07-2013 12:16:47 , En el Fuente: FOR EACH loColumns IN loControl.Columns
+11-07-2013 12:18:47 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: Object GRID2 is not found.;Linea : FOR EACH loColumns IN Grid2.Columns;Error :       1923;Ultimo Alias Activo: CSRAUXCUERFAC;Ultimo registro:          1 ORDEN;DBF: C:\USERS\M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ARCOS\APPDATA\LOCAL\TEMP\000021AH07W3.TMP;Ultimo Control activo: CODIGO
+11-07-2013 12:18:47 , Pila de llamadas
+11-07-2013 12:18:48 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 12:18:48 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+11-07-2013 12:18:49 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 12:18:49 , Nº de Linea :         65
+11-07-2013 12:18:50 , En el Fuente: 			.grid2.SetFocus()
+11-07-2013 12:18:50 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 12:18:50 , Objeto      : regfacvta.grid2.column1.text1.gotfocus
+11-07-2013 12:18:51 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 12:18:51 , Nº de Linea :         13
+11-07-2013 12:18:52 , En el Fuente: 		.grid2_FormatStandOut()
+11-07-2013 12:18:52 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 12:18:52 , Objeto      : regfacvta.grid2_formatstandout
+11-07-2013 12:18:55 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 12:18:55 , Nº de Linea :         24
+11-07-2013 12:18:55 , En el Fuente: FOR EACH loColumns IN Grid2.Columns
+11-07-2013 13:25:25 , REGFACVTA.GRID2.COLUMN5.TEXT1.WHEN, Error: Variable 'CNOMBRE' is not found.;Linea : IF (CsrAuxCuerfac.idarticulo=0 AND LEN(LTRIM(CsrAuxCuerfac.cnombre))=0);Error :         12;Ultimo Alias Activo: CSRSUBPRODUCTO;Ultimo registro:     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     1 ;DBF: C:\USERS\MARCOS\APPDATA\LOCAL\TEMP\000021AH0L9Z.TMP;Ultimo Control activo: CANTIDAD
+11-07-2013 13:25:26 , Pila de llamadas
+11-07-2013 13:25:29 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta.sct
+11-07-2013 13:25:29 , Objeto      : regfacvta.grid2.column5.text1.when
+11-07-2013 13:25:29 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta.sct
+11-07-2013 13:25:29 , Nº de Linea :          5
+11-07-2013 13:25:30 , En el Fuente: 	IF (CsrAuxCuerfac.idarticulo=0 AND LEN(LTRIM(CsrAuxCuerfac.cnombre))=0)
+11-07-2013 15:10:57 , REGFACVTA.GRID2.INIT, Error: Property DYNAMICFONTSIZE is not found.;Linea : THIS.Setall("DynamicFontSize","25","TextBox");Error :       1734;Ultimo Alias Activo: CSRPRODAREANEG;Ultimo registro:          1 ID;DBF: C:\USERS\MARCOS\APP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DATA\LOCAL\TEMP\000021AH0ZRD.TMP;Ultimo Control activo: CODIGO
+11-07-2013 15:10:57 , Pila de llamadas
+11-07-2013 15:11:00 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:11:00 , Objeto      : regfacvta.grid2.init
+11-07-2013 15:11:00 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:11:02 , Nº de Linea :          9
+11-07-2013 15:11:02 , En el Fuente: 	THIS.Setall("DynamicFontSize","25","TextBox")
+11-07-2013 15:17:31 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: Property HEADERFONTSIZE is not found.;Linea : loControl.FontSize		= loControl.HeaderFontSize;Error :       1734;Ultimo Alias Activo: CSRAUXCUERFAC;Ultimo registro:          1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ORDEN;DBF: C:\USERS\MARCOS\APPDATA\LOCAL\TEMP\000021AH10O5.TMP;Ultimo Control activo: CODIGO
+11-07-2013 15:17:33 , Pila de llamadas
+11-07-2013 15:17:34 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:17:34 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+11-07-2013 15:17:34 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:17:37 , Nº de Linea :         65
+11-07-2013 15:17:37 , En el Fuente: 			.grid2.SetFocus()
+11-07-2013 15:17:37 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:17:40 , Objeto      : regfacvta.grid2.column1.text1.gotfocus
+11-07-2013 15:17:40 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:17:40 , Nº de Linea :         13
+11-07-2013 15:17:41 , En el Fuente: 		.grid2_FormatStandOut(.t.)
+11-07-2013 15:17:41 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:17:41 , Objeto      : regfacvta.grid2_formatstandout
+11-07-2013 15:17:43 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:17:43 , Nº de Linea :         35
+11-07-2013 15:17:43 , En el Fuente: 			loControl.FontSize		= loControl.HeaderFontSize
+11-07-2013 15:30:15 , REGFACVTA.GRID2.INIT, Error: Data type is invalid for this property.;Linea : THIS.Setall("FontSize","20","Column");Error :       1732;Ultimo Alias Activo: CSRPRODAREANEG;Ultimo registro:          1 ID;DBF: C:\USERS\MARCOS\APPDATA\LO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAL\TEMP\000021AH17YU.TMP;Ultimo Control activo: 
+11-07-2013 15:30:15 , Pila de llamadas
+11-07-2013 15:30:18 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:30:18 , Objeto      : regfacvta.grid2.init
+11-07-2013 15:30:18 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:30:19 , Nº de Linea :          9
+11-07-2013 15:30:19 , En el Fuente: 	THIS.Setall("FontSize","20","Column")
+11-07-2013 15:53:39 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: Error with Column1 - FontSize : Expression evaluated to an illegal value.;Linea : loColumns .FontSize		= IIF(nFontSize=0,loColumns.Fontsize,nFontSize)-10;Error :       1881;U
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ltimo Alias Activo: CSRAUXCUERFAC;Ultimo registro:          1 ORDEN;DBF: C:\USERS\MARCOS\APPDATA\LOCAL\TEMP\000021AH1ECY.TMP;Ultimo Control activo: CODIGO
+11-07-2013 15:53:41 , Pila de llamadas
+11-07-2013 15:53:43 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:53:43 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+11-07-2013 15:53:43 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:53:44 , Nº de Linea :         65
+11-07-2013 15:53:44 , En el Fuente: 			.grid2.SetFocus()
+11-07-2013 15:53:44 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:53:44 , Objeto      : regfacvta.grid2.column1.text1.gotfocus
+11-07-2013 15:53:45 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:53:45 , Nº de Linea :         13
+11-07-2013 15:53:45 , En el Fuente: 		.grid2_FormatStandOut(.f.)
+11-07-2013 15:53:45 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:53:47 , Objeto      : regfacvta.grid2_formatstandout
+11-07-2013 15:53:47 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:53:48 , Nº de Linea :         27
+11-07-2013 15:53:48 , En el Fuente: 	loColumns .FontSize		= IIF(nFontSize=0,loColumns.Fontsize,nFontSize)-10
+11-07-2013 15:54:43 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: Error with Column1 - FontSize : Expression evaluated to an illegal value.;Linea : loColumns.FontSize		= IIF(nFontSize=0,loColumns.Fontsize,nFontSize)-10;Error :       1881;Ul
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+timo Alias Activo: CSRAUXCUERFAC;Ultimo registro:          1 ORDEN;DBF: C:\USERS\MARCOS\APPDATA\LOCAL\TEMP\000021AH1ETT.TMP;Ultimo Control activo: CODIGO
+11-07-2013 15:54:44 , Pila de llamadas
+11-07-2013 15:54:46 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:54:46 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+11-07-2013 15:54:46 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:54:46 , Nº de Linea :         65
+11-07-2013 15:54:47 , En el Fuente: 			.grid2.SetFocus()
+11-07-2013 15:54:47 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:54:47 , Objeto      : regfacvta.grid2.column1.text1.gotfocus
+11-07-2013 15:54:48 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:54:48 , Nº de Linea :         13
+11-07-2013 15:54:48 , En el Fuente: 		.grid2_FormatStandOut(.f.)
+11-07-2013 15:54:51 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:54:51 , Objeto      : regfacvta.grid2_formatstandout
+11-07-2013 15:54:51 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 15:54:51 , Nº de Linea :         27
+11-07-2013 15:54:52 , En el Fuente: 	loColumns.FontSize		= IIF(nFontSize=0,loColumns.Fontsize,nFontSize)-10
+11-07-2013 16:00:33 , REGFACVTA.GRID2.INIT, Error: Property WIDTH is not found.;Linea : AGridFormat = AGridFormat + IIF(LEN(RTRIM(AGridFormat))=0,'','\')+strtrim(loHeader.Width);Error :       1734;Ultimo Alias Activo: CSRPRODAREANEG;Ultimo registro:     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     1 ID;DBF: C:\USERS\MARCOS\APPDATA\LOCAL\TEMP\000021AH1HM0.TMP;Ultimo Control activo: CODIGO
+11-07-2013 16:00:35 , Pila de llamadas
+11-07-2013 16:00:36 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 16:00:36 , Objeto      : regfacvta.grid2.init
+11-07-2013 16:00:36 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 16:00:38 , Nº de Linea :         20
+11-07-2013 16:00:38 , En el Fuente: 					AGridFormat = AGridFormat + IIF(LEN(RTRIM(AGridFormat))=0,'','\')+strtrim(loHeader.Width)
+11-07-2013 16:07:15 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: Error with Column1 - FontSize : Expression evaluated to an illegal value.;Linea : loColumns.FontSize		= IIF(nFontSize=0,loColumns.Fontsize,nFontSize)-10;Error :       1881;Ul
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+timo Alias Activo: CSRAUXCUERFAC;Ultimo registro:          1 ORDEN;DBF: C:\USERS\MARCOS\APPDATA\LOCAL\TEMP\000021AH1JJL.TMP;Ultimo Control activo: CODIGO
+11-07-2013 16:07:15 , Pila de llamadas
+11-07-2013 16:07:16 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 16:07:16 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+11-07-2013 16:07:17 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 16:07:18 , Nº de Linea :         65
+11-07-2013 16:07:19 , En el Fuente: 			.grid2.SetFocus()
+11-07-2013 16:07:19 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 16:07:21 , Objeto      : regfacvta.grid2.column1.text1.gotfocus
+11-07-2013 16:07:21 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 16:07:22 , Nº de Linea :         13
+11-07-2013 16:07:22 , En el Fuente: 		.grid2_FormatStandOut(.f.)
+11-07-2013 16:07:22 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 16:07:23 , Objeto      : regfacvta.grid2_formatstandout
+11-07-2013 16:07:24 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 16:07:24 , Nº de Linea :         18
+11-07-2013 16:07:25 , En el Fuente: 	loColumns.FontSize		= IIF(nFontSize=0,loColumns.Fontsize,nFontSize)-10
+11-07-2013 16:20:53 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: Unknown member COMBO1.;Linea : .grid2.coLUMN3.combo1.RowSource = "U,1,B,2";Error :       1925;Ultimo Alias Activo: CSRAUXCUERFAC;Ultimo registro:          1 ORDEN;DBF: C:\USE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RS\MARCOS\APPDATA\LOCAL\TEMP\000021AH1P46.TMP;Ultimo Control activo: IDCOMPROBA
+11-07-2013 16:20:53 , Pila de llamadas
+11-07-2013 16:20:55 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 16:20:55 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+11-07-2013 16:20:55 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 16:20:56 , Nº de Linea :         63
+11-07-2013 16:20:56 , En el Fuente: 			.generarlinea()   && 22=insert
+11-07-2013 16:20:56 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 16:20:57 , Objeto      : regfacvta.generarlinea
+11-07-2013 16:20:57 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+11-07-2013 16:20:59 , Nº de Linea :         31
+11-07-2013 16:20:59 , En el Fuente:     .grid2.coLUMN3.combo1.RowSource = "U,1,B,2"
+12-07-2013 13:59:53 , REGFACVTA.KEYPRESS, Error: Unknown member _CBOPLANPAGO.;Linea : thisform.containerencabeza._cboplanpago.SetFocus();Error :       1925;Ultimo Alias Activo: CSRPLANPAGO;Ultimo registro:          3 ;DBF: C:\USERS\MARCOS\APPDATA\LOCAL\T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EMP\00009B0P01NB.TMP;Ultimo Control activo: CODIGO
+12-07-2013 13:59:56 , Pila de llamadas
+12-07-2013 13:59:58 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+12-07-2013 13:59:58 , Objeto      : regfacvta.keypress
+12-07-2013 13:59:58 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+12-07-2013 13:59:58 , Nº de Linea :         76
+12-07-2013 14:00:00 , En el Fuente: 			        .antesdegrabar()      
+12-07-2013 14:00:00 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+12-07-2013 14:00:00 , Objeto      : regfacvta.antesdegrabar
+12-07-2013 14:00:01 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+12-07-2013 14:00:01 , Nº de Linea :         15
+12-07-2013 14:00:01 , En el Fuente: 	thisform.key_43()
+12-07-2013 14:00:01 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+12-07-2013 14:00:01 , Objeto      : regfacvta.key_43
+12-07-2013 14:00:03 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+12-07-2013 14:00:03 , Nº de Linea :          6
+12-07-2013 14:00:04 , En el Fuente: IF thisform.validarfactura()
+12-07-2013 14:00:04 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+12-07-2013 14:00:04 , Objeto      : regfacvta.validarfactura
+12-07-2013 14:00:05 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+12-07-2013 14:00:05 , Nº de Linea :         20
+12-07-2013 14:00:05 , En el Fuente:    	.ve_condicion(!.validarplan(.f.),'El cliente no puede utilizar PLAN PAGO - CUENTA CORRIENTE'+CHR(13)+'Utilize un area habilitada en el cliente...')
+12-07-2013 14:00:07 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+12-07-2013 14:00:07 , Objeto      : regfacvta.validarplan
+12-07-2013 14:00:09 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+12-07-2013 14:00:09 , Nº de Linea :         54
+12-07-2013 14:00:09 , En el Fuente: 		thisform.containerencabeza._cboplanpago.SetFocus()
+13-08-2013 11:48:10 , REGFACVTA.GRID2.COLUMN7.TEXT1.LOSTFOCUS, Error: No se encuentra la propiedad PREUNISIVA.;Linea : Oscatter.preunisiva  = Oscatter.preunita*100/(Oscatter.tasaiva+100);Error :       1734;Ultimo Alias Activo: CSRAUXCUERFAC;Ultimo regist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ro:          1 ORDEN;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\000040ZT02ZE.TMP;Ultimo Control activo: 
+13-08-2013 11:48:10 , Pila de llamadas
+13-08-2013 11:48:10 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 11:48:10 , Objeto      : regfacvta.grid2.column7.text1.lostfocus
+13-08-2013 11:48:10 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 11:48:10 , Nº de Linea :          1
+13-08-2013 11:48:10 , En el Fuente: thisform.grid2_lostfocustotal()
+13-08-2013 11:48:10 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 11:48:10 , Objeto      : regfacvta.grid2_lostfocustotal
+13-08-2013 11:48:10 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 11:48:10 , Nº de Linea :          7
+13-08-2013 11:48:10 , En el Fuente: 			IF !.grid2_control(lcSetFocus,lcGotfocus)
+13-08-2013 11:48:10 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 11:48:10 , Objeto      : regfacvta.grid2_control
+13-08-2013 11:48:10 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 11:48:10 , Nº de Linea :        199
+13-08-2013 11:48:10 , En el Fuente: 			Oscatter.preunisiva  = Oscatter.preunita*100/(Oscatter.tasaiva+100)
+13-08-2013 13:08:31 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: CONTAINERENREGISTRO es un miembro desconocido.;Linea : this.containerenregistro.Left = 0;Error :       1925;Ultimo Alias Activo: CSRPARAVARIO;Ultimo registro:          9 ;DBF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\000040ZT06BC.TMP;Ultimo Control activo: 
+13-08-2013 13:08:31 , Pila de llamadas
+13-08-2013 13:08:32 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:32 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+13-08-2013 13:08:32 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:32 , Nº de Linea :          9
+13-08-2013 13:08:32 , En el Fuente: 		.facturaciontradicional()
+13-08-2013 13:08:32 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:32 , Objeto      : regfacvta.facturaciontradicional
+13-08-2013 13:08:32 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:32 , Nº de Linea :          1
+13-08-2013 13:08:32 , En el Fuente: this.containerenregistro.Left = 0
+13-08-2013 13:08:43 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: CONTAINERENREGISTRO es un miembro desconocido.;Linea : this.containerenregistro.Left = 0;Error :       1925;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Co
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ntrol activo: 
+13-08-2013 13:08:43 , Pila de llamadas
+13-08-2013 13:08:43 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:43 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+13-08-2013 13:08:43 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:43 , Nº de Linea :          9
+13-08-2013 13:08:43 , En el Fuente: 		.facturaciontradicional()
+13-08-2013 13:08:43 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:44 , Objeto      : regfacvta.facturaciontradicional
+13-08-2013 13:08:44 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:44 , Nº de Linea :          1
+13-08-2013 13:08:44 , En el Fuente: this.containerenregistro.Left = 0
+13-08-2013 13:08:47 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: CONTAINERENREGISTRO es un miembro desconocido.;Linea : this.containerenregistro.Left = 0;Error :       1925;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Co
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ntrol activo: 
+13-08-2013 13:08:47 , Pila de llamadas
+13-08-2013 13:08:47 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:47 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+13-08-2013 13:08:47 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:47 , Nº de Linea :          9
+13-08-2013 13:08:47 , En el Fuente: 		.facturaciontradicional()
+13-08-2013 13:08:47 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:47 , Objeto      : regfacvta.facturaciontradicional
+13-08-2013 13:08:47 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:47 , Nº de Linea :          1
+13-08-2013 13:08:47 , En el Fuente: this.containerenregistro.Left = 0
+13-08-2013 13:08:48 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: CONTAINERENREGISTRO es un miembro desconocido.;Linea : this.containerenregistro.Top = 35;Error :       1925;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Co
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ntrol activo: 
+13-08-2013 13:08:48 , Pila de llamadas
+13-08-2013 13:08:49 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:49 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+13-08-2013 13:08:49 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:49 , Nº de Linea :          9
+13-08-2013 13:08:49 , En el Fuente: 		.facturaciontradicional()
+13-08-2013 13:08:49 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:49 , Objeto      : regfacvta.facturaciontradicional
+13-08-2013 13:08:49 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:49 , Nº de Linea :          2
+13-08-2013 13:08:49 , En el Fuente: this.containerenregistro.Top = 35
+13-08-2013 13:08:51 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: CONTAINERENREGISTRO es un miembro desconocido.;Linea : this.containerenregistro.Left = 0;Error :       1925;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Co
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ntrol activo: 
+13-08-2013 13:08:51 , Pila de llamadas
+13-08-2013 13:08:51 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:51 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+13-08-2013 13:08:51 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:52 , Nº de Linea :          9
+13-08-2013 13:08:52 , En el Fuente: 		.facturaciontradicional()
+13-08-2013 13:08:52 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:52 , Objeto      : regfacvta.facturaciontradicional
+13-08-2013 13:08:52 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:08:52 , Nº de Linea :          1
+13-08-2013 13:08:52 , En el Fuente: this.containerenregistro.Left = 0
+13-08-2013 13:09:03 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: CONTAINERENREGISTRO es un miembro desconocido.;Linea : this.containerenregistro.Left = 0;Error :       1925;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Co
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ntrol activo: 
+13-08-2013 13:09:03 , Pila de llamadas
+13-08-2013 13:09:03 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:09:03 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+13-08-2013 13:09:03 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:09:03 , Nº de Linea :          9
+13-08-2013 13:09:03 , En el Fuente: 		.facturaciontradicional()
+13-08-2013 13:09:03 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:09:03 , Objeto      : regfacvta.facturaciontradicional
+13-08-2013 13:09:03 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:09:03 , Nº de Linea :          1
+13-08-2013 13:09:03 , En el Fuente: this.containerenregistro.Left = 0
+13-08-2013 13:41:45 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: No se encuentra el objeto OOBJFORMATOGRID.;Linea : oObjFormatoGrid.ForeColor = ThisForm.Grid2.Column1.text1.ForeColor;Error :       1923;Ultimo Alias Activo: CSRAUXCUERFAC;Ul
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+timo registro:          1 ORDEN;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00005TL50335.TMP;Ultimo Control activo: CODIGO
+13-08-2013 13:41:45 , Pila de llamadas
+13-08-2013 13:41:46 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:41:46 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+13-08-2013 13:41:46 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:41:46 , Nº de Linea :         65
+13-08-2013 13:41:46 , En el Fuente: 			.grid2.SetFocus()
+13-08-2013 13:41:46 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:41:46 , Objeto      : regfacvta.grid2.column1.text1.gotfocus
+13-08-2013 13:41:46 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:41:46 , Nº de Linea :         13
+13-08-2013 13:41:46 , En el Fuente: 		.grid2_FormatStandOut(.t.)
+13-08-2013 13:41:46 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:41:46 , Objeto      : regfacvta.grid2_formatstandout
+13-08-2013 13:41:46 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 13:41:46 , Nº de Linea :          5
+13-08-2013 13:41:46 , En el Fuente: 	oObjFormatoGrid.ForeColor = ThisForm.Grid2.Column1.text1.ForeColor
+13-08-2013 13:51:30 , ON..., Error: Error al cargar el archivo - número de registro 95. Grid2  <o uno de sus miembros>.  ControlSource : No se encuentra la variable 'SINFUNCION';Linea : GO RECORD lnrecno IN CsrAuxCuerfac;Error :       2005;Ultimo Alias A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ctivo: ;Ultimo registro:          0 ;DBF: ;Ultimo Control activo: CODIGO
+13-08-2013 13:51:30 , Pila de llamadas
+13-08-2013 14:04:15 , REGFACVTA.INIT, Error: LBLVALE es un miembro desconocido.;Linea : .containerencabeza.lblvale.Caption='';Error :       1925;Ultimo Alias Activo: CSRSETEO;Ultimo registro:          5 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00005TL508V
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+L.TMP;Ultimo Control activo: CODIGO
+13-08-2013 14:04:15 , Pila de llamadas
+13-08-2013 14:04:16 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:04:16 , Objeto      : regfacvta.init
+13-08-2013 14:04:16 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:04:16 , Nº de Linea :         73
+13-08-2013 14:04:16 , En el Fuente: 	thisform.iniciavariables()    
+13-08-2013 14:04:16 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:04:16 , Objeto      : regfacvta.iniciavariables
+13-08-2013 14:04:16 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:04:16 , Nº de Linea :          5
+13-08-2013 14:04:16 , En el Fuente: 	.containerencabeza.lblvale.Caption=''
+13-08-2013 14:41:58 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: KEYPRESS es un método, evento u objeto.;Linea : IF !(.tipoform = "M" OR .keypress=-3);Error :       1737;Ultimo Alias Activo: CSRPREFITERMI;Ultimo registro:         31 ;DBF: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\000081S900FO.TMP;Ultimo Control activo: CODIGO
+13-08-2013 14:41:58 , Pila de llamadas
+13-08-2013 14:41:58 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:41:58 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+13-08-2013 14:41:58 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:41:58 , Nº de Linea :         63
+13-08-2013 14:41:58 , En el Fuente: 			.generarlinea()   && 22=insert
+13-08-2013 14:41:58 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:41:58 , Objeto      : regfacvta.generarlinea
+13-08-2013 14:41:58 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:41:58 , Nº de Linea :         47
+13-08-2013 14:41:58 , En el Fuente: 	.grid2.column1.text1.SetFocus 
+13-08-2013 14:41:58 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+13-08-2013 14:41:58 , Objeto      : regfacvta.containerencabeza._cbocomprobante.lostfocus
+13-08-2013 14:41:58 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+13-08-2013 14:41:58 , Nº de Linea :          4
+13-08-2013 14:41:59 , En el Fuente: this.lostfocosay()
+13-08-2013 14:41:59 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:41:59 , Objeto      : regfacvta.containerencabeza._cbocomprobante.lostfocosay
+13-08-2013 14:41:59 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:41:59 , Nº de Linea :         25
+13-08-2013 14:41:59 , En el Fuente: 	IF !(.tipoform = "M" OR .keypress=-3)
+13-08-2013 14:42:10 , REGFACVTA.CONTAINERENCABEZA._CBOCOMPROBANTE.LOSTFOCUS, Error: KEYPRESS es un método, evento u objeto.;Linea : IF !(.tipoform = "M" OR .keypress=-3);Error :       1737;Ultimo Alias Activo: CSRPREFITERMI;Ultimo registro:         31 ;D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\000081S900FO.TMP;Ultimo Control activo: 
+13-08-2013 14:42:10 , Pila de llamadas
+13-08-2013 14:42:10 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+13-08-2013 14:42:10 , Objeto      : regfacvta.containerencabeza._cbocomprobante.lostfocus
+13-08-2013 14:42:10 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+13-08-2013 14:42:10 , Nº de Linea :          4
+13-08-2013 14:42:10 , En el Fuente: this.lostfocosay()
+13-08-2013 14:42:10 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:42:10 , Objeto      : regfacvta.containerencabeza._cbocomprobante.lostfocosay
+13-08-2013 14:42:11 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:42:11 , Nº de Linea :         25
+13-08-2013 14:42:11 , En el Fuente: 	IF !(.tipoform = "M" OR .keypress=-3)
+13-08-2013 14:42:12 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: KEYPRESS es un método, evento u objeto.;Linea : IF !(.tipoform = "M" OR .keypress=-3);Error :       1737;Ultimo Alias Activo: CSRPREFITERMI;Ultimo registro:         31 ;DBF: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\000081S900FO.TMP;Ultimo Control activo: CODIGO
+13-08-2013 14:42:12 , Pila de llamadas
+13-08-2013 14:42:13 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:42:13 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+13-08-2013 14:42:13 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:42:13 , Nº de Linea :         63
+13-08-2013 14:42:13 , En el Fuente: 			.generarlinea()   && 22=insert
+13-08-2013 14:42:13 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:42:13 , Objeto      : regfacvta.generarlinea
+13-08-2013 14:42:13 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:42:13 , Nº de Linea :         47
+13-08-2013 14:42:13 , En el Fuente: 	.grid2.column1.text1.SetFocus 
+13-08-2013 14:42:13 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+13-08-2013 14:42:13 , Objeto      : regfacvta.containerencabeza._cbocomprobante.lostfocus
+13-08-2013 14:42:13 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+13-08-2013 14:42:13 , Nº de Linea :          4
+13-08-2013 14:42:13 , En el Fuente: this.lostfocosay()
+13-08-2013 14:42:13 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:42:13 , Objeto      : regfacvta.containerencabeza._cbocomprobante.lostfocosay
+13-08-2013 14:42:13 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:42:13 , Nº de Linea :         25
+13-08-2013 14:42:13 , En el Fuente: 	IF !(.tipoform = "M" OR .keypress=-3)
+13-08-2013 14:42:14 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: KEYPRESS es un método, evento u objeto.;Linea : IF !(.tipoform = "M" OR .keypress=-3);Error :       1737;Ultimo Alias Activo: CSRPREFITERMI;Ultimo registro:         31 ;DBF: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\000081S900FO.TMP;Ultimo Control activo: PARADA
+13-08-2013 14:42:15 , Pila de llamadas
+13-08-2013 14:42:15 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:42:15 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+13-08-2013 14:42:15 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:42:15 , Nº de Linea :         63
+13-08-2013 14:42:15 , En el Fuente: 			.generarlinea()   && 22=insert
+13-08-2013 14:42:15 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:42:15 , Objeto      : regfacvta.generarlinea
+13-08-2013 14:42:15 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:42:16 , Nº de Linea :         47
+13-08-2013 14:42:16 , En el Fuente: 	.grid2.column1.text1.SetFocus 
+13-08-2013 14:42:16 , Programa    : c:\xsoftmolino\desarrollo\clases\controles.vct
+13-08-2013 14:42:16 , Objeto      : regfacvta.containerencabeza._cbocomprobante.lostfocus
+13-08-2013 14:42:16 , Base Objeto : c:\xsoftmolino\desarrollo\clases\controles.vct
+13-08-2013 14:42:16 , Nº de Linea :          4
+13-08-2013 14:42:16 , En el Fuente: this.lostfocosay()
+13-08-2013 14:42:16 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:42:16 , Objeto      : regfacvta.containerencabeza._cbocomprobante.lostfocosay
+13-08-2013 14:42:16 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:42:16 , Nº de Linea :         25
+13-08-2013 14:42:17 , En el Fuente: 	IF !(.tipoform = "M" OR .keypress=-3)
+13-08-2013 14:44:38 , REGFACVTA.KEYPRESS, Error: CMDASIENTO es un miembro desconocido.;Linea : .cmdasiento.visible = .t.;Error :       1925;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Control activo: 
+13-08-2013 14:44:38 , Pila de llamadas
+13-08-2013 14:44:39 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:39 , Objeto      : regfacvta.keypress
+13-08-2013 14:44:39 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:39 , Nº de Linea :         30
+13-08-2013 14:44:39 , En el Fuente: 		   			.key_f4()
+13-08-2013 14:44:39 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:39 , Objeto      : regfacvta.key_f4
+13-08-2013 14:44:39 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:39 , Nº de Linea :         40
+13-08-2013 14:44:39 , En el Fuente: 		.cmdasiento.visible = .t.
+13-08-2013 14:44:44 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: LBLVALE es un miembro desconocido.;Linea : thisform.containerencabeza.lblvale.Caption='';Error :       1925;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Co
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ntrol activo: IDCOMPROBA
+13-08-2013 14:44:44 , Pila de llamadas
+13-08-2013 14:44:45 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:45 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+13-08-2013 14:44:45 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:45 , Nº de Linea :         14
+13-08-2013 14:44:45 , En el Fuente: 			.limpiarcursor()
+13-08-2013 14:44:45 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:45 , Objeto      : regfacvta.limpiarcursor
+13-08-2013 14:44:45 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:45 , Nº de Linea :          1
+13-08-2013 14:44:45 , En el Fuente: thisform.containerencabeza.lblvale.Caption=''
+13-08-2013 14:44:47 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: LBLVALE es un miembro desconocido.;Linea : thisform.containerencabeza.lblvale.Caption='';Error :       1925;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Co
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ntrol activo: IDCOMPROBA
+13-08-2013 14:44:47 , Pila de llamadas
+13-08-2013 14:44:47 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:47 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+13-08-2013 14:44:47 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:47 , Nº de Linea :         14
+13-08-2013 14:44:47 , En el Fuente: 			.limpiarcursor()
+13-08-2013 14:44:47 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:47 , Objeto      : regfacvta.limpiarcursor
+13-08-2013 14:44:47 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:47 , Nº de Linea :          1
+13-08-2013 14:44:48 , En el Fuente: thisform.containerencabeza.lblvale.Caption=''
+13-08-2013 14:44:49 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: LBLVALE es un miembro desconocido.;Linea : thisform.containerencabeza.lblvale.Caption='';Error :       1925;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Co
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ntrol activo: IDCOMPROBA
+13-08-2013 14:44:49 , Pila de llamadas
+13-08-2013 14:44:49 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:49 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+13-08-2013 14:44:49 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:49 , Nº de Linea :         14
+13-08-2013 14:44:49 , En el Fuente: 			.limpiarcursor()
+13-08-2013 14:44:49 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:50 , Objeto      : regfacvta.limpiarcursor
+13-08-2013 14:44:50 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:50 , Nº de Linea :          1
+13-08-2013 14:44:50 , En el Fuente: thisform.containerencabeza.lblvale.Caption=''
+13-08-2013 14:44:54 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: LBLVALE es un miembro desconocido.;Linea : thisform.containerencabeza.lblvale.Caption='';Error :       1925;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Co
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ntrol activo: IDCOMPROBA
+13-08-2013 14:44:54 , Pila de llamadas
+13-08-2013 14:44:54 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:54 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+13-08-2013 14:44:54 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:54 , Nº de Linea :         14
+13-08-2013 14:44:54 , En el Fuente: 			.limpiarcursor()
+13-08-2013 14:44:54 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:54 , Objeto      : regfacvta.limpiarcursor
+13-08-2013 14:44:54 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:54 , Nº de Linea :          1
+13-08-2013 14:44:55 , En el Fuente: thisform.containerencabeza.lblvale.Caption=''
+13-08-2013 14:44:58 , REGFACVTA.CONTAINERINGRESO._TXTLOSTFOCUS.GOTFOCUS, Error: CMDASIENTO es un miembro desconocido.;Linea : .cmdasiento.Visible = .f.;Error :       1925;Ultimo Alias Activo: CSRCOMPROBANTE;Ultimo registro:          1 ;DBF: C:\USERS\CHIV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I\APPDATA\LOCAL\TEMP\000081S9013D.TMP;Ultimo Control activo: 
+13-08-2013 14:44:58 , Pila de llamadas
+13-08-2013 14:44:59 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:59 , Objeto      : regfacvta.containeringreso._txtlostfocus.gotfocus
+13-08-2013 14:44:59 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:59 , Nº de Linea :         14
+13-08-2013 14:44:59 , En el Fuente: 			.limpiarcursor()
+13-08-2013 14:44:59 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:59 , Objeto      : regfacvta.limpiarcursor
+13-08-2013 14:44:59 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:59 , Nº de Linea :         11
+13-08-2013 14:44:59 , En el Fuente: 	.ponerpantallamodoedicion()	
+13-08-2013 14:44:59 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:44:59 , Objeto      : regfacvta.ponerpantallamodoedicion
+13-08-2013 14:44:59 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 14:45:00 , Nº de Linea :         11
+13-08-2013 14:45:00 , En el Fuente: 	.cmdasiento.Visible = .f.
+13-08-2013 15:04:30 , REGFACVTA.KEYPRESS, Error: CMDASIENTO es un miembro desconocido.;Linea : .cmdasiento.visible = .t.;Error :       1925;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Control activo: 
+13-08-2013 15:04:30 , Pila de llamadas
+13-08-2013 15:04:30 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:04:30 , Objeto      : regfacvta.keypress
+13-08-2013 15:04:30 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:04:30 , Nº de Linea :         30
+13-08-2013 15:04:30 , En el Fuente: 		   			.key_f4()
+13-08-2013 15:04:30 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:04:30 , Objeto      : regfacvta.key_f4
+13-08-2013 15:04:30 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:04:30 , Nº de Linea :         40
+13-08-2013 15:04:30 , En el Fuente: 		.cmdasiento.visible = .t.
+13-08-2013 15:04:35 , REGFACVTA.KEYPRESS, Error: KITBUSCAOALTAENDEPOSITO es un miembro desconocido.;Linea : .containeringreso.kitbuscaoaltaenDeposito.txtexiste1.SetFocus;Error :       1925;Ultimo Alias Activo: CSRAUXCUERFAC;Ultimo registro:          1 OR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEN;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\000081S901H0.TMP;Ultimo Control activo: IDCOMPROBA
+13-08-2013 15:04:35 , Pila de llamadas
+13-08-2013 15:04:35 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:04:35 , Objeto      : regfacvta.keypress
+13-08-2013 15:04:35 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:04:36 , Nº de Linea :         30
+13-08-2013 15:04:36 , En el Fuente: 		   			.key_f4()
+13-08-2013 15:04:36 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:04:36 , Objeto      : regfacvta.key_f4
+13-08-2013 15:04:36 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:04:36 , Nº de Linea :         47
+13-08-2013 15:04:36 , En el Fuente: 		.muestracomprobante(lcidretorno)
+13-08-2013 15:04:36 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:04:36 , Objeto      : regfacvta.muestracomprobante
+13-08-2013 15:04:36 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:04:36 , Nº de Linea :        342
+13-08-2013 15:04:36 , En el Fuente: 	.containeringreso.kitbuscaoaltaenDeposito.txtexiste1.SetFocus
+13-08-2013 15:15:20 , REGFACVTA.CMDCONSULTA.CLICK, Error: No se encuentra la propiedad FECHA.;Linea : OscatterCab.cfecha	= DTOC(Oscatter.fecha);Error :       1734;Ultimo Alias Activo: CSRCABEFAC;Ultimo registro:          1 ;DBF: C:\USERS\CHIVI\APPDATA\LO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAL\TEMP\000081S902P3.TMP;Ultimo Control activo: 
+13-08-2013 15:15:20 , Pila de llamadas
+13-08-2013 15:15:20 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:15:20 , Objeto      : regfacvta.cmdconsulta.click
+13-08-2013 15:15:20 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:15:21 , Nº de Linea :          1
+13-08-2013 15:15:21 , En el Fuente: thisform.key_f4()  
+13-08-2013 15:15:21 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:15:21 , Objeto      : regfacvta.key_f4
+13-08-2013 15:15:21 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:15:21 , Nº de Linea :         46
+13-08-2013 15:15:21 , En el Fuente: 		.muestracomprobante(lcidretorno)
+13-08-2013 15:15:21 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:15:21 , Objeto      : regfacvta.muestracomprobante
+13-08-2013 15:15:21 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:15:21 , Nº de Linea :         82
+13-08-2013 15:15:21 , En el Fuente: 		OscatterCab.cfecha	= DTOC(Oscatter.fecha)
+13-08-2013 15:38:57 , REGFACVTA.KEYPRESS, Error: _CBOPLANPAGO es un miembro desconocido.;Linea : thisform.containerencabeza._cboplanpago.SetFocus();Error :       1925;Ultimo Alias Activo: CSRPLANPAGO;Ultimo registro:          3 ;DBF: C:\USERS\CHIVI\APPDA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TA\LOCAL\TEMP\000081S90AZZ.TMP;Ultimo Control activo: CODIGO
+13-08-2013 15:38:57 , Pila de llamadas
+13-08-2013 15:38:58 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:38:58 , Objeto      : regfacvta.keypress
+13-08-2013 15:38:58 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:38:58 , Nº de Linea :         71
+13-08-2013 15:38:58 , En el Fuente: 			        .antesdegrabar()      
+13-08-2013 15:38:58 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:38:58 , Objeto      : regfacvta.antesdegrabar
+13-08-2013 15:38:58 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:38:58 , Nº de Linea :         15
+13-08-2013 15:38:58 , En el Fuente: 	thisform.key_43()
+13-08-2013 15:38:58 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:38:58 , Objeto      : regfacvta.key_43
+13-08-2013 15:38:58 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:38:58 , Nº de Linea :          6
+13-08-2013 15:38:58 , En el Fuente: IF thisform.validarfactura()
+13-08-2013 15:38:58 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:38:58 , Objeto      : regfacvta.validarfactura
+13-08-2013 15:38:58 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:38:58 , Nº de Linea :         20
+13-08-2013 15:38:58 , En el Fuente:    	.ve_condicion(!.validarplan(.f.),'El cliente no puede utilizar PLAN PAGO - CUENTA CORRIENTE'+CHR(13)+'Utilize un area habilitada en el cliente...')
+13-08-2013 15:38:58 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:38:59 , Objeto      : regfacvta.validarplan
+13-08-2013 15:38:59 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta_ptovta.sct
+13-08-2013 15:38:59 , Nº de Linea :         54
+13-08-2013 15:38:59 , En el Fuente: 		thisform.containerencabeza._cboplanpago.SetFocus()
+14-08-2013 16:24:59 , MAIN, Error: No se encuentra el alias.;Linea : IF RECCOUNT("CsrMenu")<1;Error :         13;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Control activo: 
+14-08-2013 16:24:59 , Pila de llamadas
+14-08-2013 16:24:59 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\progs\main.fxp
+14-08-2013 16:24:59 , Objeto      : main
+14-08-2013 16:24:59 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\progs\main.prg
+14-08-2013 16:24:59 , Nº de Linea :        243
+14-08-2013 16:24:59 , En el Fuente: 	oMenu.createMenu('dataptvta','seguridad','favoritos',Pidsistema)
+14-08-2013 16:24:59 , Programa    : c:\xsoftmolino\desarrollo\clases\menu.vct
+14-08-2013 16:24:59 , Objeto      : createmenu.createmenu
+14-08-2013 16:24:59 , Base Objeto : c:\xsoftmolino\desarrollo\clases\menu.vct
+14-08-2013 16:24:59 , Nº de Linea :         54
+14-08-2013 16:24:59 , En el Fuente: 	IF RECCOUNT("CsrMenu")<1
+03-06-2016 12:37:55 , MAIN, Error: CMDASIENTO es un miembro desconocido.;Linea : .cmdasiento.Visible = .f.;Error :       1925;Ultimo Alias Activo: CSRCOMPROBANTE;Ultimo registro:          1 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00002HOP00HQ.TMP;Ultimo 
+
+
+
+
+
+
+Control activo: 
+03-06-2016 12:37:55 , Pila de llamadas
+03-06-2016 12:37:56 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\progs\main.fxp
+03-06-2016 12:37:56 , Objeto      : main
+03-06-2016 12:37:56 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\progs\main.prg
+03-06-2016 12:37:56 , Nº de Linea :        255
+03-06-2016 12:37:56 , En el Fuente: 	Read events   
+03-06-2016 12:37:56 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta.sct
+03-06-2016 12:37:56 , Objeto      : regfacvta.keypress
+03-06-2016 12:37:56 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta.sct
+03-06-2016 12:37:56 , Nº de Linea :         23
+03-06-2016 12:37:56 , En el Fuente: 	        		.k_escape()
+03-06-2016 12:37:56 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta.sct
+03-06-2016 12:37:56 , Objeto      : regfacvta.k_escape
+03-06-2016 12:37:56 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta.sct
+03-06-2016 12:37:56 , Nº de Linea :         17
+03-06-2016 12:37:56 , En el Fuente: 			.limpiarcursor()		  	 	
+03-06-2016 12:37:56 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta.sct
+03-06-2016 12:37:56 , Objeto      : regfacvta.limpiarcursor
+03-06-2016 12:37:56 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta.sct
+03-06-2016 12:37:56 , Nº de Linea :         11
+03-06-2016 12:37:56 , En el Fuente: 	.ponerpantallamodoedicion()	
+03-06-2016 12:37:56 , Programa    : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta.sct
+03-06-2016 12:37:56 , Objeto      : regfacvta.ponerpantallamodoedicion
+03-06-2016 12:37:56 , Base Objeto : c:\xsoftmolino\proyectos\gestion_ptovta\forms\regfacvta.sct
+03-06-2016 12:37:56 , Nº de Linea :         11
+03-06-2016 12:37:56 , En el Fuente: 	.cmdasiento.Visible = .f.

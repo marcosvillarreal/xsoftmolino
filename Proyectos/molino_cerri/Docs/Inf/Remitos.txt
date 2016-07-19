@@ -1,0 +1,31 @@
+Remito es clase Remito Entrega
+
+El remito no toca asientos, impuestos, cuenta corriente.
+
+Crear Factura de Venta por medio de Remitos 
+	No mueve stock la factura, pq lo hizo el/los remito
+	Acceso por "parada", varios comprobantes a recuperar
+
+Crear Factura y luego Remitos
+	No mueve stock la factura, pq lo hara el/los remitos
+	Habilitar del menu Facturar con Entrega a Posterior
+	
+Crear Remito a partir de una Factura de Venta
+	Acceso desde "parada", solo un comprobante a recuperar
+	Mueven el stock
+	Los productos deben ser los de la factura o unificaciones del mismo.
+	La suma del remito y otros remitos, no puede superar al de la factura.
+
+Crear Factura de Venta con Remito [debe estar echo en Molisud, hacerlo variable]	
+	
+Reporte para Remitos de Entrega (Molisud)
+Agregarle "Domicilio de Entrega"
+
+
+*!*		tipoform F - tipofactura N = Facturador Normal
+*!*		tipoform O - tipofactura M = Facturador Manula con Transporte
+*!*		tipoform O - tipofactura N = Facturador Normal con Transporte
+*!*		tipoform F - tipofactura D = Facturador Diferida 
+*!*		tipoform O - tipofactura N = Facturador Normal con Remito de Entrega [activa el generaremito]
+
+.lnidcomprobaremito

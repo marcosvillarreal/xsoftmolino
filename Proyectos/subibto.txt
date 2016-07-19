@@ -1,0 +1,10 @@
+Subdiario retenciones/percepciones de ingresos brutos
+	Filtros
+•	Desde/Hasta ó Periodo
+•	Cta.Cte (Clientes o Proveedores o Bancos)
+•	Modulo de Origen (Factura,Compra,Cobranza,Pagos,Bancos)
+*	Provincias
+•	CUIT (solo completar números, como se hace en abm ctacte)
+Logica
+Recuperar todos los impuestos de ingresos brutos.
+Cod Ctacte,Nombre,cuit,Tipo comprobante, Letra,Talonario,Numero Comp,Fecha,NroCaja, Tipo ibgrupos (Percep, Rete) Importe (+/-),Orden (maopera.id, sin los dos primeros digitos “11”)

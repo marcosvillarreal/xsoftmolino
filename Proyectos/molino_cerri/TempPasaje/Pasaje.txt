@@ -1,0 +1,13 @@
+12-01-2015 , CABEFAC [0310619193]: No coinciden los totales del cuerpo 360.04y el encabezado 360.00
+12-01-2015 , CABEFAC [0310619195]: No coinciden los totales del cuerpo 640.00y el encabezado 1859.96
+12-01-2015 , CABEFAC [0310619196]: No coinciden los totales del cuerpo 50.30y el encabezado 50.31
+12-01-2015 , CABEFAC [0310619197]: No coinciden los totales del cuerpo 993.00y el encabezado 1755.00
+12-01-2015 , CABEFAC [0310619193]: No coinciden los totales del cuerpo 360.04y el encabezado 360.00
+12-01-2015 , CABEFAC [0310619195]: No coinciden los totales del cuerpo 640.00y el encabezado 1859.96
+------------------------------------------------
+12-01-2015 , CABEFAC [0310619196]: No coinciden los totales del cuerpo 50.30y el encabezado 50.31
+12-01-2015 , CABEFAC [0310619197]: No coinciden los totales del cuerpo 993.00y el encabezado 1755.00
+12-01-2015 , CABEFAC [0310619198]: No coinciden los totales del cuerpo 990.00y el encabezado 1583.98
+12-01-2015 , CABEFAC [0310619200]: No coinciden los totales del cuerpo 432.65y el encabezado 432.66
+12-01-2015 , CABEFAC [0310619201]: No coinciden los totales del cuerpo 746.19y el encabezado 746.13
+12-01-2015 , CABEFAC [0310619202]: No coinciden los totales del cuerpo 990.00y el encabezado 2500.00
