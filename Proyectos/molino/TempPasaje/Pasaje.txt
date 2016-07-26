@@ -11,3 +11,13 @@
 12-01-2015 , CABEFAC [0310619200]: No coinciden los totales del cuerpo 432.65y el encabezado 432.66
 12-01-2015 , CABEFAC [0310619201]: No coinciden los totales del cuerpo 746.19y el encabezado 746.13
 12-01-2015 , CABEFAC [0310619202]: No coinciden los totales del cuerpo 990.00y el encabezado 2500.00
+26-07-2016 , CAJA [  20160612]: No existe la caja 20160612 en la gestion. La misma sera creada.
+26-07-2016 , CAJA [  20160613]: No existe la caja 20160613 en la gestion. La misma sera creada.
+26-07-2016 , CAJA [  20160614]: No existe la caja 20160614 en la gestion. La misma sera creada.
+26-07-2016 , CAJA [  20160615]: No existe la caja 20160615 en la gestion. La misma sera creada.
+26-07-2016 , CAJA [  20160616]: No existe la caja 20160616 en la gestion. La misma sera creada.
+26-07-2016 , CAJA [  20160617]: No existe la caja 20160617 en la gestion. La misma sera creada.
+26-07-2016 , CAJA [  20160618]: No existe la caja 20160618 en la gestion. La misma sera creada.
+26-07-2016 , CAJA [  20160616]: No existe la caja 20160616 en la gestion. La misma sera creada.
+26-07-2016 , CAJA [  20160617]: No existe la caja 20160617 en la gestion. La misma sera creada.
+26-07-2016 , CAJA [  20160618]: No existe la caja 20160618 en la gestion. La misma sera creada.
