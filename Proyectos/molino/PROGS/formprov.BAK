@@ -1,0 +1,9 @@
+LOCAL oFormWin
+
+oFormWin = CREATEOBJECT("base")
+oFormWin.Visible = .t.
+
+oFormWin.AddObject("_optionprovincia","_ogroup_noenter")
+stop()
+
+RELEASE oFormWin
