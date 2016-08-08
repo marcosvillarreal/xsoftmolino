@@ -1,10 +1,10 @@
-goapp.idejercicio = 1100000018
-goapp.idejerciciofac = 1100000018
+goapp.idejercicio = 1100000022
+goapp.idejerciciofac = 1100000022
 goapp.terminal = 8
 goapp.idusuario = 1
 goapp.sucursal = 1
 goapp.switchusuario = '11000'
-goapp.ejercicio = 33
+goapp.ejercicio = 34
 goapp.empresarete = 1
 oavisar.usuario('goapp.idejercicio = '+LTRIM(STR(goapp.idejercicio))+CHR(13);
 				+'GOAPP.SUCURSAL10 = '+STR(GOAPP.SUCURSAL10)+CHR(13);
