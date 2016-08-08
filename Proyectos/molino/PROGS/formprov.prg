@@ -1,10 +1,17 @@
-LOCAL oFormWin
+*!*	LOCAL oFormWin
 
-oFormWin = CREATEOBJECT("base")
-oFormWin.Visible = .t.
+*!*	oFormWin = CREATEOBJECT("base")
+*!*	oFormWin.Visible = .t.
 
-oFormWin.AddObject("_oprovincia","_ogroup_noenter")
-oFormWin._oprovincia.Visible = .t.
-stop()
+*!*	oFormWin.AddObject("_oprovincia","_ogroup_noenter")
+*!*	*!*	oFormWin._oprovincia.Visible = .t.
+*!*	stop()
 
-RELEASE oFormWin
+*!*	RELEASE oFormWin
+
+LOCAL cForm
+
+cForm = "regprovibbto"
+
+
+DO FORM &cForm
