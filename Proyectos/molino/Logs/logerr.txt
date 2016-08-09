@@ -1,2255 +1,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-imo registro:          1 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT00B6.TMP;Ultimo Control activo: 
-08-08-2016 11:19:48 , Pila de llamadas
-08-08-2016 11:19:48 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 11:19:48 , Objeto      : regprovibbto.contenedormanual.kitbuscaoaltaenprovincia.gotfocus
-08-08-2016 11:19:48 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 11:19:49 , Nº de Linea :          1
-08-08-2016 11:19:49 , En el Fuente: thisform.ultimocontainer = UPPER(this.Parent.name)
-08-08-2016 11:41:21 , REGPROVIBBTO.INIT, Error: El valor, tipo o número de argumentos no es válido para la función.;Linea : IF TYPE(oParametros)$'XU';Error :         11;Ultimo Alias Activo: CSRUSERSECU;Ultimo registro:          1 ;DBF: C:\USERS\MARCO\APP
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-DATA\LOCAL\TEMP\0000DGJT01HD.TMP;Ultimo Control activo: 
-08-08-2016 11:41:21 , Pila de llamadas
-08-08-2016 11:41:22 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 11:41:22 , Objeto      : regprovibbto.init
-08-08-2016 11:41:22 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 11:41:22 , Nº de Linea :          3
-08-08-2016 11:41:22 , En el Fuente: IF TYPE(oParametros)$'XU'
-08-08-2016 11:43:30 , REGPROVIBBTO.INIT, Error: El valor, tipo o número de argumentos no es válido para la función.;Linea : IF TYPE(oParametros)$'XU';Error :         11;Ultimo Alias Activo: CSRUSERSECU;Ultimo registro:          1 ;DBF: C:\USERS\MARCO\APP
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-DATA\LOCAL\TEMP\0000DGJT01HV.TMP;Ultimo Control activo: 
-08-08-2016 11:43:30 , Pila de llamadas
-08-08-2016 11:43:30 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 11:43:30 , Objeto      : regprovibbto.init
-08-08-2016 11:43:30 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 11:43:30 , Nº de Linea :          3
-08-08-2016 11:43:31 , En el Fuente: IF TYPE(oParametros)$'XU'
-08-08-2016 11:44:00 , REGPROVIBBTO.INIT, Error: OPARAMETROS no es un objeto.;Linea : .iniciarvariables(oParametros.idprovincia);Error :       1924;Ultimo Alias Activo: CSRUSERSECU;Ultimo registro:          1 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DG
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-JT01IC.TMP;Ultimo Control activo: 
-08-08-2016 11:44:00 , Pila de llamadas
-08-08-2016 11:44:00 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 11:44:00 , Objeto      : regprovibbto.init
-08-08-2016 11:44:00 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 11:44:00 , Nº de Linea :          9
-08-08-2016 11:44:01 , En el Fuente: 	.iniciarvariables(oParametros.idprovincia)
-08-08-2016 11:51:57 , REGPROVIBBTO.INIT, Error: No se encuentra la propiedad _OPROVINCIA.;Linea : FOR EACH oOption  IN this._oprovincia;Error :       1734;Ultimo Alias Activo: CSRPARAVARIO;Ultimo registro:          2 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-MP\0000DGJT01XI.TMP;Ultimo Control activo: 
-08-08-2016 11:51:57 , Pila de llamadas
-08-08-2016 11:51:58 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 11:51:58 , Objeto      : regprovibbto.init
-08-08-2016 11:51:58 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 11:51:58 , Nº de Linea :          9
-08-08-2016 11:51:59 , En el Fuente: 	.iniciarvariables(oParametros.idprovincia)
-08-08-2016 11:51:59 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 11:51:59 , Objeto      : regprovibbto.iniciarvariables
-08-08-2016 11:51:59 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 11:51:59 , Nº de Linea :         22
-08-08-2016 11:51:59 , En el Fuente: 	FOR EACH oOption  IN this._oprovincia 
-08-08-2016 12:14:38 , REGPROVIBBTO.INIT, Error: ODATOS es un miembro desconocido.;Linea : nidprovincia	= this.odatos.nidprovincia;Error :       1925;Ultimo Alias Activo: CSRUSERSECU;Ultimo registro:          1 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-DGJT02M0.TMP;Ultimo Control activo: 
-08-08-2016 12:14:38 , Pila de llamadas
-08-08-2016 12:14:39 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:14:39 , Objeto      : regprovibbto.init
-08-08-2016 12:14:39 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:14:39 , Nº de Linea :         13
-08-08-2016 12:14:40 , En el Fuente: 	.iniciarvariables(oParametros)
-08-08-2016 12:14:40 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:14:40 , Objeto      : regprovibbto.iniciarvariables
-08-08-2016 12:14:40 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:14:40 , Nº de Linea :         13
-08-08-2016 12:14:40 , En el Fuente: nidprovincia	= this.odatos.nidprovincia
-08-08-2016 12:15:35 , REGPROVIBBTO.INIT, Error: No se encuentra la variable 'LNIDCTACTE'.;Linea : IF lnidctacte = 0;Error :         12;Ultimo Alias Activo: CSRPARAVARIO;Ultimo registro:          1 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT02MK.TMP;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ultimo Control activo: 
-08-08-2016 12:15:35 , Pila de llamadas
-08-08-2016 12:15:35 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:15:35 , Objeto      : regprovibbto.init
-08-08-2016 12:15:35 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:15:35 , Nº de Linea :         13
-08-08-2016 12:15:36 , En el Fuente: 	.iniciarvariables(oParametros)
-08-08-2016 12:15:36 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:15:36 , Objeto      : regprovibbto.iniciarvariables
-08-08-2016 12:15:37 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:15:37 , Nº de Linea :         48
-08-08-2016 12:15:37 , En el Fuente: 		this.oReteIbbto.Controlctacte(this.oReteIbbto.oDatos.nidctacte)
-08-08-2016 12:15:37 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
-08-08-2016 12:15:37 , Objeto      : regprovibbto.oreteibbto.controlctacte
-08-08-2016 12:15:37 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
-08-08-2016 12:15:37 , Nº de Linea :          3
-08-08-2016 12:15:38 , En el Fuente: IF lnidctacte = 0
-08-08-2016 12:16:31 , REGPROVIBBTO.INIT, Error: No se encuentra la variable 'NIDCTACTE'.;Linea : this.odatos.nidctacte = nidctacte;Error :         12;Ultimo Alias Activo: CSRPARAVARIO;Ultimo registro:          1 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\00
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-00DGJT02N2.TMP;Ultimo Control activo: 
-08-08-2016 12:16:31 , Pila de llamadas
-08-08-2016 12:16:31 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:16:31 , Objeto      : regprovibbto.init
-08-08-2016 12:16:32 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:16:32 , Nº de Linea :         13
-08-08-2016 12:16:32 , En el Fuente: 	.iniciarvariables(oParametros)
-08-08-2016 12:16:32 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:16:32 , Objeto      : regprovibbto.iniciarvariables
-08-08-2016 12:16:32 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:16:33 , Nº de Linea :         48
-08-08-2016 12:16:33 , En el Fuente: 		this.oReteIbbto.Controlctacte(this.oReteIbbto.oDatos.nidctacte)
-08-08-2016 12:16:33 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
-08-08-2016 12:16:33 , Objeto      : regprovibbto.oreteibbto.controlctacte
-08-08-2016 12:16:34 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
-08-08-2016 12:16:34 , Nº de Linea :         15
-08-08-2016 12:16:34 , En el Fuente: this.odatos.nidctacte = nidctacte
-08-08-2016 12:17:26 , REGPROVIBBTO.INIT, Error: AGREGAOBJETO es un miembro desconocido.;Linea : thisform.agregaobjeto.objobteneribto(this.oDatos.cCuit,this.oDatos.nIdProvincia,@caliascateibto,@nporperce,@nporrete);Error :       1925;Ultimo Alias Activo: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-FSRCTRLCTACTE;Ultimo registro:          1 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT02NK.TMP;Ultimo Control activo: 
-08-08-2016 12:17:27 , Pila de llamadas
-08-08-2016 12:17:27 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:17:27 , Objeto      : regprovibbto.init
-08-08-2016 12:17:27 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:17:27 , Nº de Linea :         13
-08-08-2016 12:17:28 , En el Fuente: 	.iniciarvariables(oParametros)
-08-08-2016 12:17:28 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:17:28 , Objeto      : regprovibbto.iniciarvariables
-08-08-2016 12:17:28 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:17:28 , Nº de Linea :         48
-08-08-2016 12:17:28 , En el Fuente: 		this.oReteIbbto.Controlctacte(this.oReteIbbto.oDatos.nidctacte)
-08-08-2016 12:17:29 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
-08-08-2016 12:17:29 , Objeto      : regprovibbto.oreteibbto.controlctacte
-08-08-2016 12:17:29 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
-08-08-2016 12:17:30 , Nº de Linea :         28
-08-08-2016 12:17:30 , En el Fuente: thisform.agregaobjeto.objobteneribto(this.oDatos.cCuit,this.oDatos.nIdProvincia,@caliascateibto,@nporperce,@nporrete)
-08-08-2016 12:18:29 , REGPROVIBBTO.INIT, Error: No se encuentra la propiedad NPORCENTAJE.;Linea : .nPorcentaje		= oDatos.nPorcentaje;Error :       1734;Ultimo Alias Activo: CSRUSERSECU;Ultimo registro:          1 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-000DGJT02OU.TMP;Ultimo Control activo: 
-08-08-2016 12:18:29 , Pila de llamadas
-08-08-2016 12:18:30 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:18:30 , Objeto      : regprovibbto.init
-08-08-2016 12:18:30 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:18:30 , Nº de Linea :         13
-08-08-2016 12:18:31 , En el Fuente: 	.iniciarvariables(oParametros)
-08-08-2016 12:18:31 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:18:31 , Objeto      : regprovibbto.iniciarvariables
-08-08-2016 12:18:31 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:18:31 , Nº de Linea :         10
-08-08-2016 12:18:31 , En el Fuente: 	.nPorcentaje		= oDatos.nPorcentaje
-08-08-2016 12:19:14 , REGPROVIBBTO.INIT, Error: No se encuentra la variable 'NRETENCION'.;Linea : this.oReteIbbto.Formulacalculo(nRetencion,nPorce);Error :         12;Ultimo Alias Activo: CSRPARAVARIO;Ultimo registro:          1 ;DBF: C:\USERS\MARCO\APPD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ATA\LOCAL\TEMP\0000DGJT02PE.TMP;Ultimo Control activo: 
-08-08-2016 12:19:14 , Pila de llamadas
-08-08-2016 12:19:15 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:19:15 , Objeto      : regprovibbto.init
-08-08-2016 12:19:15 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:19:15 , Nº de Linea :         13
-08-08-2016 12:19:16 , En el Fuente: 	.iniciarvariables(oParametros)
-08-08-2016 12:19:16 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:19:16 , Objeto      : regprovibbto.iniciarvariables
-08-08-2016 12:19:16 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:19:16 , Nº de Linea :         51
-08-08-2016 12:19:16 , En el Fuente: 		this.oReteIbbto.Formulacalculo(nRetencion,nPorce)
-08-08-2016 12:20:07 , REGPROVIBBTO.INIT, Error: El valor, tipo o número de argumentos no es válido para la función.;Linea : dfecdesde = CTOD('01-'+strzero(MONTH(ldfecdesde),2)+'-'+STR(YEAR(ldfecdesde)));Error :         11;Ultimo Alias Activo: CSRPARAVARI
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-O;Ultimo registro:          1 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT02U2.TMP;Ultimo Control activo: 
-08-08-2016 12:20:07 , Pila de llamadas
-08-08-2016 12:20:07 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:20:07 , Objeto      : regprovibbto.init
-08-08-2016 12:20:07 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:20:07 , Nº de Linea :         13
-08-08-2016 12:20:08 , En el Fuente: 	.iniciarvariables(oParametros)
-08-08-2016 12:20:08 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:20:08 , Objeto      : regprovibbto.iniciarvariables
-08-08-2016 12:20:08 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
-08-08-2016 12:20:09 , Nº de Linea :         53
-08-08-2016 12:20:09 , En el Fuente: 		this.oReteIbbto.Formulacalculo(nRetencion,nPorce)
-08-08-2016 12:20:09 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
-08-08-2016 12:20:09 , Objeto      : regprovibbto.oreteibbto.formulacalculo
-08-08-2016 12:20:09 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
-08-08-2016 12:20:09 , Nº de Linea :         20
-08-08-2016 12:20:10 , En el Fuente: 	dfecdesde = CTOD('01-'+strzero(MONTH(ldfecdesde),2)+'-'+STR(YEAR(ldfecdesde)))
-08-08-2016 12:20:45 , REGPROVIBBTO.INIT, Error: El valor, tipo o número de argumentos no es válido para la función.;Linea : dfecdesde = CTOD('01-'+strzero(MONTH(ldfecdesde),2)+'-'+STR(YEAR(ldfecdesde)));Error :         11;Ultimo Alias Activo: CSRPARAVARI
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 O;Ultimo registro:          1 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT02UM.TMP;Ultimo Control activo: 
 08-08-2016 12:20:45 , Pila de llamadas
 08-08-2016 12:20:46 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
@@ -2268,6 +19,54 @@ O;Ultimo registro:          1 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT02
 08-08-2016 12:20:49 , Nº de Linea :         20
 08-08-2016 12:20:49 , En el Fuente: 	dfecdesde = CTOD('01-'+strzero(MONTH(ldfecdesde),2)+'-'+STR(YEAR(ldfecdesde)))
 08-08-2016 12:21:55 , REGPROVIBBTO.INIT, Error: No se encuentra el alias 'CSRAUXPLANCUE'.;Linea : SELECT CsrAuxPlanCue;Error :         13;Ultimo Alias Activo: CSRPARAVARIO;Ultimo registro:          1 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT02VF.T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2545,6 +344,54 @@ MP;Ultimo Control activo:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 EMP\0000DGJT02WU.TMP;Ultimo Control activo: 
 08-08-2016 12:27:18 , Pila de llamadas
 08-08-2016 12:27:18 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
@@ -2563,6 +410,54 @@ EMP\0000DGJT02WU.TMP;Ultimo Control activo:
 08-08-2016 12:27:20 , Nº de Linea :         28
 08-08-2016 12:27:20 , En el Fuente: 	nSumaNG = ROUND(this.oDatos.nSumaBase,2)
 08-08-2016 12:28:22 , REGPROVIBBTO.INIT, Error: No se encuentra la propiedad NSUMABASE.;Linea : nSumaNG = ROUND(this.oDatos.nSumaBase,2);Error :       1734;Ultimo Alias Activo: CSRPARAVARIO;Ultimo registro:          1 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2821,6 +716,54 @@ EMP\0000DGJT02XB.TMP;Ultimo Control activo:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 EMP\0000DGJT02XZ.TMP;Ultimo Control activo: 
 08-08-2016 12:29:11 , Pila de llamadas
 08-08-2016 12:29:12 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
@@ -2839,6 +782,54 @@ EMP\0000DGJT02XZ.TMP;Ultimo Control activo:
 08-08-2016 12:29:14 , Nº de Linea :         28
 08-08-2016 12:29:14 , En el Fuente: 	nSumaNG = ROUND(this.oDatos.nSumaBase,2)
 08-08-2016 12:32:28 , REGPROVIBBTO.INIT, Error: No se encuentra el alias 'CSRRETUVO'.;Linea : SELECT CsrRetuvo;Error :         13;Ultimo Alias Activo: CSRPARAVARIO;Ultimo registro:          2 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT031J.TMP;Ultim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3076,6 +1067,54 @@ o Control activo:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 L\TEMP\0000DGJT03SJ.TMP;Ultimo Control activo: 
 08-08-2016 12:37:36 , Pila de llamadas
 08-08-2016 12:37:36 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
@@ -3094,6 +1133,54 @@ L\TEMP\0000DGJT03SJ.TMP;Ultimo Control activo:
 08-08-2016 12:37:38 , Nº de Linea :         14
 08-08-2016 12:37:38 , En el Fuente: 	this.formulacalculo(@nReteRB,@nPorce)
 08-08-2016 12:40:56 , REGFACCPRA.KEYPRESS, Error: No se encuentra la variable 'NBASERB'.;Linea : this.oDatos.nBaseARetener	= nBaseRB - nAfectadoNG;Error :         12;Ultimo Alias Activo: CSRRETECOMP;Ultimo registro:          1 ;DBF: C:\USERS\MARCO\APPDAT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3313,6 +1400,54 @@ A\LOCAL\TEMP\0000DGJT04G4.TMP;Ultimo Control activo:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 o Control activo: 
 08-08-2016 12:47:54 , Pila de llamadas
 08-08-2016 12:47:54 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
@@ -3331,6 +1466,54 @@ o Control activo:
 08-08-2016 12:47:56 , Nº de Linea :         84
 08-08-2016 12:47:56 , En el Fuente: 		SELECT CsrRetuvo
 08-08-2016 13:20:56 , REGPROVIBBTO._OPROVINCIA.INTERACTIVECHANGE, Error: No se encuentra el alias 'CSRRETUVO'.;Linea : SELECT CsrRetuvo;Error :         13;Ultimo Alias Activo: CSRPARAVARIO;Ultimo registro:          2 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3530,6 +1713,54 @@ MP\0000DGJT0627.TMP;Ultimo Control activo:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 MP\0000DGJT0631.TMP;Ultimo Control activo: 
 08-08-2016 13:23:04 , Pila de llamadas
 08-08-2016 13:23:05 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
@@ -3548,6 +1779,54 @@ MP\0000DGJT0631.TMP;Ultimo Control activo:
 08-08-2016 13:23:07 , Nº de Linea :         84
 08-08-2016 13:23:07 , En el Fuente: 		SELECT CsrRetuvo
 08-08-2016 13:29:25 , REGPROVIBBTO.INIT, Error: No se puede borrar el objeto REGPROVIBBTO  porque está en uso.;Linea : clear all;Error :       1951;Ultimo Alias Activo: CSRPARAVARIO;Ultimo registro:          1 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3731,6 +2010,54 @@ DGJT063G.TMP;Ultimo Control activo:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 MP\0000DGJT064E.TMP;Ultimo Control activo: 
 08-08-2016 13:30:40 , Pila de llamadas
 08-08-2016 13:30:40 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
@@ -3749,6 +2076,54 @@ MP\0000DGJT064E.TMP;Ultimo Control activo:
 08-08-2016 13:30:43 , Nº de Linea :         84
 08-08-2016 13:30:43 , En el Fuente: 		SELECT CsrRetuvo
 08-08-2016 13:32:21 , REGPROVIBBTO._OPROVINCIA.INTERACTIVECHANGE, Error: No se encuentra el alias 'CSRRETUVO'.;Linea : SELECT CsrRetuvo;Error :         13;Ultimo Alias Activo: CSRPARAVARIO;Ultimo registro:          2 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3906,6 +2281,54 @@ MP\0000DGJT0653.TMP;Ultimo Control activo:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
        1 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT06BE.TMP;Ultimo Control activo: 
 08-08-2016 13:45:06 , Pila de llamadas
 08-08-2016 13:45:06 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
@@ -3924,6 +2347,54 @@ MP\0000DGJT0653.TMP;Ultimo Control activo:
 08-08-2016 13:45:09 , Nº de Linea :         22
 08-08-2016 13:45:09 , En el Fuente: 	LOCATE FOR idorigen = nidprovincia AND nombre="CATEIBRN"
 08-08-2016 13:46:09 , REGPROVIBBTO._OPROVINCIA.INTERACTIVECHANGE, Error: No se encuentra la variable 'NIDPROVINCIA'.;Linea : LOCATE FOR idorigen = nidprovincia AND nombre="CATEIBRN";Error :         12;Ultimo Alias Activo: CSRPARAVARIO;Ultimo registro:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4059,6 +2530,54 @@ MP\0000DGJT0653.TMP;Ultimo Control activo:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 CAL\TEMP\0000DGJT06K9.TMP;Ultimo Control activo: 
 08-08-2016 13:51:31 , Pila de llamadas
 08-08-2016 13:51:31 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
@@ -4092,6 +2611,54 @@ CAL\TEMP\0000DGJT06K9.TMP;Ultimo Control activo:
 08-08-2016 13:51:36 , Nº de Linea :         19
 08-08-2016 13:51:36 , En el Fuente: 	Oca = GETCURSORADAPTER(lcalias)
 08-08-2016 14:28:01 , REGFACCPRA.KEYPRESS, Error: No se encuentra el alias.;Linea : Oca = GETCURSORADAPTER(lcalias);Error :         13;Ultimo Alias Activo: CSROBJPARAVARIO;Ultimo registro:          1 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT09GC.T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4219,6 +2786,54 @@ MP;Ultimo Control activo:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 GJT09KN.TMP;Ultimo Control activo: 
 08-08-2016 14:30:56 , Pila de llamadas
 08-08-2016 14:30:56 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
@@ -4266,6 +2881,54 @@ GJT09KN.TMP;Ultimo Control activo:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ATA\LOCAL\TEMP\0000DGJT0AQ1.TMP;Ultimo Control activo: 
 08-08-2016 14:35:50 , Pila de llamadas
 08-08-2016 14:35:50 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
@@ -4279,6 +2942,54 @@ ATA\LOCAL\TEMP\0000DGJT0AQ1.TMP;Ultimo Control activo:
 08-08-2016 14:35:52 , Nº de Linea :         15
 08-08-2016 14:35:52 , En el Fuente: SUM importe FOR tipoconce$'NG-EX' TO nBaseImp
 08-08-2016 14:37:55 , REGFACCPRA.KEYPRESS, Error: No se encuentra el alias.;Linea : Oca = GETCURSORADAPTER(lcalias);Error :         13;Ultimo Alias Activo: CSROBJPARAVARIO;Ultimo registro:          1 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT0BGH.T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4364,6 +3075,54 @@ MP;Ultimo Control activo:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 mo Control activo: 
 08-08-2016 14:39:55 , Pila de llamadas
 08-08-2016 14:39:55 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
@@ -4382,6 +3141,54 @@ mo Control activo:
 08-08-2016 14:39:57 , Nº de Linea :         21
 08-08-2016 14:39:57 , En el Fuente: formVentana.Release
 08-08-2016 14:43:52 , REGFACCPRA.KEYPRESS, Error: FORMVENTANA no es un objeto.;Linea : formVentana.Release;Error :       1924;Ultimo Alias Activo: CSRPARAVARIO;Ultimo registro:          4 ;DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT0C8C.TMP;Ultimo Co
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4410,6 +3217,54 @@ ntrol activo:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ntrol activo: 
 08-08-2016 14:45:26 , Pila de llamadas
 08-08-2016 14:45:27 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
@@ -4427,3 +3282,385 @@ ntrol activo:
 08-08-2016 14:45:28 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
 08-08-2016 14:45:28 , Nº de Linea :         21
 08-08-2016 14:45:28 , En el Fuente: formVentana.Release
+09-08-2016 12:15:44 , REGFACCPRA.KEYPRESS, Error: No se encuentra la instrucción PARAMETER.;Linea : DODEFAULT();Error :       1238;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Control activo: IMPORTE
+09-08-2016 12:15:44 , Pila de llamadas
+09-08-2016 12:15:45 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 12:15:45 , Objeto      : regfaccpra.keypress
+09-08-2016 12:15:45 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 12:15:45 , Nº de Linea :        101
+09-08-2016 12:15:45 , En el Fuente: 					.cargarretencion()
+09-08-2016 12:15:45 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 12:15:45 , Objeto      : regfaccpra.cargarretencion
+09-08-2016 12:15:45 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 12:15:45 , Nº de Linea :         29
+09-08-2016 12:15:45 , En el Fuente: 	.mostrarrete()
+09-08-2016 12:15:45 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-08-2016 12:15:45 , Objeto      : regfaccpra.oreteibbto.mostrarrete
+09-08-2016 12:15:45 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-08-2016 12:15:45 , Nº de Linea :         19
+09-08-2016 12:15:46 , En el Fuente: DO FORM regprovibbto2 NAME formVentana WITH this.oDatos 
+09-08-2016 12:15:46 , Programa    : j:\xsoftmolino\proyectos\molino\clases\oformslocal.vct
+09-08-2016 12:15:46 , Objeto      : baseconector1.init
+09-08-2016 12:15:46 , Base Objeto : j:\xsoftmolino\proyectos\molino\clases\oformslocal.vct
+09-08-2016 12:15:46 , Nº de Linea :          1
+09-08-2016 12:15:46 , En el Fuente: DODEFAULT()
+09-08-2016 12:29:55 , REGFACCPRA.KEYPRESS, Error: La cláusula TO sólo se puede usar con formularios y conjuntos de formularios modales.;Linea : DO FORM regprovibbto2 NAME formVentana WITH this.oDatos TO cRespuesta;Error :       1982;Ultimo Alias Activo: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CSRAUXPLANCUE;Ultimo registro:          9 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00004LXL00A3.TMP;Ultimo Control activo: IMPORTE
+09-08-2016 12:29:55 , Pila de llamadas
+09-08-2016 12:29:56 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 12:29:56 , Objeto      : regfaccpra.keypress
+09-08-2016 12:29:56 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 12:29:56 , Nº de Linea :        101
+09-08-2016 12:29:56 , En el Fuente: 					.cargarretencion()
+09-08-2016 12:29:56 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 12:29:56 , Objeto      : regfaccpra.cargarretencion
+09-08-2016 12:29:56 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 12:29:56 , Nº de Linea :         29
+09-08-2016 12:29:56 , En el Fuente: 	.mostrarrete()
+09-08-2016 12:29:56 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-08-2016 12:29:56 , Objeto      : regfaccpra.oreteibbto.mostrarrete
+09-08-2016 12:29:56 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-08-2016 12:29:57 , Nº de Linea :         19
+09-08-2016 12:29:57 , En el Fuente: DO FORM regprovibbto2 NAME formVentana WITH this.oDatos TO cRespuesta
+09-08-2016 15:05:46 , REGFACCPRA.KEYPRESS, Error: LOOBJETO no es un objeto.;Linea : .detalle   = loObjeto.detalle;Error :       1924;Ultimo Alias Activo: CSRCONCEPTO;Ultimo registro:          1 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\0000CAA102N8.TMP;Ult
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+imo Control activo: IMPORTE
+09-08-2016 15:05:47 , Pila de llamadas
+09-08-2016 15:05:47 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 15:05:47 , Objeto      : regfaccpra.keypress
+09-08-2016 15:05:47 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 15:05:47 , Nº de Linea :        102
+09-08-2016 15:05:47 , En el Fuente: 					.cargarretencion()
+09-08-2016 15:05:48 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 15:05:48 , Objeto      : regfaccpra.cargarretencion
+09-08-2016 15:05:48 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 15:05:48 , Nº de Linea :         29
+09-08-2016 15:05:48 , En el Fuente: 	.mostrarrete()
+09-08-2016 15:05:48 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-08-2016 15:05:48 , Objeto      : regfaccpra.oreteibbto.mostrarrete
+09-08-2016 15:05:48 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-08-2016 15:05:48 , Nº de Linea :         19
+09-08-2016 15:05:48 , En el Fuente: DO FORM pidoconcepto &&WITH this.oDatos &&TO cRespuesta
+09-08-2016 15:05:48 , Programa    : j:\xsoftmolino\proyectos\molino\forms\pidoconcepto.sct
+09-08-2016 15:05:49 , Objeto      : pidoconcepto.init
+09-08-2016 15:05:49 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\pidoconcepto.sct
+09-08-2016 15:05:49 , Nº de Linea :          4
+09-08-2016 15:05:49 , En el Fuente: 	.detalle   = loObjeto.detalle
+09-08-2016 15:09:58 , REGFACCPRA.KEYPRESS, Error: No se encuentra la variable 'PNDATASESSIONID'.;Linea : IF pndatasessionid#0;Error :         12;Ultimo Alias Activo: CSRAUXPLANCUE;Ultimo registro:         10 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\0000CA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A103BA.TMP;Ultimo Control activo: 
+09-08-2016 15:09:58 , Pila de llamadas
+09-08-2016 15:09:59 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 15:09:59 , Objeto      : regfaccpra.keypress
+09-08-2016 15:09:59 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 15:09:59 , Nº de Linea :        102
+09-08-2016 15:09:59 , En el Fuente: 					.cargarretencion()
+09-08-2016 15:09:59 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 15:09:59 , Objeto      : regfaccpra.cargarretencion
+09-08-2016 15:09:59 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 15:10:00 , Nº de Linea :         29
+09-08-2016 15:10:00 , En el Fuente: 	.mostrarrete()
+09-08-2016 15:10:00 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-08-2016 15:10:00 , Objeto      : regfaccpra.oreteibbto.mostrarrete
+09-08-2016 15:10:00 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-08-2016 15:10:00 , Nº de Linea :         20
+09-08-2016 15:10:00 , En el Fuente: DO FORM pidocorredor NAME lObjForm LINKED 
+09-08-2016 15:10:00 , Programa    : j:\xsoftmolino\proyectos\molino\forms\pidocorredor.sct
+09-08-2016 15:10:00 , Objeto      : pidocorredor.load
+09-08-2016 15:10:00 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\pidocorredor.sct
+09-08-2016 15:10:00 , Nº de Linea :          1
+09-08-2016 15:10:00 , En el Fuente: IF pndatasessionid#0
+09-08-2016 15:11:26 , REGFACCPRA.KEYPRESS, Error: LOOBJCABEFAC no es un objeto.;Linea : lcalias = loObjCabefac.calias  && alias del objeto de negocio;Error :       1924;Ultimo Alias Activo: CSRAUXPLANCUE;Ultimo registro:         10 ;DBF: C:\USERS\CHIVI\A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PPDATA\LOCAL\TEMP\0000CAA103OL.TMP;Ultimo Control activo: 
+09-08-2016 15:11:26 , Pila de llamadas
+09-08-2016 15:11:26 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 15:11:26 , Objeto      : regfaccpra.keypress
+09-08-2016 15:11:26 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 15:11:26 , Nº de Linea :        102
+09-08-2016 15:11:27 , En el Fuente: 					.cargarretencion()
+09-08-2016 15:11:27 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 15:11:27 , Objeto      : regfaccpra.cargarretencion
+09-08-2016 15:11:27 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 15:11:27 , Nº de Linea :         29
+09-08-2016 15:11:27 , En el Fuente: 	.mostrarrete()
+09-08-2016 15:11:27 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-08-2016 15:11:27 , Objeto      : regfaccpra.oreteibbto.mostrarrete
+09-08-2016 15:11:27 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-08-2016 15:11:27 , Nº de Linea :         12
+09-08-2016 15:11:27 , En el Fuente: lcalias = loObjCabefac.calias  && alias del objeto de negocio
+09-08-2016 15:13:19 , REGFACCPRA.KEYPRESS, Error: COLUMN3 es un miembro desconocido.;Linea : lObjeto.column3.combo1.Value = cclase;Error :       1925;Ultimo Alias Activo: CSRCLASECTA;Ultimo registro:          7 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0CAA103YH.TMP;Ultimo Control activo: 
+09-08-2016 15:13:20 , Pila de llamadas
+09-08-2016 15:13:20 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 15:13:20 , Objeto      : regfaccpra.keypress
+09-08-2016 15:13:20 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 15:13:20 , Nº de Linea :        102
+09-08-2016 15:13:21 , En el Fuente: 					.cargarretencion()
+09-08-2016 15:13:21 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 15:13:21 , Objeto      : regfaccpra.cargarretencion
+09-08-2016 15:13:21 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 15:13:21 , Nº de Linea :         41
+09-08-2016 15:13:21 , En el Fuente: 	lObjeto.column3.combo1.Value = cclase
+09-08-2016 16:10:11 , REGFACCPRA.KEYPRESS, Error: El archivo 'j:\xsoftmolino\proyectos\molino\cform.scx' no existe.;Linea : DO FORM cForm WITH this.oDatos &&TO cRespuesta;Error :          1;Ultimo Alias Activo: CSRAUXPLANCUE;Ultimo registro:         10 ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\0000CAA10CEL.TMP;Ultimo Control activo: 
+09-08-2016 16:10:11 , Pila de llamadas
+09-08-2016 16:10:11 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 16:10:11 , Objeto      : regfaccpra.keypress
+09-08-2016 16:10:11 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 16:10:11 , Nº de Linea :        102
+09-08-2016 16:10:11 , En el Fuente: 					.cargarretencion()
+09-08-2016 16:10:11 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 16:10:11 , Objeto      : regfaccpra.cargarretencion
+09-08-2016 16:10:12 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 16:10:12 , Nº de Linea :         31
+09-08-2016 16:10:12 , En el Fuente: 	.mostrarrete()
+09-08-2016 16:10:12 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-08-2016 16:10:12 , Objeto      : regfaccpra.oreteibbto.mostrarrete
+09-08-2016 16:10:12 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-08-2016 16:10:12 , Nº de Linea :         19
+09-08-2016 16:10:12 , En el Fuente: DO FORM cForm WITH this.oDatos &&TO cRespuesta
+09-08-2016 16:18:34 , REGFACCPRA.KEYPRESS, Error: No se encuentra la propiedad NIDPROVINCIA.;Linea : nidprovincia		= .nidprovincia;Error :       1734;Ultimo Alias Activo: CSRUSERSECU;Ultimo registro:          1 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\000
+
+
+
+
+
+
+
+
+
+
+
+
+
+0CAA10E7W.TMP;Ultimo Control activo: IMPORTE
+09-08-2016 16:18:34 , Pila de llamadas
+09-08-2016 16:18:34 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 16:18:34 , Objeto      : regfaccpra.keypress
+09-08-2016 16:18:34 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 16:18:34 , Nº de Linea :        102
+09-08-2016 16:18:35 , En el Fuente: 					.cargarretencion()
+09-08-2016 16:18:35 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 16:18:35 , Objeto      : regfaccpra.cargarretencion
+09-08-2016 16:18:35 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 16:18:35 , Nº de Linea :         31
+09-08-2016 16:18:35 , En el Fuente: 	.mostrarrete()
+09-08-2016 16:18:35 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-08-2016 16:18:35 , Objeto      : regfaccpra.oreteibbto.mostrarrete
+09-08-2016 16:18:35 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-08-2016 16:18:35 , Nº de Linea :         16
+09-08-2016 16:18:36 , En el Fuente: DO FORM &cForm WITH this.oDatos 
+09-08-2016 16:18:36 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
+09-08-2016 16:18:36 , Objeto      : regprovibbto.init
+09-08-2016 16:18:36 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
+09-08-2016 16:18:36 , Nº de Linea :         16
+09-08-2016 16:18:36 , En el Fuente: 	.iniciarvariables(oParametros)
+09-08-2016 16:18:36 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
+09-08-2016 16:18:36 , Objeto      : regprovibbto.iniciarvariables
+09-08-2016 16:18:36 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
+09-08-2016 16:18:36 , Nº de Linea :         15
+09-08-2016 16:18:37 , En el Fuente: 	nidprovincia		= .nidprovincia
+09-08-2016 16:20:50 , REGFACCPRA.KEYPRESS, Error: No se encuentra la propiedad NIDPROVINCIA.;Linea : nidprovincia		= .nidprovincia;Error :       1734;Ultimo Alias Activo: CSRAUXPLANGRAVADO;Ultimo registro:          3 ;DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TE
+
+
+
+
+
+
+MP\0000CAA10EEH.TMP;Ultimo Control activo: 
+09-08-2016 16:20:50 , Pila de llamadas
+09-08-2016 16:20:51 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 16:20:51 , Objeto      : regfaccpra.keypress
+09-08-2016 16:20:51 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 16:20:51 , Nº de Linea :        102
+09-08-2016 16:20:51 , En el Fuente: 					.cargarretencion()
+09-08-2016 16:20:51 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 16:20:51 , Objeto      : regfaccpra.cargarretencion
+09-08-2016 16:20:51 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
+09-08-2016 16:20:52 , Nº de Linea :         31
+09-08-2016 16:20:52 , En el Fuente: 	.mostrarrete()
+09-08-2016 16:20:52 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-08-2016 16:20:52 , Objeto      : regfaccpra.oreteibbto.mostrarrete
+09-08-2016 16:20:52 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-08-2016 16:20:52 , Nº de Linea :         16
+09-08-2016 16:20:52 , En el Fuente: DO FORM &cForm WITH this.oDatos 
+09-08-2016 16:20:52 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
+09-08-2016 16:20:52 , Objeto      : regprovibbto.init
+09-08-2016 16:20:52 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
+09-08-2016 16:20:52 , Nº de Linea :         17
+09-08-2016 16:20:52 , En el Fuente: 	.iniciarvariables(@oParametros)
+09-08-2016 16:20:52 , Programa    : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
+09-08-2016 16:20:53 , Objeto      : regprovibbto.iniciarvariables
+09-08-2016 16:20:53 , Base Objeto : j:\xsoftmolino\desarrollo\forms\regprovibbto.sct
+09-08-2016 16:20:53 , Nº de Linea :         15
+09-08-2016 16:20:53 , En el Fuente: 	nidprovincia		= .nidprovincia
