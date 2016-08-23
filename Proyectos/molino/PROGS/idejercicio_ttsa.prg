@@ -1,5 +1,5 @@
-goapp.idejercicio = 1100000022
-goapp.idejerciciofac = 1100000022
+goapp.idejercicio = 1100000021
+goapp.idejerciciofac = 1100000021
 goapp.terminal = 8
 goapp.idusuario = 1
 goapp.sucursal = 1
