@@ -121,8 +121,8 @@ IF EMPTY(lcComproba)
 	RETURN ""
 ENDIF 
 IF EMPTY(lcNumComp) AND NOT lCompleto
-	oavisar.usuario('ArmarComproba() falta definir el numero del comprobante')
-	RETURN ""
+	*oavisar.usuario('ArmarComproba() falta definir el numero del comprobante')
+	RETURN ALLTRIM(lcComproba)
 ENDIF 
 IF lCompleto
 	cNum = ALLTRIM(lcComprobante)
