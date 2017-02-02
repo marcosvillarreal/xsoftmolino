@@ -37,7 +37,7 @@ Set cursor on
 lcdd=alltrim(curdir()) && directorio de arranque
 
 If lldesarrollo
-   lcdd=L+'\xsoftmolino\proyectos\molino\'
+   lcdd=L+'\xsoftmolino\proyectos\molino_cerri\'
 *-- RUTA
    _rutaclases =lcdd+'Clases'
    _rutaclased =L+'\xsoftmolino\desarrollo\clases'
