@@ -43,6 +43,7 @@ cRutaCAE	= sys(5)+CURDIR()+"caevacio.jpg"
 cLogoFac	= SYS(5)+CURDIR()+"logofac.jpg"
 
 If lldesarrollo
+	
    lcdd=L+'\xsoftmolino\proyectos\molino\'
 *-- RUTA
    _rutaclases =lcdd+'Clases'

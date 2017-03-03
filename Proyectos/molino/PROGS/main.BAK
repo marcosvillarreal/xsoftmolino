@@ -7,7 +7,7 @@
 clear all
 SET SYSMENU off
 set classlib to
-l='c:'
+l='j:'
 set talk off
 lldesarrollo=(_vfp.startmode()#4)
 
@@ -43,6 +43,9 @@ cRutaCAE	= sys(5)+CURDIR()+"caevacio.jpg"
 cLogoFac	= SYS(5)+CURDIR()+"logofac.jpg"
 
 If lldesarrollo
+	DEBUG
+	SUSPEND 
+	
    lcdd=L+'\xsoftmolino\proyectos\molino\'
 *-- RUTA
    _rutaclases =lcdd+'Clases'
