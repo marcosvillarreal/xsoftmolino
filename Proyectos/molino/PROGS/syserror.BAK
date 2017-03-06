@@ -117,16 +117,16 @@ Else && cancelar
 		application.ActiveForm.Unload()
 		
 	ENDIF
-	IF NOT lldesarrollo
+*!*		IF NOT lldesarrollo
 		Do Form frmlogout 
-	ELSE 
-		If Type('Goapp')='O'
-			IF VARTYPE(frmmenu)='O'
-				frmmenu.release()
-			ENDIF 
-			Goapp.salir()
-		Endif
-	ENDIF 
+*!*		ELSE 
+*!*			If Type('Goapp')='O'
+*!*				IF VARTYPE(frmmenu)='O'
+*!*					frmmenu.release()
+*!*				ENDIF 
+*!*				Goapp.salir()
+*!*			Endif
+*!*		ENDIF 
 Endif
 
 Return

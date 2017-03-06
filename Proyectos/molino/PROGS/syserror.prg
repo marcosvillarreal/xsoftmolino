@@ -77,9 +77,11 @@ lcmensaje = 'Error: '+Message()+' '+'Linea : '+Message(1)+' '+"Error : "+Str(nEr
 
 lclocalprogram = PROGRAM(1)
 lcmensaje = lcmensaje +" "+ lclocalprogram
+oavisar.proceso('S','Generando informe de error ......')
 
 *  =Oavisar.usuario(lcmensaje,0)
 Grabar_log(lcmensaje)
+
 
 Do Form frmerror Name oform Linked With nError,lcmensaje,lclocalprogram To luvalorbuscado
 
