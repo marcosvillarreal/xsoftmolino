@@ -26,2067 +26,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-P;Ultimo Control activo: 
-13-01-2017 11:39:06 , Pila de llamadas
-13-01-2017 11:39:06 , Programa    : j:\xsoftmolino\proyectos\molino\progs\main.fxp
-13-01-2017 11:39:06 , Objeto      : main
-13-01-2017 11:39:06 , Base Objeto : j:\xsoftmolino\proyectos\molino\progs\main.prg
-13-01-2017 11:39:06 , Nº de Linea :        271
-13-01-2017 11:39:07 , En el Fuente: 	Read events   
-13-01-2017 11:39:07 , Programa    : j:\xsoftmolino\proyectos\molino\forms\frmmenu.sct
-13-01-2017 11:39:07 , Objeto      : frmmenu.gotfocus
-13-01-2017 11:39:07 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\frmmenu.sct
-13-01-2017 11:39:07 , Nº de Linea :          6
-13-01-2017 11:39:07 , En el Fuente: 	thisform.inicializarbarra
-13-01-2017 11:39:07 , Programa    : j:\xsoftmolino\proyectos\molino\forms\frmmenu.sct
-13-01-2017 11:39:07 , Objeto      : frmmenu.inicializarbarra
-13-01-2017 11:39:07 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\frmmenu.sct
-13-01-2017 11:39:08 , Nº de Linea :         20
-13-01-2017 11:39:08 , En el Fuente: &lccmd
-13-01-2017 11:41:06 , MAIN, Error: Código de excepción OLE IDispatch 0 de ADODB.Recordset: No se puede utilizar la conexión para realizar esta operación. Está cerrada o no es válida en este contexto..;Linea : ;Error :       1429;Ultimo Alias Activo: ;Ult
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-imo registro:          0 ;DBF: ;Ultimo Control activo: 
-13-01-2017 11:41:06 , Pila de llamadas
-13-01-2017 11:41:07 , Programa    : j:\xsoftmolino\proyectos\molino\progs\main.fxp
-13-01-2017 11:41:07 , Objeto      : main
-13-01-2017 11:41:07 , Base Objeto : j:\xsoftmolino\proyectos\molino\progs\main.prg
-13-01-2017 11:41:07 , Nº de Linea :        235
-13-01-2017 11:41:07 , En el Fuente: 	LeerEmpresa()
-13-01-2017 11:41:07 , Programa    : j:\xsoftmolino\proyectos\molino\progs\proc.fxp
-13-01-2017 11:41:07 , Objeto      : leerempresa
-13-01-2017 11:41:07 , Base Objeto : j:\xsoftmolino\proyectos\molino\progs\proc.prg
-13-01-2017 11:41:07 , Nº de Linea :       1583
-13-01-2017 11:41:07 , En el Fuente: lok =CrearCursorAdapter("Csrempresa",lcCmd)
-13-01-2017 11:41:07 , Programa    : j:\xsoftmolino\proyectos\molino\progs\proc.fxp
-13-01-2017 11:41:08 , Objeto      : crearcursoradapter
-13-01-2017 11:41:08 , Base Objeto : j:\xsoftmolino\proyectos\molino\progs\proc.prg
-13-01-2017 11:41:08 , Nº de Linea :       1467
-13-01-2017 11:41:08 , En el Fuente: 
-13-01-2017 17:02:24 , MAIN, Error: No se encuentra el alias 'CSROBJPARAVARIO'.;Linea : SELECT CsrObjParavario;Error :         13;Ultimo Alias Activo: CSROBJCTACTE;Ultimo registro:          1 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000979L0132.TMP;Ultimo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- Control activo: 
-13-01-2017 17:02:25 , Pila de llamadas
-13-01-2017 17:02:25 , Programa    : j:\xsoftmolino\proyectos\molino\progs\main.fxp
-13-01-2017 17:02:25 , Objeto      : main
-13-01-2017 17:02:25 , Base Objeto : j:\xsoftmolino\proyectos\molino\progs\main.prg
-13-01-2017 17:02:25 , Nº de Linea :        271
-13-01-2017 17:02:25 , En el Fuente: 	Read events   
-13-01-2017 17:02:26 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:26 , Objeto      : regfaccpra.containerencabeza._txtlostfocus.gotfocus
-13-01-2017 17:02:26 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:26 , Nº de Linea :          4
-13-01-2017 17:02:26 , En el Fuente: thisform.iniciarentorno()
-13-01-2017 17:02:26 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:26 , Objeto      : regfaccpra.iniciarentorno
-13-01-2017 17:02:27 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:27 , Nº de Linea :          6
-13-01-2017 17:02:27 , En el Fuente: 	thisform.iniciavariables()   
-13-01-2017 17:02:27 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:27 , Objeto      : regfaccpra.iniciavariables
-13-01-2017 17:02:27 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:27 , Nº de Linea :         80
-13-01-2017 17:02:27 , En el Fuente: 		.agregaobjeto.objobteneribto(lccuit,CsrProvEmpresa.id,@lcaliascateibto,@lnporperce,@lnporrete)
-13-01-2017 17:02:27 , Programa    : j:\xsoftmolino\desarrollo\clases\odata.vct
-13-01-2017 17:02:28 , Objeto      : regfaccpra.agregaobjeto.objobteneribto
-13-01-2017 17:02:28 , Base Objeto : j:\xsoftmolino\desarrollo\clases\odata.vct
-13-01-2017 17:02:28 , Nº de Linea :         30
-13-01-2017 17:02:28 , En el Fuente: SELECT CsrObjParavario
-13-01-2017 17:02:33 , REGFACCPRA.CONTAINERENCABEZA._TXTLOSTFOCUS.GOTFOCUS, Error: No se encuentra el alias 'CSROBJPARAVARIO'.;Linea : SELECT CsrObjParavario;Error :         13;Ultimo Alias Activo: CSROBJCTACTE;Ultimo registro:          1 ;DBF: C:\USERS\A
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-DMIN\APPDATA\LOCAL\TEMP\0000979L0145.TMP;Ultimo Control activo: 
-13-01-2017 17:02:33 , Pila de llamadas
-13-01-2017 17:02:34 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:34 , Objeto      : regfaccpra.containerencabeza._txtlostfocus.gotfocus
-13-01-2017 17:02:34 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:34 , Nº de Linea :          4
-13-01-2017 17:02:34 , En el Fuente: thisform.iniciarentorno()
-13-01-2017 17:02:34 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:34 , Objeto      : regfaccpra.iniciarentorno
-13-01-2017 17:02:35 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:35 , Nº de Linea :          6
-13-01-2017 17:02:35 , En el Fuente: 	thisform.iniciavariables()   
-13-01-2017 17:02:35 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:35 , Objeto      : regfaccpra.iniciavariables
-13-01-2017 17:02:35 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:35 , Nº de Linea :         80
-13-01-2017 17:02:35 , En el Fuente: 		.agregaobjeto.objobteneribto(lccuit,CsrProvEmpresa.id,@lcaliascateibto,@lnporperce,@lnporrete)
-13-01-2017 17:02:35 , Programa    : j:\xsoftmolino\desarrollo\clases\odata.vct
-13-01-2017 17:02:36 , Objeto      : regfaccpra.agregaobjeto.objobteneribto
-13-01-2017 17:02:36 , Base Objeto : j:\xsoftmolino\desarrollo\clases\odata.vct
-13-01-2017 17:02:36 , Nº de Linea :         30
-13-01-2017 17:02:36 , En el Fuente: SELECT CsrObjParavario
-13-01-2017 17:02:41 , REGFACCPRA.CONTAINERENCABEZA._TXTLOSTFOCUS.GOTFOCUS, Error: No se encuentra el alias 'CSROBJPARAVARIO'.;Linea : SELECT CsrObjParavario;Error :         13;Ultimo Alias Activo: CSROBJCTACTE;Ultimo registro:          1 ;DBF: C:\USERS\A
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-DMIN\APPDATA\LOCAL\TEMP\0000979L0158.TMP;Ultimo Control activo: 
-13-01-2017 17:02:41 , Pila de llamadas
-13-01-2017 17:02:41 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:41 , Objeto      : regfaccpra.containerencabeza._txtlostfocus.gotfocus
-13-01-2017 17:02:41 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:41 , Nº de Linea :          4
-13-01-2017 17:02:41 , En el Fuente: thisform.iniciarentorno()
-13-01-2017 17:02:41 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:42 , Objeto      : regfaccpra.iniciarentorno
-13-01-2017 17:02:42 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:42 , Nº de Linea :          6
-13-01-2017 17:02:42 , En el Fuente: 	thisform.iniciavariables()   
-13-01-2017 17:02:42 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:42 , Objeto      : regfaccpra.iniciavariables
-13-01-2017 17:02:42 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:43 , Nº de Linea :         80
-13-01-2017 17:02:43 , En el Fuente: 		.agregaobjeto.objobteneribto(lccuit,CsrProvEmpresa.id,@lcaliascateibto,@lnporperce,@lnporrete)
-13-01-2017 17:02:43 , Programa    : j:\xsoftmolino\desarrollo\clases\odata.vct
-13-01-2017 17:02:43 , Objeto      : regfaccpra.agregaobjeto.objobteneribto
-13-01-2017 17:02:43 , Base Objeto : j:\xsoftmolino\desarrollo\clases\odata.vct
-13-01-2017 17:02:43 , Nº de Linea :         30
-13-01-2017 17:02:43 , En el Fuente: SELECT CsrObjParavario
-13-01-2017 17:02:47 , REGFACCPRA.CONTAINERENCABEZA._TXTLOSTFOCUS.GOTFOCUS, Error: No se encuentra el alias 'CSROBJPARAVARIO'.;Linea : USE IN CsrObjparavario;Error :         13;Ultimo Alias Activo: CSROBJCTACTE;Ultimo registro:          1 ;DBF: C:\USERS\A
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-DMIN\APPDATA\LOCAL\TEMP\0000979L0158.TMP;Ultimo Control activo: 
-13-01-2017 17:02:47 , Pila de llamadas
-13-01-2017 17:02:48 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:48 , Objeto      : regfaccpra.containerencabeza._txtlostfocus.gotfocus
-13-01-2017 17:02:48 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:48 , Nº de Linea :          4
-13-01-2017 17:02:48 , En el Fuente: thisform.iniciarentorno()
-13-01-2017 17:02:48 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:48 , Objeto      : regfaccpra.iniciarentorno
-13-01-2017 17:02:49 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:49 , Nº de Linea :          6
-13-01-2017 17:02:49 , En el Fuente: 	thisform.iniciavariables()   
-13-01-2017 17:02:49 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:49 , Objeto      : regfaccpra.iniciavariables
-13-01-2017 17:02:49 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:02:49 , Nº de Linea :         80
-13-01-2017 17:02:49 , En el Fuente: 		.agregaobjeto.objobteneribto(lccuit,CsrProvEmpresa.id,@lcaliascateibto,@lnporperce,@lnporrete)
-13-01-2017 17:02:50 , Programa    : j:\xsoftmolino\desarrollo\clases\odata.vct
-13-01-2017 17:02:50 , Objeto      : regfaccpra.agregaobjeto.objobteneribto
-13-01-2017 17:02:50 , Base Objeto : j:\xsoftmolino\desarrollo\clases\odata.vct
-13-01-2017 17:02:50 , Nº de Linea :        108
-13-01-2017 17:02:50 , En el Fuente: USE IN CsrObjparavario
-13-01-2017 17:06:10 , REGFACCPRA.CONTAINERENCABEZA._TXTLOSTFOCUS.GOTFOCUS, Error: No se encuentra el alias 'CSROBJPARAVARIO'.;Linea : SELECT CsrObjParavario;Error :         13;Ultimo Alias Activo: CSROBJCTACTE;Ultimo registro:          1 ;DBF: C:\USERS\A
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-DMIN\APPDATA\LOCAL\TEMP\000095OP00EP.TMP;Ultimo Control activo: 
-13-01-2017 17:06:10 , Pila de llamadas
-13-01-2017 17:06:11 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:06:11 , Objeto      : regfaccpra.containerencabeza._txtlostfocus.gotfocus
-13-01-2017 17:06:11 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:06:11 , Nº de Linea :          4
-13-01-2017 17:06:11 , En el Fuente: thisform.iniciarentorno()
-13-01-2017 17:06:11 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:06:11 , Objeto      : regfaccpra.iniciarentorno
-13-01-2017 17:06:11 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:06:12 , Nº de Linea :          6
-13-01-2017 17:06:12 , En el Fuente: 	thisform.iniciavariables()   
-13-01-2017 17:06:12 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:06:12 , Objeto      : regfaccpra.iniciavariables
-13-01-2017 17:06:12 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:06:12 , Nº de Linea :         80
-13-01-2017 17:06:12 , En el Fuente: 		.agregaobjeto.objobteneribto(lccuit,CsrProvEmpresa.id,@lcaliascateibto,@lnporperce,@lnporrete)
-13-01-2017 17:06:12 , Programa    : j:\xsoftmolino\desarrollo\clases\odata.vct
-13-01-2017 17:06:12 , Objeto      : regfaccpra.agregaobjeto.objobteneribto
-13-01-2017 17:06:13 , Base Objeto : j:\xsoftmolino\desarrollo\clases\odata.vct
-13-01-2017 17:06:13 , Nº de Linea :         30
-13-01-2017 17:06:13 , En el Fuente: SELECT CsrObjParavario
-13-01-2017 17:10:01 , REGFACCPRA.CONTAINERENCABEZA._TXTLOSTFOCUS.GOTFOCUS, Error: No se encuentra el alias 'CSROBJPARAVARIO'.;Linea : SELECT CsrObjParavario;Error :         13;Ultimo Alias Activo: CSROBJCTACTE;Ultimo registro:          1 ;DBF: C:\USERS\A
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-DMIN\APPDATA\LOCAL\TEMP\0000CE8900GA.TMP;Ultimo Control activo: 
-13-01-2017 17:10:01 , Pila de llamadas
-13-01-2017 17:10:02 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:10:02 , Objeto      : regfaccpra.containerencabeza._txtlostfocus.gotfocus
-13-01-2017 17:10:02 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:10:02 , Nº de Linea :          4
-13-01-2017 17:10:02 , En el Fuente: thisform.iniciarentorno()
-13-01-2017 17:10:02 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:10:03 , Objeto      : regfaccpra.iniciarentorno
-13-01-2017 17:10:03 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:10:03 , Nº de Linea :          8
-13-01-2017 17:10:03 , En el Fuente: 	thisform.iniciavariables()   
-13-01-2017 17:10:03 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:10:03 , Objeto      : regfaccpra.iniciavariables
-13-01-2017 17:10:04 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regfaccpra.sct
-13-01-2017 17:10:04 , Nº de Linea :         80
-13-01-2017 17:10:04 , En el Fuente: 		.agregaobjeto.objobteneribto(lccuit,CsrProvEmpresa.id,@lcaliascateibto,@lnporperce,@lnporrete)
-13-01-2017 17:10:04 , Programa    : j:\xsoftmolino\desarrollo\clases\odata.vct
-13-01-2017 17:10:04 , Objeto      : regfaccpra.agregaobjeto.objobteneribto
-13-01-2017 17:10:04 , Base Objeto : j:\xsoftmolino\desarrollo\clases\odata.vct
-13-01-2017 17:10:04 , Nº de Linea :         30
-13-01-2017 17:10:04 , En el Fuente: SELECT CsrObjParavario
-20-01-2017 13:21:17 , MAIN, Error: El archivo 'c:\xsoftmolino\proyectos\molino\datos\data.dbc' no existe.;Linea : &lccmd;Error :          1;Ultimo Alias Activo: CURPERFIL;Ultimo registro:        211 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000CFM1009M.TM
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-P;Ultimo Control activo: 
-20-01-2017 13:21:17 , Pila de llamadas
-20-01-2017 13:21:18 , Programa    : j:\xsoftmolino\proyectos\molino\progs\main.fxp
-20-01-2017 13:21:18 , Objeto      : main
-20-01-2017 13:21:18 , Base Objeto : j:\xsoftmolino\proyectos\molino\progs\main.prg
-20-01-2017 13:21:18 , Nº de Linea :        271
-20-01-2017 13:21:18 , En el Fuente: 	Read events   
-20-01-2017 13:21:18 , Programa    : j:\xsoftmolino\proyectos\molino\forms\frmmenu.sct
-20-01-2017 13:21:18 , Objeto      : frmmenu.gotfocus
-20-01-2017 13:21:18 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\frmmenu.sct
-20-01-2017 13:21:18 , Nº de Linea :          6
-20-01-2017 13:21:19 , En el Fuente: 	thisform.inicializarbarra
-20-01-2017 13:21:19 , Programa    : j:\xsoftmolino\proyectos\molino\forms\frmmenu.sct
-20-01-2017 13:21:19 , Objeto      : frmmenu.inicializarbarra
-20-01-2017 13:21:19 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\frmmenu.sct
-20-01-2017 13:21:19 , Nº de Linea :         20
-20-01-2017 13:21:19 , En el Fuente: &lccmd
-20-01-2017 13:42:44 , ABMCTACTE.CONTENEDOR1.GRIDABM1.AFTERROWCOLCHANGE, Error: No se puede modificar el cursor porque contiene un registro que no se ha guardado.;Linea : replace imporflete WITH IIF(ISNULL(imporflete),0,imporflete) IN CsrCtacte;Error :   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    2072;Ultimo Alias Activo: CSRCATEIBCBA;Ultimo registro:          1 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000CFM1013O.TMP;Ultimo Control activo: 
-20-01-2017 13:42:44 , Pila de llamadas
-20-01-2017 13:42:45 , Programa    : j:\xsoftmolino\proyectos\molino\forms\abmctacte.sct
-20-01-2017 13:42:45 , Objeto      : abmctacte.contenedor1.gridabm1.afterrowcolchange
-20-01-2017 13:42:45 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\abmctacte.sct
-20-01-2017 13:42:45 , Nº de Linea :          3
-20-01-2017 13:42:45 , En el Fuente: DODEFAULT(ncolindex)
-20-01-2017 13:42:45 , Programa    : j:\xsoftmolino\proyectos\molino\clases\oformslocal.vct
-20-01-2017 13:42:45 , Objeto      : baseabm.contenedor1.gridabm1.afterrowcolchange
-20-01-2017 13:42:45 , Base Objeto : j:\xsoftmolino\proyectos\molino\clases\oformslocal.vct
-20-01-2017 13:42:46 , Nº de Linea :         21
-20-01-2017 13:42:46 , En el Fuente: 	     .ProcesarAfterRow()
-20-01-2017 13:42:46 , Programa    : j:\xsoftmolino\proyectos\molino\forms\abmctacte.sct
-20-01-2017 13:42:46 , Objeto      : abmctacte.procesarafterrow
-20-01-2017 13:42:46 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\abmctacte.sct
-20-01-2017 13:42:46 , Nº de Linea :         30
-20-01-2017 13:42:46 , En el Fuente: replace imporflete WITH IIF(ISNULL(imporflete),0,imporflete) IN CsrCtacte
-20-01-2017 13:43:14 , ABMCTACTE.CONTENEDOR1.GRIDABM1.AFTERROWCOLCHANGE, Error: No se puede modificar el cursor porque contiene un registro que no se ha guardado.;Linea : replace imporflete WITH IIF(ISNULL(imporflete),0,imporflete) IN CsrCtacte;Error :   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    2072;Ultimo Alias Activo: CSRCATEIBCBA;Ultimo registro:          1 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000CFM1013X.TMP;Ultimo Control activo: 
-20-01-2017 13:43:15 , Pila de llamadas
-20-01-2017 13:43:15 , Programa    : j:\xsoftmolino\proyectos\molino\forms\abmctacte.sct
-20-01-2017 13:43:15 , Objeto      : abmctacte.contenedor1.gridabm1.afterrowcolchange
-20-01-2017 13:43:15 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\abmctacte.sct
-20-01-2017 13:43:15 , Nº de Linea :          3
-20-01-2017 13:43:16 , En el Fuente: DODEFAULT(ncolindex)
-20-01-2017 13:43:16 , Programa    : j:\xsoftmolino\proyectos\molino\clases\oformslocal.vct
-20-01-2017 13:43:16 , Objeto      : baseabm.contenedor1.gridabm1.afterrowcolchange
-20-01-2017 13:43:16 , Base Objeto : j:\xsoftmolino\proyectos\molino\clases\oformslocal.vct
-20-01-2017 13:43:16 , Nº de Linea :         21
-20-01-2017 13:43:16 , En el Fuente: 	     .ProcesarAfterRow()
-20-01-2017 13:43:16 , Programa    : j:\xsoftmolino\proyectos\molino\forms\abmctacte.sct
-20-01-2017 13:43:16 , Objeto      : abmctacte.procesarafterrow
-20-01-2017 13:43:16 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\abmctacte.sct
-20-01-2017 13:43:17 , Nº de Linea :         30
-20-01-2017 13:43:17 , En el Fuente: replace imporflete WITH IIF(ISNULL(imporflete),0,imporflete) IN CsrCtacte
-25-01-2017 16:38:55 , RESCTACTE.IMPRIMIR_VISTAPREVIA1.IMPRESORA.CLICK, Error: No se encuentra la variable 'LCCMD'.;Linea : CrearCursorAdapter('CsrPrueba',lcCmd);Error :         12;Ultimo Alias Activo: CSRCURSORA;Ultimo registro:          1 ID;DBF: C:\USE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-RS\ADMIN\APPDATA\LOCAL\TEMP\00008D1L00JX.TMP;Ultimo Control activo: 
-25-01-2017 16:38:56 , Pila de llamadas
-25-01-2017 16:38:56 , Programa    : j:\xsoftmolino\desarrollo\clases\controles.vct
-25-01-2017 16:38:56 , Objeto      : resctacte.imprimir_vistaprevia1.impresora.click
-25-01-2017 16:38:56 , Base Objeto : j:\xsoftmolino\desarrollo\clases\controles.vct
-25-01-2017 16:38:56 , Nº de Linea :          5
-25-01-2017 16:38:57 , En el Fuente: 	llOK=thisform.CrearInforme()
-25-01-2017 16:38:57 , Programa    : j:\xsoftmolino\proyectos\molino\forms\resctacte.sct
-25-01-2017 16:38:57 , Objeto      : resctacte.crearinforme
-25-01-2017 16:38:57 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\resctacte.sct
-25-01-2017 16:38:57 , Nº de Linea :        127
-25-01-2017 16:38:57 , En el Fuente: lcCmd 	= this.armarsql_movimientos(lcFiltro,lcFiltroBco) 
-25-01-2017 16:38:57 , Programa    : j:\xsoftmolino\proyectos\molino\forms\resctacte.sct
-25-01-2017 16:38:57 , Objeto      : resctacte.armarsql_movimientos
-25-01-2017 16:38:58 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\resctacte.sct
-25-01-2017 16:38:58 , Nº de Linea :        101
-25-01-2017 16:38:58 , En el Fuente: 	CrearCursorAdapter('CsrPrueba',lcCmd)
-25-01-2017 16:45:53 , MAIN, Error: El archivo 'c:\xsoftmolino\proyectos\molino\datos\data.dbc' no existe.;Linea : &lccmd;Error :          1;Ultimo Alias Activo: CURPERFIL;Ultimo registro:        114 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\00008D1L00ZB.TM
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 P;Ultimo Control activo: 
 25-01-2017 16:45:53 , Pila de llamadas
 25-01-2017 16:45:54 , Programa    : j:\xsoftmolino\proyectos\molino\progs\main.fxp
@@ -2105,6 +44,72 @@ P;Ultimo Control activo:
 25-01-2017 16:45:55 , Nº de Linea :         20
 25-01-2017 16:45:55 , En el Fuente: &lccmd
 02-03-2017 15:02:54 , REGCTACTE.CONTAINERENCABEZA._TXTLOSTFOCUS.GOTFOCUS, Error: No se encuentra la variable 'CLOGOCTACTE'.;Linea : IF NOT FILE(cLogoCtacte);Error :         12;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Control activo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2324,6 +329,72 @@ P;Ultimo Control activo:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 : 
 02-03-2017 15:03:56 , Pila de llamadas
 02-03-2017 15:03:57 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
@@ -2337,6 +408,72 @@ P;Ultimo Control activo:
 02-03-2017 15:03:58 , Nº de Linea :         16
 02-03-2017 15:03:58 , En el Fuente: IF NOT FILE(cLogoCtacte)
 02-03-2017 15:04:03 , REGCTACTE.CONTAINERENCABEZA._TXTLOSTFOCUS.GOTFOCUS, Error: No se encuentra la variable 'CLOGOCTACTE'.;Linea : IF NOT FILE(cLogoCtacte);Error :         12;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Control activo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2541,6 +678,72 @@ P;Ultimo Control activo:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 \ADMIN\APPDATA\LOCAL\TEMP\00004B9L00VI.TMP;Ultimo Control activo: FECHA
 02-03-2017 15:19:27 , Pila de llamadas
 02-03-2017 15:19:27 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
@@ -2549,6 +752,72 @@ P;Ultimo Control activo:
 02-03-2017 15:19:27 , Nº de Linea :         40
 02-03-2017 15:19:27 , En el Fuente: 	 		.containerencabeza.KItbuscaoaltaenprovincia.Enabled = .T.
 02-03-2017 16:35:00 , REGCTACTE.LOAD, Error: El archivo 'csrmovctacte.dbf' no existe.;Linea : SELECT CsrMovctacte.*,SPACE(35) as cnombre, CAST(0 as int) as idfletero, SPACE(35) nomflete , CAST(0 as int) as idprovincia , CAST(0 as int) as idareaneg, CAST(
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2742,8 +1011,140 @@ P;Ultimo Control activo:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 HERE RECNO()=1 AND id=0 INTO CURSOR CsrAuxMovctacte READWRITE 
 02-03-2017 16:38:10 , REGCTACTE.CONTAINERENCABEZA._TXTFECHA.GOTFOCUS, Error: No se encuentra la propiedad INICIAR.;Linea : thisform.oReteIbto.iniciar();Error :       1734;Ultimo Alias Activo: CSRCATECTACTE;Ultimo registro:          1 ;DBF: C:\USERS\ADMIN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2934,6 +1335,72 @@ HERE RECNO()=1 AND id=0 INTO CURSOR CsrAuxMovctacte READWRITE
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 :          0 ;DBF: ;Ultimo Control activo: 
 02-03-2017 16:38:13 , Pila de llamadas
 02-03-2017 16:38:14 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
@@ -2952,6 +1419,72 @@ HERE RECNO()=1 AND id=0 INTO CURSOR CsrAuxMovctacte READWRITE
 02-03-2017 16:38:15 , Nº de Linea :         44
 02-03-2017 16:38:16 , En el Fuente: thisform.oReteIbto.addprovincia(CsrProvincia.id,lnporrete,lnporperce)
 02-03-2017 16:39:47 , REGCTACTE.CONTAINERENCABEZA._TXTFECHA.GOTFOCUS, Error: No se encuentra la propiedad INICIAR.;Linea : thisform.oReteIbto.iniciar();Error :       1734;Ultimo Alias Activo: CSRCATECTACTE;Ultimo registro:          1 ;DBF: C:\USERS\ADMIN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3124,6 +1657,72 @@ HERE RECNO()=1 AND id=0 INTO CURSOR CsrAuxMovctacte READWRITE
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 IBTO;Ultimo registro:          1 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\00004B9L05QP.TMP;Ultimo Control activo: FECHA
 02-03-2017 16:41:13 , Pila de llamadas
 02-03-2017 16:41:14 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
@@ -3147,6 +1746,72 @@ IBTO;Ultimo registro:          1 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\00004B9
 02-03-2017 16:41:16 , Nº de Linea :         10
 02-03-2017 16:41:16 , En el Fuente: replace porrete WITH lnporrete,porperce WITH lnporperce,convenio WITH lnconvenio 
 02-03-2017 16:47:53 , REGCTACTE.KEYPRESS, Error: KITBUSCAOALTAENPROVINCIA es un miembro desconocido.;Linea : .containerencabeza.KItbuscaoaltaenprovincia.Enabled = .T.;Error :       1925;Ultimo Alias Activo: CSRAUXMOVAFECTADO;Ultimo registro:          1 ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3296,6 +1961,72 @@ DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\00004B9L06KZ.TMP;Ultimo Control activo: F
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 AVARIO;Ultimo registro:          2 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000AART032Z.TMP;Ultimo Control activo: FECHA
 06-03-2017 14:56:47 , Pila de llamadas
 06-03-2017 14:56:47 , Programa    : j:\xsoftmolino\proyectos\molino\progs\main.fxp
@@ -3319,6 +2050,72 @@ AVARIO;Ultimo registro:          2 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000A
 06-03-2017 14:57:07 , Nº de Linea :         45
 06-03-2017 14:57:07 , En el Fuente: 		thisform.agregaobjeto.objobteneribto(lccuit,CsrObjparavario.idorigen,@lcaliascateibto,@lnporperce,@lnporrete,lnidctacte)
 06-03-2017 15:40:05 , MAIN, Error: No se encuentra la propiedad CCATEGOGAN.;Linea : IF this.odatos.cCategoGan$"EX-NC";Error :       1734;Ultimo Alias Activo: FSRCTRLCTACTE;Ultimo registro:          1 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000AART06KD.T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3452,6 +2249,72 @@ MP;Ultimo Control activo: FECHA
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  CSRAUXMOVAFECTADO;Ultimo registro:          1 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000AART06ZE.TMP;Ultimo Control activo: 
 06-03-2017 15:43:00 , Pila de llamadas
 06-03-2017 15:43:04 , Programa    : j:\xsoftmolino\proyectos\molino\progs\main.fxp
@@ -3475,6 +2338,72 @@ MP;Ultimo Control activo: FECHA
 06-03-2017 15:43:23 , Nº de Linea :         45
 06-03-2017 15:43:23 , En el Fuente: 			lcidmaopera = ALLTRIM(lcidmaopera)+IIF(EMPTY(lcidmaopera)," ",",")+ALLTRIM(STRid(CsrAuxMovAfectado.id))
 06-03-2017 15:47:25 , MAIN, Error: El valor, tipo o número de argumentos no es válido para la función.;Linea : lcidmaopera = ALLTRIM(lcidmaopera)+IIF(EMPTY(lcidmaopera)," ",",")+ALLTRIM(STRid(CsrAuxMovAfectado.id));Error :         11;Ultimo Alias Activo:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3576,6 +2505,72 @@ MP;Ultimo Control activo: FECHA
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 TEMP\0000AART08CQ.TMP;Ultimo Control activo: 
 06-03-2017 15:52:12 , Pila de llamadas
 06-03-2017 15:52:16 , Programa    : j:\xsoftmolino\proyectos\molino\progs\main.fxp
@@ -3599,6 +2594,72 @@ TEMP\0000AART08CQ.TMP;Ultimo Control activo:
 06-03-2017 15:52:32 , Nº de Linea :         58
 06-03-2017 15:52:35 , En el Fuente: 		this.odatos.nidprovincia = CsrProviIbto.idprovincia	
 06-03-2017 16:02:00 , MAIN, Error: El valor, tipo o número de argumentos no es válido para la función.;Linea : ldfecdesde = CTOD('01-'+strzero(MONTH(ldfecdesde),2)+'-'+STR(YEAR(ldfecdesde)));Error :         11;Ultimo Alias Activo: CSRPROVIIBTO;Ultimo reg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3680,6 +2741,72 @@ istro:          1 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000AART08WP.TMP;Ultim
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 SRPROVIIBTO;Ultimo registro:          1 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000AART08WP.TMP;Ultimo Control activo: 
 06-03-2017 16:03:19 , Pila de llamadas
 06-03-2017 16:03:23 , Programa    : j:\xsoftmolino\proyectos\molino\clases\oformslocal.vct
@@ -3708,6 +2835,72 @@ SRPROVIIBTO;Ultimo registro:          1 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\
 06-03-2017 16:03:47 , Nº de Linea :         11
 06-03-2017 16:03:47 , En el Fuente: ldfecdesde = CTOD('01-'+strzero(MONTH(ldfecdesde),2)+'-'+STR(YEAR(ldfecdesde)))
 06-03-2017 16:07:09 , MAIN, Error: No se encuentra la variable 'NRETENCION'.;Linea : IF nRetencion = 0 OR nPorce = 0;Error :         12;Ultimo Alias Activo: CSRPARAVARIO;Ultimo registro:         71 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000AART09II.TMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3760,6 +2953,72 @@ SRPROVIIBTO;Ultimo registro:          1 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ;Ultimo Control activo: 
 06-03-2017 16:11:41 , Pila de llamadas
 06-03-2017 16:11:41 , Programa    : j:\xsoftmolino\proyectos\molino\progs\main.fxp
@@ -3789,6 +3048,72 @@ SRPROVIIBTO;Ultimo registro:          1 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\
 06-03-2017 16:12:09 , En el Fuente: IF nRetencion = 0 OR nPorce = 0
 06-03-2017 16:22:51 , ABMPROVINCIA.CONTENEDOR1.PFRAME1.PAGE1.KITBUSCAOALTAENCTAIBTO.TXTID.INIT, Error: No se encuentra el alias 'CSRPROVINCIA'.;Linea : this.controlsource=this.parent.controlsourcetxtid;Error :         13;Ultimo Alias Activo: ;Ultimo regi
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 stro:          0 ;DBF: ;Ultimo Control activo: 
 06-03-2017 16:22:51 , Pila de llamadas
 06-03-2017 16:22:55 , Programa    : j:\xsoftmolino\desarrollo\clases\controles.vct
@@ -3796,3 +3121,625 @@ stro:          0 ;DBF: ;Ultimo Control activo:
 06-03-2017 16:22:55 , Base Objeto : j:\xsoftmolino\desarrollo\clases\controles.vct
 06-03-2017 16:22:55 , Nº de Linea :          1
 06-03-2017 16:23:00 , En el Fuente: this.controlsource=this.parent.controlsourcetxtid
+08-03-2017 13:20:56 , MAIN, Error: No se encuentra la propiedad HAYIBTO.;Linea : IF this.oReteIBTO.hayibto;Error :       1734;Ultimo Alias Activo: CSRIMPCUE;Ultimo registro:          1 GRUPO;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000B5E1010Z.TMP;Ultimo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Control activo: NUMERO
+08-03-2017 13:20:57 , Pila de llamadas
+08-03-2017 13:20:59 , Programa    : j:\xsoftmolino\proyectos\molino\progs\main.fxp
+08-03-2017 13:20:59 , Objeto      : main
+08-03-2017 13:20:59 , Base Objeto : j:\xsoftmolino\proyectos\molino\progs\main.prg
+08-03-2017 13:20:59 , Nº de Linea :        272
+08-03-2017 13:21:02 , En el Fuente: 	Read events   
+08-03-2017 13:21:02 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 13:21:02 , Objeto      : regctacte.keypress
+08-03-2017 13:21:02 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 13:21:06 , Nº de Linea :         25
+08-03-2017 13:21:06 , En el Fuente: 			        .key_43(2) && + Graba
+08-03-2017 13:21:06 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 13:21:06 , Objeto      : regctacte.key_43
+08-03-2017 13:21:10 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 13:21:10 , Nº de Linea :         43
+08-03-2017 13:21:10 , En el Fuente: 					.actualizar()
+08-03-2017 13:21:10 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 13:21:13 , Objeto      : regctacte.actualizar
+08-03-2017 13:21:14 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 13:21:14 , Nº de Linea :         47
+08-03-2017 13:21:17 , En el Fuente: 	   	   				.despuestransaccion()
+08-03-2017 13:21:17 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 13:21:17 , Objeto      : regctacte.despuestransaccion
+08-03-2017 13:21:21 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 13:21:21 , Nº de Linea :         13
+08-03-2017 13:21:21 , En el Fuente: 	IF this.oReteIBTO.hayibto 
+08-03-2017 13:49:14 , MAIN, Error: No se encuentra la variable 'LETRA'.;Linea : lcLetra = CsrPrefitermi.letra;Error :         12;Ultimo Alias Activo: CSRPREFITERMI;Ultimo registro:          1 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000B5E101JD.TMP;Ultim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+o Control activo: NUMERO
+08-03-2017 13:49:21 , Pila de llamadas
+08-03-2017 13:49:25 , Programa    : j:\xsoftmolino\proyectos\molino\progs\main.fxp
+08-03-2017 13:49:25 , Objeto      : main
+08-03-2017 13:49:25 , Base Objeto : j:\xsoftmolino\proyectos\molino\progs\main.prg
+08-03-2017 13:49:25 , Nº de Linea :        272
+08-03-2017 13:49:31 , En el Fuente: 	Read events   
+08-03-2017 13:49:31 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 13:49:31 , Objeto      : regctacte.keypress
+08-03-2017 13:49:31 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 13:49:32 , Nº de Linea :         25
+08-03-2017 13:49:36 , En el Fuente: 			        .key_43(2) && + Graba
+08-03-2017 13:49:36 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 13:49:36 , Objeto      : regctacte.key_43
+08-03-2017 13:49:42 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 13:49:42 , Nº de Linea :         43
+08-03-2017 13:49:42 , En el Fuente: 					.actualizar()
+08-03-2017 13:49:42 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 13:49:47 , Objeto      : regctacte.actualizar
+08-03-2017 13:49:47 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 13:49:47 , Nº de Linea :         47
+08-03-2017 13:49:47 , En el Fuente: 	   	   				.despuestransaccion()
+08-03-2017 13:49:52 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 13:49:53 , Objeto      : regctacte.despuestransaccion
+08-03-2017 13:49:53 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 13:49:53 , Nº de Linea :         14
+08-03-2017 13:49:58 , En el Fuente: 		this.oReteIBTO.imprimir()
+08-03-2017 13:49:58 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+08-03-2017 13:49:58 , Objeto      : regctacte.oreteibto.imprimir
+08-03-2017 13:49:59 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+08-03-2017 13:50:03 , Nº de Linea :         15
+08-03-2017 13:50:03 , En el Fuente: 		this.leerproximonro()
+08-03-2017 13:50:03 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+08-03-2017 13:50:03 , Objeto      : regctacte.oreteibto.leerproximonro
+08-03-2017 13:50:10 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+08-03-2017 13:50:10 , Nº de Linea :         25
+08-03-2017 13:50:10 , En el Fuente: 		lcLetra = CsrPrefitermi.letra
+08-03-2017 16:25:22 , MAIN, Error: Incompatibilidad entre el tipo de operador y el tipo de operando.;Linea : IF id = lnidprovincia;Error :        107;Ultimo Alias Activo: CSRPREFIJONROCONST;Ultimo registro:          1 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EMP\0000B5E102UB.TMP;Ultimo Control activo: NUMERO
+08-03-2017 16:25:23 , Pila de llamadas
+08-03-2017 16:25:27 , Programa    : j:\xsoftmolino\proyectos\molino\progs\main.fxp
+08-03-2017 16:25:27 , Objeto      : main
+08-03-2017 16:25:27 , Base Objeto : j:\xsoftmolino\proyectos\molino\progs\main.prg
+08-03-2017 16:25:27 , Nº de Linea :        272
+08-03-2017 16:25:27 , En el Fuente: 	Read events   
+08-03-2017 16:25:31 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 16:25:31 , Objeto      : regctacte.keypress
+08-03-2017 16:25:31 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 16:25:31 , Nº de Linea :         25
+08-03-2017 16:25:35 , En el Fuente: 			        .key_43(2) && + Graba
+08-03-2017 16:25:35 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 16:25:35 , Objeto      : regctacte.key_43
+08-03-2017 16:25:35 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 16:25:35 , Nº de Linea :         43
+08-03-2017 16:25:38 , En el Fuente: 					.actualizar()
+08-03-2017 16:25:38 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 16:25:38 , Objeto      : regctacte.actualizar
+08-03-2017 16:25:38 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 16:25:38 , Nº de Linea :         47
+08-03-2017 16:25:41 , En el Fuente: 	   	   				.despuestransaccion()
+08-03-2017 16:25:41 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 16:25:41 , Objeto      : regctacte.despuestransaccion
+08-03-2017 16:25:41 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+08-03-2017 16:25:41 , Nº de Linea :         14
+08-03-2017 16:25:41 , En el Fuente: 		this.oReteIBTO.imprimir()
+08-03-2017 16:25:44 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+08-03-2017 16:25:44 , Objeto      : regctacte.oreteibto.imprimir
+08-03-2017 16:25:44 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+08-03-2017 16:25:48 , Nº de Linea :         15
+08-03-2017 16:25:48 , En el Fuente: 		this.leerproximonro()
+08-03-2017 16:25:48 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+08-03-2017 16:25:48 , Objeto      : regctacte.oreteibto.leerproximonro
+08-03-2017 16:25:51 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+08-03-2017 16:25:51 , Nº de Linea :         48
+08-03-2017 16:25:51 , En el Fuente: 	     IF id = lnidprovincia
+09-03-2017 14:28:27 , REGCTACTE.KEYPRESS, Error: No se encuentra el alias 'CSRRETECOMP'.;Linea : .proximonro		= lcanioafip + strzero(CsrReteComp.numero,9);Error :         13;Ultimo Alias Activo: CSRPREFIJONROCONST;Ultimo registro:          3 ;DBF: C:\USE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RS\ADMIN\APPDATA\LOCAL\TEMP\000079JD043F.TMP;Ultimo Control activo: NUMERO
+09-03-2017 14:28:27 , Pila de llamadas
+09-03-2017 14:28:29 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 14:28:29 , Objeto      : regctacte.keypress
+09-03-2017 14:28:30 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 14:28:30 , Nº de Linea :         25
+09-03-2017 14:28:33 , En el Fuente: 			        .key_43(2) && + Graba
+09-03-2017 14:28:33 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 14:28:33 , Objeto      : regctacte.key_43
+09-03-2017 14:28:33 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 14:28:33 , Nº de Linea :         43
+09-03-2017 14:28:33 , En el Fuente: 					.actualizar()
+09-03-2017 14:28:34 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 14:28:37 , Objeto      : regctacte.actualizar
+09-03-2017 14:28:37 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 14:28:37 , Nº de Linea :         30
+09-03-2017 14:28:41 , En el Fuente: 		   	    this.oReteIBTO.leerconstancias(.t.)      
+09-03-2017 14:28:41 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-03-2017 14:28:41 , Objeto      : regctacte.oreteibto.leerconstancias
+09-03-2017 14:28:41 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-03-2017 14:28:45 , Nº de Linea :         15
+09-03-2017 14:28:45 , En el Fuente: 		this.leerproximonro(llUpdate,idprovincia)
+09-03-2017 14:28:45 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-03-2017 14:28:45 , Objeto      : regctacte.oreteibto.leerproximonro
+09-03-2017 14:28:48 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-03-2017 14:28:48 , Nº de Linea :         96
+09-03-2017 14:28:49 , En el Fuente:     .proximonro		= lcanioafip + strzero(CsrReteComp.numero,9)
+09-03-2017 14:40:05 , REGCTACTE.LOAD, Error: El archivo 'csrmovctacte.dbf' no existe.;Linea : SELECT CsrMovctacte.*,SPACE(35) as cnombre, CAST(0 as int) as idfletero, SPACE(35) nomflete , CAST(0 as int) as idprovincia , CAST(0 as int) as idareaneg, CAST(
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 as int) as idactividad ,0 as consumoint FROM CsrMovCtacte WHERE RECNO()=1 AND id=0 INTO CURSOR CsrAuxMovctacte READWRITE;Error :          1;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Control activo: 
+09-03-2017 14:40:09 , Pila de llamadas
+09-03-2017 14:40:12 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 14:40:12 , Objeto      : regctacte.load
+09-03-2017 14:40:12 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 14:40:12 , Nº de Linea :          3
+09-03-2017 14:40:16 , En el Fuente: thisform.crearcursor()
+09-03-2017 14:40:16 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 14:40:16 , Objeto      : regctacte.crearcursor
+09-03-2017 14:40:20 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 14:40:20 , Nº de Linea :          6
+09-03-2017 14:40:20 , En el Fuente: SELECT CsrMovctacte.*,SPACE(35) as cnombre, CAST(0 as int) as idfletero, SPACE(35) nomflete, CAST(0 as int) as idprovincia , CAST(0 as int) as idareaneg, CAST(0 as int) as idactividad,0 as consumointFROM CsrMovCtacte W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HERE RECNO()=1 AND id=0 INTO CURSOR CsrAuxMovctacte READWRITE 
+09-03-2017 14:44:00 , REGCTACTE.KEYPRESS, Error: No se encuentra la variable 'NOMIMPRESORA'.;Linea : .impresora		= IIF(LEN(TRIM(CsrReteComp.nompuerto))#0,CsrReteComp.nompuerto,CsrReteComp.nomimpresora);Error :         12;Ultimo Alias Activo: CSRRETECOMP;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ultimo registro:          1 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\000038Y101OZ.TMP;Ultimo Control activo: NUMERO
+09-03-2017 14:44:03 , Pila de llamadas
+09-03-2017 14:44:08 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 14:44:08 , Objeto      : regctacte.keypress
+09-03-2017 14:44:09 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 14:44:09 , Nº de Linea :         25
+09-03-2017 14:44:11 , En el Fuente: 			        .key_43(2) && + Graba
+09-03-2017 14:44:11 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 14:44:11 , Objeto      : regctacte.key_43
+09-03-2017 14:44:11 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 14:44:12 , Nº de Linea :         43
+09-03-2017 14:44:12 , En el Fuente: 					.actualizar()
+09-03-2017 14:44:12 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 14:44:16 , Objeto      : regctacte.actualizar
+09-03-2017 14:44:16 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 14:44:17 , Nº de Linea :         30
+09-03-2017 14:44:21 , En el Fuente: 		   	    llok = this.oReteIBTO.leerconstancias(.t.)      
+09-03-2017 14:44:21 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-03-2017 14:44:21 , Objeto      : regctacte.oreteibto.leerconstancias
+09-03-2017 14:44:21 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-03-2017 14:44:24 , Nº de Linea :         17
+09-03-2017 14:44:24 , En el Fuente: 		lok = this.leerproximonro(llUpdate,idprovincia)
+09-03-2017 14:44:24 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-03-2017 14:44:24 , Objeto      : regctacte.oreteibto.leerproximonro
+09-03-2017 14:44:26 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-03-2017 14:44:27 , Nº de Linea :        100
+09-03-2017 14:44:27 , En el Fuente: 	.impresora		= IIF(LEN(TRIM(CsrReteComp.nompuerto))#0,CsrReteComp.nompuerto,CsrReteComp.nomimpresora)
+09-03-2017 15:05:56 , REGCTACTE.LOAD, Error: El archivo 'csrmovctacte.dbf' no existe.;Linea : SELECT CsrMovctacte.*,SPACE(35) as cnombre, CAST(0 as int) as idfletero, SPACE(35) nomflete , CAST(0 as int) as idprovincia , CAST(0 as int) as idareaneg, CAST(
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 as int) as idactividad ,0 as consumoint FROM CsrMovCtacte WHERE RECNO()=1 AND id=0 INTO CURSOR CsrAuxMovctacte READWRITE;Error :          1;Ultimo Alias Activo: ;Ultimo registro:          0 ;DBF: ;Ultimo Control activo: 
+09-03-2017 15:06:00 , Pila de llamadas
+09-03-2017 15:06:04 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:06:04 , Objeto      : regctacte.load
+09-03-2017 15:06:04 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:06:04 , Nº de Linea :          3
+09-03-2017 15:06:08 , En el Fuente: thisform.crearcursor()
+09-03-2017 15:06:08 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:06:08 , Objeto      : regctacte.crearcursor
+09-03-2017 15:06:08 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:06:12 , Nº de Linea :          6
+09-03-2017 15:06:12 , En el Fuente: SELECT CsrMovctacte.*,SPACE(35) as cnombre, CAST(0 as int) as idfletero, SPACE(35) nomflete, CAST(0 as int) as idprovincia , CAST(0 as int) as idareaneg, CAST(0 as int) as idactividad,0 as consumointFROM CsrMovCtacte W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HERE RECNO()=1 AND id=0 INTO CURSOR CsrAuxMovctacte READWRITE 
+09-03-2017 15:11:10 , REGCTACTE.KEYPRESS, Error: No se encuentra la propiedad TIPOIMPRESORA.;Linea : IF .tipoimpresora#3 AND .idimpresora#0;Error :       1734;Ultimo Alias Activo: CSRAUXPLANCUE;Ultimo registro:          1 ;DBF: C:\USERS\ADMIN\APPDATA\LOC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AL\TEMP\00004LC900VE.TMP;Ultimo Control activo: 
+09-03-2017 15:11:14 , Pila de llamadas
+09-03-2017 15:11:18 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:11:18 , Objeto      : regctacte.keypress
+09-03-2017 15:11:18 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:11:18 , Nº de Linea :         25
+09-03-2017 15:11:22 , En el Fuente: 			        .key_43(2) && + Graba
+09-03-2017 15:11:22 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:11:22 , Objeto      : regctacte.key_43
+09-03-2017 15:11:29 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:11:29 , Nº de Linea :         43
+09-03-2017 15:11:29 , En el Fuente: 					.actualizar()
+09-03-2017 15:11:29 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:11:32 , Objeto      : regctacte.actualizar
+09-03-2017 15:11:32 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:11:32 , Nº de Linea :         53
+09-03-2017 15:11:32 , En el Fuente: 	   	   				.despuestransaccion()
+09-03-2017 15:11:35 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:11:35 , Objeto      : regctacte.despuestransaccion
+09-03-2017 15:11:35 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:11:42 , Nº de Linea :         14
+09-03-2017 15:11:42 , En el Fuente: 		this.oReteIBTO.imprimir()
+09-03-2017 15:11:42 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-03-2017 15:11:48 , Objeto      : regctacte.oreteibto.imprimir
+09-03-2017 15:11:48 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-03-2017 15:11:48 , Nº de Linea :         18
+09-03-2017 15:11:48 , En el Fuente: 		IF .tipoimpresora#3 AND .idimpresora#0   
+09-03-2017 15:45:31 , REGCTACTE.KEYPRESS, Error: No se encuentra la propiedad TIPOIMPRESORA.;Linea : IF .tipoimpresora#3 AND .idimpresora#0;Error :       1734;Ultimo Alias Activo: CSRRETECOMP;Ultimo registro:          1 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL
+
+
+
+
+
+
+
+
+
+\TEMP\00004LC902XO.TMP;Ultimo Control activo: 
+09-03-2017 15:45:37 , Pila de llamadas
+09-03-2017 15:45:40 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:45:40 , Objeto      : regctacte.keypress
+09-03-2017 15:45:40 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:45:40 , Nº de Linea :         25
+09-03-2017 15:45:44 , En el Fuente: 			        .key_43(2) && + Graba
+09-03-2017 15:45:44 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:45:45 , Objeto      : regctacte.key_43
+09-03-2017 15:45:45 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:45:48 , Nº de Linea :         49
+09-03-2017 15:45:48 , En el Fuente: 					.actualizar()
+09-03-2017 15:45:48 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:45:48 , Objeto      : regctacte.actualizar
+09-03-2017 15:45:51 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:45:51 , Nº de Linea :         53
+09-03-2017 15:45:51 , En el Fuente: 	   	   				.despuestransaccion()
+09-03-2017 15:45:51 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:45:51 , Objeto      : regctacte.despuestransaccion
+09-03-2017 15:45:51 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 15:45:56 , Nº de Linea :         15
+09-03-2017 15:45:56 , En el Fuente: 		this.oReteIBTO.imprimir()
+09-03-2017 15:45:56 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-03-2017 15:46:01 , Objeto      : regctacte.oreteibto.imprimir
+09-03-2017 15:46:01 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-03-2017 15:46:01 , Nº de Linea :         18
+09-03-2017 15:46:01 , En el Fuente: 		IF .tipoimpresora#3 AND .idimpresora#0   
+09-03-2017 16:06:00 , REGCTACTE.CMDIMPRIMIR.CLICK, Error: No se encuentra la variable 'DETALLE'.;Linea : thisform.proximonrorete = detalle;Error :         12;Ultimo Alias Activo: CSRRETECOMP;Ultimo registro:          1 ;DBF: C:\USERS\ADMIN\APPDATA\LOCAL\
+
+
+TEMP\00004LC904PK.TMP;Ultimo Control activo: 
+09-03-2017 16:06:00 , Pila de llamadas
+09-03-2017 16:06:04 , Programa    : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 16:06:04 , Objeto      : regctacte.cmdimprimir.click
+09-03-2017 16:06:04 , Base Objeto : j:\xsoftmolino\proyectos\molino\forms\regctacte_v2.sct
+09-03-2017 16:06:04 , Nº de Linea :         10
+09-03-2017 16:06:09 , En el Fuente: 	thisform.oReteIBTO.imprimir()
+09-03-2017 16:06:09 , Programa    : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-03-2017 16:06:09 , Objeto      : regctacte.oreteibto.imprimir
+09-03-2017 16:06:09 , Base Objeto : j:\xsoftmolino\desarrollo\clases\onegocio.vct
+09-03-2017 16:06:09 , Nº de Linea :         21
+09-03-2017 16:06:13 , En el Fuente: 			thisform.proximonrorete = detalle		
