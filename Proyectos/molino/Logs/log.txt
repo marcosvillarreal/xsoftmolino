@@ -1,103 +1,3 @@
-08-08-2016 12:47:53 , Error: No se encuentra el alias 'CSRRETUVO'. Linea : SELECT CsrRetuvo Error :         13 Ultimo Alias Activo: CSRPARAVARIO Ultimo registro:          2  DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT058D.TMP Ultimo Control activo:  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -135,6 +35,7 @@
 
 REGPROVIBBTO.INIT
 08-08-2016 13:20:55 , Error: No se encuentra el alias 'CSRRETUVO'. Linea : SELECT CsrRetuvo Error :         13 Ultimo Alias Activo: CSRPARAVARIO Ultimo registro:          2  DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT0627.TMP Ultimo Control activo:  
+
 
 
 
@@ -402,8 +303,10 @@ REGPROVIBBTO._OPROVINCIA.INTERACTIVECHANGE
 
 
 
+
 REGPROVIBBTO._OPROVINCIA.INTERACTIVECHANGE
 08-08-2016 13:29:25 , Error: No se puede borrar el objeto REGPROVIBBTO  porque está en uso. Linea : clear all Error :       1951 Ultimo Alias Activo: CSRPARAVARIO Ultimo registro:          1  DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT063G.TMP Ultimo
+
 
 
 
@@ -667,8 +570,10 @@ REGPROVIBBTO._OPROVINCIA.INTERACTIVECHANGE
 
 
 
+
 REGPROVIBBTO._OPROVINCIA.INTERACTIVECHANGE
 08-08-2016 13:32:20 , Error: No se encuentra el alias 'CSRRETUVO'. Linea : SELECT CsrRetuvo Error :         13 Ultimo Alias Activo: CSRPARAVARIO Ultimo registro:          2  DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT0653.TMP Ultimo Control activo:  
+
 
 
 
@@ -928,8 +833,10 @@ REGPROVIBBTO._OPROVINCIA.INTERACTIVECHANGE
 
 
 
+
 TEMP\0000DGJT06BE.TMP Ultimo Control activo:  REGPROVIBBTO._OPROVINCIA.INTERACTIVECHANGE
 08-08-2016 13:46:08 , Error: No se encuentra la variable 'NIDPROVINCIA'. Linea : LOCATE FOR idorigen = nidprovincia AND nombre="CATEIBRN" Error :         12 Ultimo Alias Activo: CSRPARAVARIO Ultimo registro:          1  DBF: C:\USERS\MARCO\APPDATA\LOCAL\
+
 
 
 
@@ -1185,8 +1092,10 @@ TEMP\0000DGJT06C4.TMP Ultimo Control activo:  REGPROVIBBTO._OPROVINCIA.INTERACTI
 
 
 
+
 ivo:  REGPROVIBBTO._OPROVINCIA.INTERACTIVECHANGE
 08-08-2016 14:28:01 , Error: No se encuentra el alias. Linea : Oca = GETCURSORADAPTER(lcalias) Error :         13 Ultimo Alias Activo: CSROBJPARAVARIO Ultimo registro:          1  DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT09GC.TMP Ultimo Control act
+
 
 
 
@@ -1438,8 +1347,10 @@ ivo:  REGFACCPRA.KEYPRESS
 
 
 
+
 Control activo:  REGPROVIBBTO.INIT
 08-08-2016 14:35:49 , Error: No se encuentra la variable 'IMPORTE'. Linea : SUM importe FOR tipoconce$'NG-EX' TO nBaseImp Error :         12 Ultimo Alias Activo: CSRAUXPLANGRAVADO Ultimo registro:          3  DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DG
+
 
 
 
@@ -1687,8 +1598,10 @@ JT0AQ1.TMP Ultimo Control activo:  REGFACCPRA.KEYPRESS
 
 
 
+
 ivo:  REGFACCPRA.KEYPRESS
 08-08-2016 14:39:54 , Error: FORMVENTANA no es un objeto. Linea : formVentana.Release Error :       1924 Ultimo Alias Activo: CSRAUXPLANGRAVADO Ultimo registro:          3  DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT0BN5.TMP Ultimo Control activo:  R
+
 
 
 
@@ -1932,8 +1845,10 @@ EGFACCPRA.KEYPRESS
 
 
 
+
 CPRA.KEYPRESS
 08-08-2016 14:45:25 , Error: FORMVENTANA no es un objeto. Linea : formVentana.Release Error :       1924 Ultimo Alias Activo: CSRPARAVARIO Ultimo registro:          4  DBF: C:\USERS\MARCO\APPDATA\LOCAL\TEMP\0000DGJT0CM3.TMP Ultimo Control activo:  REGFAC
+
 
 
 
@@ -2173,8 +2088,10 @@ CPRA.KEYPRESS
 
 
 
+
 registro:          9  DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00004LXL00A3.TMP Ultimo Control activo: IMPORTE REGFACCPRA.KEYPRESS
 09-08-2016 15:05:46 , Error: LOOBJETO no es un objeto. Linea : .detalle   = loObjeto.detalle Error :       1924 Ultimo Alias Activo: CSRCONCEPTO Ultimo registro:          1  DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\0000CAA102N8.TMP Ultimo Control activo: I
+
 
 
 
@@ -2408,8 +2325,10 @@ MPORTE REGFACCPRA.KEYPRESS
 
 
 
+
 trol activo:  REGFACCPRA.KEYPRESS
 09-08-2016 15:11:25 , Error: LOOBJCABEFAC no es un objeto. Linea : lcalias = loObjCabefac.calias  && alias del objeto de negocio Error :       1924 Ultimo Alias Activo: CSRAUXPLANCUE Ultimo registro:         10  DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\000
+
 
 
 
@@ -2639,8 +2558,10 @@ trol activo:  REGFACCPRA.KEYPRESS
 
 
 
+
 Control activo:  REGFACCPRA.KEYPRESS
 09-08-2016 16:10:10 , Error: El archivo 'j:\xsoftmolino\proyectos\molino\cform.scx' no existe. Linea : DO FORM cForm WITH this.oDatos &&TO cRespuesta Error :          1 Ultimo Alias Activo: CSRAUXPLANCUE Ultimo registro:         10  DBF: C:\USERS\CHIVI\A
+
 
 
 
@@ -2866,8 +2787,10 @@ PPDATA\LOCAL\TEMP\0000CAA10CEL.TMP Ultimo Control activo:  REGFACCPRA.KEYPRESS
 
 
 
+
 Control activo: IMPORTE REGFACCPRA.KEYPRESS
 09-08-2016 16:20:50 , Error: No se encuentra la propiedad NIDPROVINCIA. Linea : nidprovincia		= .nidprovincia Error :       1734 Ultimo Alias Activo: CSRAUXPLANGRAVADO Ultimo registro:          3  DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\0000CAA10EEH.TMP U
+
 
 
 
@@ -3089,8 +3012,10 @@ ltimo Control activo:  REGFACCPRA.KEYPRESS
 
 
 
+
 gistro:          0  DBF:  Ultimo Control activo:  MAIN
 12-08-2016 11:45:26 , Error: No se encuentra el alias. Linea : IF RECCOUNT(lcaliasseek)#0 Error :         13 Ultimo Alias Activo: CSRAUXPLANCUE Ultimo registro:          1  DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\0000A421031Y.TMP Ultimo Control activo:  R
+
 
 
 
@@ -3308,8 +3233,10 @@ EGPROVIBBTO.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.TXTEXISTE1.INIT
 
 
 
+
 EGPROVIBBTO.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.TXTEXISTE1.INIT
 12-08-2016 12:00:51 , Error: ODATOS es un miembro desconocido. Linea : this.oReteIbbto.oDatos.nRetencion = 0 Error :       1925 Ultimo Alias Activo: CSRAUXPLANCUE Ultimo registro:          1  DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\0000B56X01OO.TMP Ultimo
+
 
 
 
@@ -3523,8 +3450,10 @@ EGPROVIBBTO.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.TXTEXISTE1.INIT
 
 
 
+
  Control activo:  REGPROVIBBTO.CANCELAR1.CLICK
 12-08-2016 14:34:50 , Error: COMBO1 es un miembro desconocido. Linea : .grid1.coLUMN3.combo1.RowSource = "CsrClaseCta.cnombre,id" Error :       1925 Ultimo Alias Activo: CSRAUXCUOTAS Ultimo registro:          1  DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\000
+
 
 
 
@@ -3734,8 +3663,10 @@ EGPROVIBBTO.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.TXTEXISTE1.INIT
 
 
 
+
 0001D6X02XF.TMP Ultimo Control activo: CUENTA REGFACCPRA.CONTAINERENCABEZA._TXTPARADA.LOSTFOCUS
 12-08-2016 14:40:42 , Error: El comando contiene una frase o palabra clave no reconocida. Linea : lobjetoIdControl = &lcnameObjeto Error :         36 Ultimo Alias Activo: CSRAUXPLANCUE Ultimo registro:          1  DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\0
+
 
 
 
@@ -3941,8 +3872,10 @@ EGPROVIBBTO.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.TXTEXISTE1.INIT
 
 
 
+
 0001D6X03SF.TMP Ultimo Control activo: CUENTA REGFACCPRA.CONTAINERENCABEZA._TXTPARADA.LOSTFOCUS
 12-08-2016 14:43:58 , Error: El comando contiene una frase o palabra clave no reconocida. Linea : lobjetoIdControl = &lcnameObjeto Error :         36 Ultimo Alias Activo: CSRAUXPLANCUE Ultimo registro:          1  DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\0
+
 
 
 
@@ -4144,8 +4077,10 @@ EGPROVIBBTO.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.TXTEXISTE1.INIT
 
 
 
+
 0001D6X04MM.TMP Ultimo Control activo: CUENTA REGFACCPRA.CONTAINERENCABEZA._TXTPARADA.LOSTFOCUS
 12-08-2016 14:51:42 , Error: El comando contiene una frase o palabra clave no reconocida. Linea : lobjetoIdControl = &lcnameObjeto Error :         36 Ultimo Alias Activo: CSRAUXPLANCUE Ultimo registro:          1  DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\0
+
 
 
 
@@ -4343,7 +4278,9 @@ EGPROVIBBTO.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.TXTEXISTE1.INIT
 
 
 
+
 CAST(0 as int) as idactividad ,CAST(0 as numeric(12,0)) as idcuenta FROM CsrCabecpra WHERE RECNO()=1 AND id=0 INTO CURSOR CsrAuxcabefac READWRITE Error :          1 Ultimo Alias Activo:  Ultimo registro:          0  DBF:  Ultimo Control activo:  REGFACCP
+
 
 
 
@@ -4537,8 +4474,10 @@ RA.LOAD
 
 
 
+
 vo:  REGPROVIBBTO.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.GOTFOCUS
 12-08-2016 17:29:13 , Error: No se encuentra el alias 'CSRPROVRETE'. Linea : SELECT(this.calias) Error :         13 Ultimo Alias Activo: CSRPARAVARIO Ultimo registro:          4  DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00001D6X0ZA4.TMP Ultimo Control acti
+
 
 
 
@@ -4728,8 +4667,10 @@ vo:  REGPROVIBBTO.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.GOTFOCUS
 
 
 
+
 vo:  REGPROVIBBTO.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.GOTFOCUS
 12-08-2016 17:29:21 , Error: No se encuentra el alias 'CSRPROVRETE'. Linea : SELECT(this.calias) Error :         13 Ultimo Alias Activo: CSRPARAVARIO Ultimo registro:          4  DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00001D6X0ZA4.TMP Ultimo Control acti
+
 
 
 
@@ -4915,8 +4856,10 @@ vo:  REGPROVIBBTO.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.GOTFOCUS
 
 
 
+
 vo:  REGPROVIBBTO.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.GOTFOCUS
 12-08-2016 17:34:09 , Error: No se encuentra el alias 'CSRPROVRETE'. Linea : SELECT(this.calias) Error :         13 Ultimo Alias Activo: CSRPARAVARIO Ultimo registro:          4  DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\000009HL00E3.TMP Ultimo Control acti
+
 
 
 
@@ -5098,8 +5041,10 @@ vo:  REGPROVIBBTO.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.GOTFOCUS
 
 
 
+
 vo:  REGPROVIBBTO.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.GOTFOCUS
 12-08-2016 17:49:51 , Error: No se encuentra el alias. Linea : IF RECCOUNT(lcaliasseek)#0 Error :         13 Ultimo Alias Activo: CSRAUXPLANCUE Ultimo registro:          1  DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00009JIH01UF.TMP Ultimo Control activo:  R
+
 
 
 
@@ -5277,10 +5222,12 @@ EGPROVIBBTO.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.TXTEXISTE1.INIT
 
 
 
+
 EGPROVIBBTO.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.TXTEXISTE1.INIT
 23-09-2016 17:56:37 , Error: No se encuentra el alias 'CSRCBU'. Linea : SELECT (lCaliasNavega) Error :         13 Ultimo Alias Activo:  Ultimo registro:          0  DBF:  Ultimo Control activo:  MAIN
 23-09-2016 17:56:42 , Error: No se encuentra el alias 'CSRCBU'. Linea : return (&lcAlias) Error :         13 Ultimo Alias Activo:  Ultimo registro:          0  DBF:  Ultimo Control activo:  ABMCBU._TEXTBOX1.KEYPRESS
 23-09-2016 17:59:29 , Error: No se encuentra el alias 'CSRCBU'. Linea : SELECT (lCaliasNavega) Error :         13 Ultimo Alias Activo: CSRUSERSECU Ultimo registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\00009ERT00LD.TMP Ultimo Control activo:
+
 
 
 
@@ -5446,8 +5393,10 @@ EGPROVIBBTO.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.TXTEXISTE1.INIT
 
 
 
+
 gistro:          0  DBF:  Ultimo Control activo:  MAIN
 27-09-2016 19:39:08 , Error: No se encuentra el alias 'CSRPROVRETE'. Linea : Select(this.careaini) Error :         13 Ultimo Alias Activo: CSRAUXPLANCUE Ultimo registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000AN7T025L.TMP Ultimo Control a
+
 
 
 
@@ -5609,8 +5558,10 @@ ctivo:  MAIN
 
 
 
+
 TA\LOCAL\TEMP\00009MO900MK.TMP Ultimo Control activo: AFECTA MAIN
 03-11-2016 15:10:12 , Error: No se encuentra la variable 'LCTOTAL'. Linea : INSERT INTO CsrimpCue (grupo,Campo001,Campo002,Campo003,Campo004) VALUES (STR(loObjFactura.hojaactual,4)+STR(icopia,1),lccampo001,lccampo002,lcNumComp,lcTotal) Error :         12
+
 
 
 
@@ -5768,8 +5719,10 @@ TA\LOCAL\TEMP\00009MO900MK.TMP Ultimo Control activo: AFECTA MAIN
 
 
 
+
  Ultimo Alias Activo: CSRAUXMOVAFECTADO Ultimo registro:         11  DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\0000AKND02PR.TMP Ultimo Control activo:  MAIN
 07-11-2016 10:54:10 , Error: El archivo 'csrcabecpra.dbf' no existe. Linea : SELECT CsrCabecpra.*,00 as copiatkt,0 as idsubcta,SPACE(3) as subnumero,SPACE(40) as detalle,DATETIME() as Vencimien ,000.00 as bonif1,000.00 as bonif2, CAST(1 as int) as cuota,
+
 
 
 
@@ -5923,8 +5876,10 @@ CAST(0 as int) as idactividad ,CAST(0 as numeric(12,0)) as idcuenta FROM CsrCabe
 
 
 
+
 RA.LOAD
 13-12-2016 10:54:29 , Error: No se encuentra la variable 'CRUTACATEIBBACBA'. Linea : .RutaServerCopiaCBA = cRutaCateibbaCBA Error :         12 Ultimo Alias Activo: CSRSETEO Ultimo registro:         12  DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\0000BUA1000T.
+
 
 
 
@@ -6076,8 +6031,10 @@ TMP Ultimo Control activo:  TOMARTXT.INIT
 
 
 
+
 \0000BUA1004K.TMP Ultimo Control activo:  TOMARTXT.ACEPTAR1.CLICK
 13-12-2016 10:56:57 , Error: No hay ninguna tabla abierta en el área de trabajo actual. Linea : COPY TO &lcarchivo FIELDS cuit,porperce,porrete DELIMITED WITH CHARACTER ';' Error :         52 Ultimo Alias Activo:  Ultimo registro:          0  DBF:  Ultim
+
 
 
 
@@ -6225,8 +6182,10 @@ o Control activo:  TOMARTXT.ACEPTAR1.CLICK
 
 
 
+
 o Control activo:  TOMARTXT.ACEPTAR1.CLICK
 13-12-2016 11:01:12 , Error: No se encuentra el alias. Linea : Oca = GETCURSORADAPTER(lcalias) Error :         13 Ultimo Alias Activo: FSRCATEIBCBA Ultimo registro:          1  DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\0000BUA10076.TMP Ultimo Control activo
+
 
 
 
@@ -6370,8 +6329,10 @@ o Control activo:  TOMARTXT.ACEPTAR1.CLICK
 
 
 
+
 AL\TEMP\00008FM10052.TMP Ultimo Control activo:  PARAVARIO.INIT
 12-01-2017 11:06:09 , Error: CHKIBCBA es un miembro desconocido. Linea : .page1.chkibcba.Value = lnchkibcba Error :       1925 Ultimo Alias Activo: CSRCTACREDITO Ultimo registro:          1  DBF: C:\USERS\CHIVI\APPDATA\LOCAL\TEMP\00008FM1009R.TMP Ultimo 
+
 
 
 
@@ -6511,8 +6472,10 @@ Control activo:  PARAVARIO.INIT
 
 
 
+
   0  DBF:  Ultimo Control activo:  REGPARAMETROS.LOAD
 12-01-2017 11:32:28 , Error: No se encuentra la variable 'LDIRFILECATEIBCBA'. Linea : ldirfilecateibcba		= IIF(allTRIM(UPPER(nombre))="DIRFILECATEIBCBA",.t.,ldirfilecateibcba) Error :         12 Ultimo Alias Activo: CSRSETEOPARAM Ultimo registro:        
+
 
 
 
@@ -6646,8 +6609,10 @@ Control activo:  PARAVARIO.INIT
 
 
 
+
 S\CHIVI\APPDATA\LOCAL\TEMP\00008FM100MJ.TMP Ultimo Control activo:  TOMARTXT.ACEPTAR1.CLICK
 13-01-2017 10:13:35 , Error: No se encuentra el alias. Linea : Oca = GETCURSORADAPTER(lcalias) Error :         13 Ultimo Alias Activo: CSROBJPARAVARIO Ultimo registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000AEBT024P.TMP Ultimo Control act
+
 
 
 
@@ -6777,8 +6742,10 @@ ivo: CDIRECCION REGFACVTA.CONTAINERENCABEZA.KITBUSCAOALTAENCTACTE.LOSTFOCUS
 
 
 
+
 timo Control activo: CODIGO ABMPRODUCTO.INIT
 13-01-2017 10:22:41 , Error: No se encuentra el alias 'CSRTIPOIVA'. Linea : .ADDPROPERTY( '_nOriginalWidth', .WIDTH ) Error :         13 Ultimo Alias Activo: CSRSETEO Ultimo registro:          9  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000AEBT03B2.TMP Ul
+
 
 
 
@@ -6904,8 +6871,10 @@ timo Control activo:  ABMPRODUCTO.INIT
 
 
 
+
 NCIA,10)+STR(NFECHA,8)+STRID(ID) DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000AEBT068O.TMP Ultimo Control activo:  MAIN
 13-01-2017 11:27:41 , Error: El archivo 'c:\xsoftmolino\proyectos\molino\datos\data.dbc' no existe. Linea : &lccmd Error :          1 Ultimo Alias Activo: CURPERFIL Ultimo registro:        189  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000AEBT06I0.TMP Ulti
+
 
 
 
@@ -7025,8 +6994,10 @@ mo Control activo:  MAIN
 
 
 
+
 mo Control activo:  MAIN
 13-01-2017 11:39:05 , Error: El archivo 'c:\xsoftmolino\proyectos\molino\datos\data.dbc' no existe. Linea : &lccmd Error :          1 Ultimo Alias Activo: CURPERFIL Ultimo registro:        115  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000979L00K5.TMP Ulti
+
 
 
 
@@ -7142,8 +7113,10 @@ mo Control activo:  MAIN
 
 
 
+
 gistro:          0  DBF:  Ultimo Control activo:  MAIN
 13-01-2017 17:02:24 , Error: No se encuentra el alias 'CSROBJPARAVARIO'. Linea : SELECT CsrObjParavario Error :         13 Ultimo Alias Activo: CSROBJCTACTE Ultimo registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000979L0132.TMP Ultimo Contr
+
 
 
 
@@ -7255,8 +7228,10 @@ ol activo:  MAIN
 
 
 
+
 ol activo:  REGFACCPRA.CONTAINERENCABEZA._TXTLOSTFOCUS.GOTFOCUS
 13-01-2017 17:02:40 , Error: No se encuentra el alias 'CSROBJPARAVARIO'. Linea : SELECT CsrObjParavario Error :         13 Ultimo Alias Activo: CSROBJCTACTE Ultimo registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000979L0158.TMP Ultimo Contr
+
 
 
 
@@ -7364,8 +7339,10 @@ ol activo:  REGFACCPRA.CONTAINERENCABEZA._TXTLOSTFOCUS.GOTFOCUS
 
 
 
+
 ol activo:  REGFACCPRA.CONTAINERENCABEZA._TXTLOSTFOCUS.GOTFOCUS
 13-01-2017 17:06:10 , Error: No se encuentra el alias 'CSROBJPARAVARIO'. Linea : SELECT CsrObjParavario Error :         13 Ultimo Alias Activo: CSROBJCTACTE Ultimo registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\000095OP00EP.TMP Ultimo Contr
+
 
 
 
@@ -7469,8 +7446,10 @@ ol activo:  REGFACCPRA.CONTAINERENCABEZA._TXTLOSTFOCUS.GOTFOCUS
 
 
 
+
 ol activo:  REGFACCPRA.CONTAINERENCABEZA._TXTLOSTFOCUS.GOTFOCUS
 20-01-2017 13:21:15 , Error: El archivo 'c:\xsoftmolino\proyectos\molino\datos\data.dbc' no existe. Linea : &lccmd Error :          1 Ultimo Alias Activo: CURPERFIL Ultimo registro:        211  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000CFM1009M.TMP Ulti
+
 
 
 
@@ -7570,8 +7549,10 @@ mo Control activo:  MAIN
 
 
 
+
 registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000CFM1013O.TMP Ultimo Control activo:  ABMCTACTE.CONTENEDOR1.GRIDABM1.AFTERROWCOLCHANGE
 20-01-2017 13:43:14 , Error: No se puede modificar el cursor porque contiene un registro que no se ha guardado. Linea : replace imporflete WITH IIF(ISNULL(imporflete),0,imporflete) IN CsrCtacte Error :       2072 Ultimo Alias Activo: CSRCATEIBCBA Ultimo 
+
 
 
 
@@ -7667,8 +7648,10 @@ registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000CFM1013X.TMP Ul
 
 
 
+
 mo Control activo:  RESCTACTE.IMPRIMIR_VISTAPREVIA1.IMPRESORA.CLICK
 25-01-2017 16:45:52 , Error: El archivo 'c:\xsoftmolino\proyectos\molino\datos\data.dbc' no existe. Linea : &lccmd Error :          1 Ultimo Alias Activo: CURPERFIL Ultimo registro:        114  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\00008D1L00ZB.TMP Ulti
+
 
 
 
@@ -7760,8 +7743,10 @@ mo Control activo:  MAIN
 
 
 
+
 S
 02-03-2017 15:03:56 , Error: No se encuentra la variable 'CLOGOCTACTE'. Linea : IF NOT FILE(cLogoCtacte) Error :         12 Ultimo Alias Activo:  Ultimo registro:          0  DBF:  Ultimo Control activo:  REGCTACTE.CONTAINERENCABEZA._TXTLOSTFOCUS.GOTFOCU
+
 
 
 
@@ -7849,8 +7834,10 @@ S
 
 
 
+
 S
 02-03-2017 15:19:26 , Error: KITBUSCAOALTAENPROVINCIA es un miembro desconocido. Linea : .containerencabeza.KItbuscaoaltaenprovincia.Enabled = .T. Error :       1925 Ultimo Alias Activo: CSRSETEO Ultimo registro:          9  DBF: C:\USERS\ADMIN\APPDATA\L
+
 
 
 
@@ -7934,8 +7921,10 @@ OCAL\TEMP\00004B9L00VI.TMP Ultimo Control activo: FECHA REGCTACTE.INIT
 
 
 
+
 ctividad ,0 as consumoint FROM CsrMovCtacte WHERE RECNO()=1 AND id=0 INTO CURSOR CsrAuxMovctacte READWRITE Error :          1 Ultimo Alias Activo:  Ultimo registro:          0  DBF:  Ultimo Control activo: IDCOMPROBA REGCTACTE.LOAD
 02-03-2017 16:38:09 , Error: No se encuentra la propiedad INICIAR. Linea : thisform.oReteIbto.iniciar() Error :       1734 Ultimo Alias Activo: CSRCATECTACTE Ultimo registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\00004B9L057H.TMP Ultimo Cont
+
 
 
 
@@ -8015,8 +8004,10 @@ rol activo: FECHA REGCTACTE.CONTAINERENCABEZA._TXTFECHA.GOTFOCUS
 
 
 
+
 TACTE.CONTAINERENCABEZA._TXTFECHA.GOTFOCUS
 02-03-2017 16:39:47 , Error: No se encuentra la propiedad INICIAR. Linea : thisform.oReteIbto.iniciar() Error :       1734 Ultimo Alias Activo: CSRCATECTACTE Ultimo registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\00004B9L05H6.TMP Ultimo Cont
+
 
 
 
@@ -8092,8 +8083,10 @@ rol activo: FECHA REGCTACTE.CONTAINERENCABEZA._TXTFECHA.GOTFOCUS
 
 
 
+
 ADMIN\APPDATA\LOCAL\TEMP\00004B9L05QP.TMP Ultimo Control activo: FECHA REGCTACTE.CONTAINERENCABEZA._TXTFECHA.GOTFOCUS
 02-03-2017 16:47:53 , Error: KITBUSCAOALTAENPROVINCIA es un miembro desconocido. Linea : .containerencabeza.KItbuscaoaltaenprovincia.Enabled = .T. Error :       1925 Ultimo Alias Activo: CSRAUXMOVAFECTADO Ultimo registro:          1  DBF: C:\USERS\ADMIN\
+
 
 
 
@@ -8165,8 +8158,10 @@ APPDATA\LOCAL\TEMP\00004B9L06KZ.TMP Ultimo Control activo: FECHA REGCTACTE.KEYPR
 
 
 
+
  Ultimo registro:          2  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000AART032Z.TMP Ultimo Control activo: FECHA MAIN
 06-03-2017 15:40:01 , Error: No se encuentra la propiedad CCATEGOGAN. Linea : IF this.odatos.cCategoGan$"EX-NC" Error :       1734 Ultimo Alias Activo: FSRCTRLCTACTE Ultimo registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000AART06KD.TMP Ult
+
 
 
 
@@ -8234,8 +8229,10 @@ imo Control activo: FECHA MAIN
 
 
 
+
 XMOVAFECTADO Ultimo registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000AART06ZE.TMP Ultimo Control activo:  MAIN
 06-03-2017 15:47:22 , Error: El valor, tipo o número de argumentos no es válido para la función. Linea : lcidmaopera = ALLTRIM(lcidmaopera)+IIF(EMPTY(lcidmaopera)," ",",")+ALLTRIM(STRid(CsrAuxMovAfectado.id)) Error :         11 Ultimo Alias Activo: CSRAU
+
 
 
 
@@ -8299,8 +8296,10 @@ XMOVAFECTADO Ultimo registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP
 
 
 
+
 000AART08CQ.TMP Ultimo Control activo:  MAIN
 06-03-2017 16:01:55 , Error: El valor, tipo o número de argumentos no es válido para la función. Linea : ldfecdesde = CTOD('01-'+strzero(MONTH(ldfecdesde),2)+'-'+STR(YEAR(ldfecdesde))) Error :         11 Ultimo Alias Activo: CSRPROVIIBTO Ultimo registro:
+
 
 
 
@@ -8360,8 +8359,10 @@ XMOVAFECTADO Ultimo registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP
 
 
 
+
           1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000AART08WP.TMP Ultimo Control activo:  REGCTACTE.IMAGE1.MOUSEMOVE
 06-03-2017 16:07:05 , Error: No se encuentra la variable 'NRETENCION'. Linea : IF nRetencion = 0 OR nPorce = 0 Error :         12 Ultimo Alias Activo: CSRPARAVARIO Ultimo registro:         71  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000AART09II.TMP Ultim
+
 
 
 
@@ -8417,8 +8418,10 @@ o Control activo:  MAIN
 
 
 
+
 o Control activo:  MAIN
 06-03-2017 16:22:47 , Error: No se encuentra el alias 'CSRPROVINCIA'. Linea : this.controlsource=this.parent.controlsourcetxtid Error :         13 Ultimo Alias Activo:  Ultimo registro:          0  DBF:  Ultimo Control activo:  ABMPROVINCIA.CONTENEDOR1.P
+
 
 
 
@@ -8470,8 +8473,10 @@ FRAME1.PAGE1.KITBUSCAOALTAENCTAIBTO.TXTID.INIT
 
 
 
+
 l activo: NUMERO MAIN
 08-03-2017 13:49:06 , Error: No se encuentra la variable 'LETRA'. Linea : lcLetra = CsrPrefitermi.letra Error :         12 Ultimo Alias Activo: CSRPREFITERMI Ultimo registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000B5E101JD.TMP Ultimo Cont
+
 
 
 
@@ -8519,8 +8524,10 @@ rol activo: NUMERO MAIN
 
 
 
+
 00B5E102UB.TMP Ultimo Control activo: NUMERO MAIN
 09-03-2017 14:28:24 , Error: No se encuentra el alias 'CSRRETECOMP'. Linea : .proximonro		= lcanioafip + strzero(CsrReteComp.numero,9) Error :         13 Ultimo Alias Activo: CSRPREFIJONROCONST Ultimo registro:          3  DBF: C:\USERS\ADMIN\APPDATA\LOC
+
 
 
 
@@ -8564,8 +8571,10 @@ AL\TEMP\000079JD043F.TMP Ultimo Control activo: NUMERO REGCTACTE.KEYPRESS
 
 
 
+
 ctividad ,0 as consumoint FROM CsrMovCtacte WHERE RECNO()=1 AND id=0 INTO CURSOR CsrAuxMovctacte READWRITE Error :          1 Ultimo Alias Activo:  Ultimo registro:          0  DBF:  Ultimo Control activo:  REGCTACTE.LOAD
 09-03-2017 14:43:56 , Error: No se encuentra la variable 'NOMIMPRESORA'. Linea : .impresora		= IIF(LEN(TRIM(CsrReteComp.nompuerto))#0,CsrReteComp.nompuerto,CsrReteComp.nomimpresora) Error :         12 Ultimo Alias Activo: CSRRETECOMP Ultimo registro:    
+
 
 
 
@@ -8605,8 +8614,10 @@ ctividad ,0 as consumoint FROM CsrMovCtacte WHERE RECNO()=1 AND id=0 INTO CURSOR
 
 
 
+
 ctividad ,0 as consumoint FROM CsrMovCtacte WHERE RECNO()=1 AND id=0 INTO CURSOR CsrAuxMovctacte READWRITE Error :          1 Ultimo Alias Activo:  Ultimo registro:          0  DBF:  Ultimo Control activo:  REGCTACTE.LOAD
 09-03-2017 15:11:06 , Error: No se encuentra la propiedad TIPOIMPRESORA. Linea : IF .tipoimpresora#3 AND .idimpresora#0 Error :       1734 Ultimo Alias Activo: CSRAUXPLANCUE Ultimo registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\00004LC900VE
+
 
 
 
@@ -8642,8 +8653,10 @@ ctividad ,0 as consumoint FROM CsrMovCtacte WHERE RECNO()=1 AND id=0 INTO CURSOR
 
 
 
+
 MP Ultimo Control activo:  REGCTACTE.KEYPRESS
 09-03-2017 16:05:56 , Error: No se encuentra la variable 'DETALLE'. Linea : thisform.proximonrorete = detalle Error :         12 Ultimo Alias Activo: CSRRETECOMP Ultimo registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\00004LC904PK.TMP Ultimo 
+
 
 
 
@@ -8675,8 +8688,10 @@ Control activo:  REGCTACTE.CMDIMPRIMIR.CLICK
 
 
 
+
 o: CDIRECCION REGFACCPRA.CONTAINERENCABEZA.KITBUSCAOALTAENCTACTE.LOSTFOCUS
 10-03-2017 13:47:16 , Error: No se encuentra la propiedad NRETENCION. Linea : lnRetencion = this.oReteIbto.oDatos.nRetencion Error :       1734 Ultimo Alias Activo: CSRAUXPLANCUE Ultimo registro:         11  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\00006RY
+
 
 
 
@@ -8704,8 +8719,10 @@ H01K3.TMP Ultimo Control activo:  REGFACCPRA.KEYPRESS
 
 
 
+
 H01K3.TMP Ultimo Control activo:  REGFACCPRA.CONTENEDORREGISTRO.GRID1.COLUMN5.TEXT1.VALID
 10-03-2017 13:47:57 , Error: No se encuentra la propiedad NRETENCION. Linea : lnRetencion = this.oReteIbto.oDatos.nRetencion Error :       1734 Ultimo Alias Activo: CSRAUXPLANCUE Ultimo registro:         11  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\00006RY
+
 
 
 
@@ -8729,8 +8746,10 @@ H01K3.TMP Ultimo Control activo:  REGFACCPRA.CONTENEDORREGISTRO.GRID1.COLUMN5.TE
 
 
 
+
 ol activo:  REGFACCPRA.KEYPRESS
 10-03-2017 13:59:34 , Error: No se encuentra el alias. Linea : IF RECCOUNT(lcaliasseek)#0 Error :         13 Ultimo Alias Activo: CSRAUXPLANCUE Ultimo registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\00005YIX01XA.TMP Ultimo Control activo:  R
+
 
 
 
@@ -8750,8 +8769,10 @@ EGPROVIBBTO_2.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.TXTEXISTE1.INIT
 
 
 
+
 EGPROVIBBTO_2.CONTENEDORMANUAL.KITBUSCAOALTAENPROVINCIA.TXTEXISTE1.INIT
 10-03-2017 16:49:51 , Error: No se encuentra la propiedad LNKEYCODE. Linea : IF  this.Value#0 AND thisform.lnkeycode=13 Error :       1734 Ultimo Alias Activo: CSRAUXRETE Ultimo registro:          2  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\000012BT031O.TM
+
 
 
 
@@ -8767,8 +8788,10 @@ P Ultimo Control activo: CUENTA REGPROVIBBTO_2.GRID1.COLUMN1.TEXT1.LOSTFOCUS
 
 
 
+
 gistro:          0  DBF:  Ultimo Control activo:  MAIN
 15-03-2017 15:56:56 , Error: No se encuentra el alias. Linea : Oca = GETCURSORADAPTER(lcalias) Error :         13 Ultimo Alias Activo: CSRAUXRETE Ultimo registro:          3  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\00001JBD06LP.TMP Ultimo Control activo: 
+
 
 
 
@@ -8780,8 +8803,10 @@ IMPORTE REGFACCPRA.KEYPRESS
 
 
 
+
 IMPORTE REGFACCPRA.KEYPRESS
 15-03-2017 16:07:53 , Error: No se encuentra el alias. Linea : Oca = GETCURSORADAPTER(lcalias) Error :         13 Ultimo Alias Activo: CSRAUXRETE Ultimo registro:          2  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\00001JBD07D7.TMP Ultimo Control activo: 
+
 
 
 
@@ -8789,8 +8814,11 @@ NOMBRE REGPROVIBBTO_2.GRID1.COLUMN2.TEXT1.LOSTFOCUS
 15-03-2017 16:08:56 , Error: No se encuentra el alias. Linea : Oca = GETCURSORADAPTER(lcalias) Error :         13 Ultimo Alias Activo: CSRAUXRETE Ultimo registro:          2  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\00001JBD07D7.TMP Ultimo Control activo: 
 
 
+
  REGPROVIBBTO_2.GRID1.COLUMN2.TEXT1.LOSTFOCUS
 15-03-2017 16:40:34 , Error: No se encuentra la propiedad LHAYRETENCION. Linea : this.oReteIbto.oDatos.lHayRetencion = .t. Error :       1734 Ultimo Alias Activo:  Ultimo registro:          0  DBF:  Ultimo Control activo:  REGPROVIBBTO_2.ACEPTAR1.CLICK
 16-03-2017 13:16:24 , Error: El archivo 'syop.prg' no existe. Linea : syop() Error :          1 Ultimo Alias Activo: CSRAUXRETE Ultimo registro:          3  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\0000AQ6H09C1.TMP Ultimo Control activo: CUENTA REGFACCPRA.
+
 KEYPRESS
 20-03-2017 14:32:46 , Error: No se encuentra el alias. Linea : IF RECCOUNT('CsrDecimal')#0 Error :         13 Ultimo Alias Activo:  Ultimo registro:          0  DBF:  Ultimo Control activo:  RESCTACTE.IMPRIMIR_VISTAPREVIA1.INIT
+31-03-2017 12:33:57 , Error: No se encuentra la variable 'CSRCBAPERCE'. Linea : IF lntasaib=-1 AND CsrProviPerce.id = CsrCBAPerce &&Jurisdiccion coincide en ciudad de bsas. Error :         12 Ultimo Alias Activo: CSRPRODUCTO Ultimo registro:          1  DBF: C:\USERS\ADMIN\APPDATA\LOCAL\TEMP\000034EH00U0.TMP Ultimo Control activo:  MAIN
