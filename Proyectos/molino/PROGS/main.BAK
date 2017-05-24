@@ -43,8 +43,6 @@ cRutaCAE	= sys(5)+CURDIR()+"caevacio.jpg"
 cLogoFac	= SYS(5)+CURDIR()+"logofac.jpg"
 
 If lldesarrollo
-	DEBUG
-	SUSPEND 
 	
    lcdd=L+'\xsoftmolino\proyectos\molino\'
 *-- RUTA
