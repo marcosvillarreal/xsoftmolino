@@ -2,3 +2,6 @@
 24-05-2017 , CAJA [  20140725]: No existe la caja 20140725 en la gestion. La misma sera creada.
 24-05-2017 , CAJA [  20140724]: No existe la caja 20140724 en la gestion. La misma sera creada.
 24-05-2017 , CAJA [  20140725]: No existe la caja 20140725 en la gestion. La misma sera creada.
+04-07-2017 , CAJA [  20170703]: No existe la caja 20170703 en la gestion. La misma sera creada.
+04-07-2017 , CAJA [  20170703]: No existe la caja 20170703 en la gestion. La misma sera creada.
+04-07-2017 , CAJA [  20170703]: No existe la caja 20170703 en la gestion. La misma sera creada.
