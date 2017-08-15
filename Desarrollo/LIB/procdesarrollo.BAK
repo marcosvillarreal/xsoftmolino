@@ -1,3 +1,16 @@
+
+FUNCTION Retardo
+LPARAMETERS nSec
+*nSec = Numero de segundos de retardo
+LOCAL nSecond1,nSecond2
+nSecond1 = SECONDS()
+nSecond2 = SECONDS()
+DO WHILE nSecond1 + nSec > nSecond2
+	nSecond2 = SECONDS()
+ENDDO 
+ENDFUNC 
+
+
 FUNCTION LenTrim
 PARAMETERS cDato
 
@@ -474,7 +487,7 @@ RETURN RIGHT(lcfecha,2)+"-"+LEFT(RIGHT(lcfecha,4),2)+"-"+LEFT(lcfecha,4)
 FUNCTION SaveSQL
 PARAMETERS lcCmd,lcArchivo,llgenera
 llgenera = IIF(PCOUNT()<3,.f.,llgenera)
-
+stop()
 IF LEN(LTRIM(lcCmd))=0
 	RETURN 
 ENDIF 
